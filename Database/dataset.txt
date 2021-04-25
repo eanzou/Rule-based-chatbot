@@ -1,0 +1,2166 @@
+	elephant	how much do elephants weight at birth?	120 KILOGRAMS
+	elephant	how long is the elephant's gestation period?	22 MONTHS
+	elephant	how long may elephants live?	70 YEARS
+	elephant	where was the largest elephant ever recorded shot?	ANGOLA
+	elephant	what did aristotle say about elephants?	"ARISTOTLE ONCE SAID THE ELEPHANT WAS ""THE BEAST WHICH PASS08_SETH ALL OTHERS IN WIT AND MIND """
+	elephant	why does the phrase 'elephants never forget' have no metaphorical meaning?	BECAUSE IT REFERS LITERALLY TO ELEPHANTS SUPPOSEDLY HAVING AN EXCELLENT MEMORY
+	elephant	how do elephants communicate over long distances?	BY PRODUCING AND RECEIVING LOW FREQUENCY SOUND
+	elephant	what part of an elephant is very important for temperature regulation?	EARS
+	elephant	what land animal has the largest brain?	ELEPHANT
+	elephant	is the asian elephant larger than the african?	NO
+	elephant	has tusklessness become a rare abnormality?	NO
+	elephant	what land animal is larger than an elephant?	NONE
+	elephant	how many living species of asian elephants are there?	ONE
+	elephant	what are the elephant's ears important for?	TEMPERATURE REGULATION
+	elephant	how many living species of african elephants are there?	THE AFRICAN ELEPHANT GENUS CONTAINS TWO OR ARGUABLY THREE LIVING SPECIES
+	elephant	what is the world population of asian elephants?	THE WORLD POPULATION OF ASIAN ELEPHANTS ?«‘ ALSO CALLED INDIAN ELEPHANTS OR ELEPHAS MAXIMUS ?«‘ IS ESTIMATED TO BE AROUND 60 000
+	elephant	how many species of african elephants have been proposed?	THREE
+	elephant	when do african elephants lie down?	WHEN THEY ARE SICK OR WOUNDED
+	elephant	are elephants the largest land animals alive today?	YES
+	elephant	can an elephant kill a rhinoceros?	YES
+	elephant	are elephants good swimmers?	YES
+	elephant	are elephant populations in west africa generally small and fragmented?	YES
+	elephant	is an elephant's skin tough?	YES
+	elephant	are elephants mammals?	YES
+	elephant	have elephants been used as working animals?	YES
+	elephant	do they prefer forested areas?	YES
+	elephant	is an asian elephant smaller than an african elephant?	YES
+	kangaroo	what is the average life expectancy of a kangaroo?	4 TO 6 YEARS
+	kangaroo	what is a collective noun for a kangaroo?	A MOB TROOP OR COURT
+	kangaroo	where do joeys complete postnatal development?	A POUCH CALLED A MARSUPIUM
+	kangaroo	what is responsible for converting the hydrogen byproduct of fermentation into acetate?	BACTERIA
+	kangaroo	why do kangaroos have a wide bite?	BECAUSE OF GRAZING
+	kangaroo	who asked a nearby local what the creatures were called?	CAPTAIN JAMES COOK AND NATURALIST SIR JOSEPH BANKS
+	kangaroo	what kinds of changes have larger kangaroos adapted much better to?	CHANGES WROUGHT TO THE AUSTRALIAN LANDSCAPE BY HUMANS
+	kangaroo	different species of kangaroos eat what?	DIFFERENT DIETS
+	kangaroo	what method of locomotion do kangaroos use?	HOPPING
+	kangaroo	what method is used by kangaroos to travel?	HOPPING
+	kangaroo	"what do kangaroos use for ""crawl-walking?"""	ITS HIND FEET
+	kangaroo	what is a collective noun for kangaroos?	MOB TROOP OR COURT
+	kangaroo	is a kangaroo a reptile?	NO
+	kangaroo	do kangaroos have many natural predators?	NO
+	kangaroo	are kangaroos farmed to any extent?	NO
+	kangaroo	what are vehicles that frequent isolated roads often fitted with?	ROO BARS
+	kangaroo	what is used to protect a vehicale from a kangaroo?	ROO BARS
+	kangaroo	what are four species that are commonly referred to as kangaroos?	THE RED KANGAROO THE EASTERN GREY KANGAROO THE WESTERN GREY KANGAROO AND THE ANTILOPINE KANGAROO
+	kangaroo	what are some extinct predators of the kangaroo?	THE THYLACINE
+	kangaroo	who also discovered that less than three percent of kangaroos exposed to the virus developed blindness ?	VETERINARIANS
+	kangaroo	is a kangaroo on the australian coat of arms?	YES
+	kangaroo	"was james cook the first to record the name ""kangooroo?"""	YES
+	kangaroo	are wild kangaroos shot for meat?	YES
+	kangaroo	have kangaroos fared well since european s08_settlement?	YES
+	kangaroo	do kangaroos eat plants?	YES
+	kangaroo	is a kangaroo a marsupial?	YES
+	kangaroo	is the kangaroo an herbivour?	YES
+	kangaroo	are kangaroos shy?	YES
+	kangaroo	are kangaroos and wallabies adept swimmers?	YES
+	kangaroo	have kangaroos dazzled by headlights or startled by engine noise been known to leap in front of cars ?	YES
+	kangaroo	is a collision with a vehicle capable of killing a kangaroo ?	YES
+	kangaroo	was the game of marn grook played using a ball made from kangaroo by the kurnai people ?	YES
+	kangaroo	"have kangaroos large , powerful hind legs , large feet adapted for leaping , a long muscular tail for balance , and a small head ?"	YES
+	kangaroo	"is a kangaroo a marsupial from the family macropodidae -lrb- macropods , meaning (`` ` large foot ('' ' -rrb-?"	YES
+	kangaroo	have larger kangaroos adapted much better to changes?	YES
+	koala	do populations also extend for considerable distances inland in regions with enough moisture to support suitable woodlands?	POPULATIONS ALSO EXTEND FOR CONSIDERABLE DISTANCES INLAND IN REGIONS WITH ENOUGH MOISTURE TO SUPPORT SUITABLE WOODLANDS
+	koala	does the koala fill the same ecological role as the sloth of south america?	THE KOALA FILLS THE SAME ECOLOGICAL ROLE AS THE SLOTH OF SOUTH AMERICA
+	koala	"were the koalas of south australia largely exterminated during the early part of the 20th century, but the state has since been repopulated with victorian stock?"	THE KOALAS OF SOUTH AUSTRALIA WERE LARGELY EXTERMINATED DURING THE EARLY PART OF THE 20TH CENTURY BUT THE STATE HAS SINCE BEEN REPOPULATED WITH VICTORIAN STOCK
+	koala	what happened in the early 20th century?	THE KOALAS OF SOUTH AUSTRALIA WERE LARGELY EXTERMINATED
+	koala	is the long term viability of the koala therefore threatened by genetic weakness?	THE LONG TERM VIABILITY OF THE KOALA IS THEREFORE THREATENED BY GENETIC WEAKNESS
+	koala	do koalas have a slow metabolism?	YES
+	koala	"is the koala found in coastal regions of eastern and southern australia, from near adelaide to the southern part of cape york peninsula?"	YES
+	koala	did eucalypt forests grow in the place of rainforests?	YES THE KOALA DID NOT SPECIALISE IN A DIET OF EUCALYPTUS UNTIL THE CLIMATE COOLED AND EUCALYPT FORESTS GREW IN THE PLACE OF RAINFORESTS
+	butterfly	what allows the butterfly to evade predators?	A BUTTERFLY'S HIND WINGS ALLOW THE BUTTERFLY TO EVADE PREDATORS
+	butterfly	what happens if a wing is removed?	IF A RING IS REMOVED THE OTHER THREE WILL GROW TO A LARGER SIZE
+	butterfly	where was there a vast swarm of butterflies?	IN KYOTO THERE WAS A VAST SWARM OF BUTTERFLIES
+	butterfly	does a black moth mean that someone has died?	IN THE PHILIPPINES A BLACK BUTTERFLY OR MOTH MEAN THAT SOMEONE HAS DIED
+	butterfly	do butterflies carry more pollen than hymenoptera?	NO BUTTERFLIES CARRY LESS POLLEN THAN HYMENOPTERA
+	butterfly	do butterflies make sounds?	SOME BUTTERFLIES MAKE SOUNDS
+	butterfly	what butterfly is migratory?	THE MONARCH BUTTERFLY IS MIGRATORY
+	butterfly	what is the outer layer of the cuticle made of?	THE OUTER LAYER OF THE CUTICLE IS MADE OF OF A MIXTURE OF CHITIN AND SPECIALIZED PROTEINS
+	butterfly	do butterflies have two eyes?	YES BUTTERFLIES HAVE TWO EYES
+	antwerp	what is antwerp?	ANTWERP IS A CITY AND MUNICIPALITY IN BELGIUM
+	antwerp	where is the city of antwerp?	ANTWERP IS IN BELGIUM
+	antwerp	antwerp is to the east of what river?	ANTWERP IS TO THE EAST OF THE SCHELDT RIVER
+	antwerp	what is the population of the city of antwerp?	ANTWERP'S POPULATION IS 472 071
+	antwerp	how many municipalities does antwerp have?	NONE ANTWERP IS A MUNICIPALITY
+	antwerp	is antwerp a city?	YES
+	antwerp	is antwerp a municipality?	YES
+	antwerp	is antwerp in belgium?	YES
+	antwerp	why is antwerp important to fashion?	YES
+	lobster	what is the mean level of mercury in american lobsters?	0 31 PPM
+	lobster	how many legs do lobsters have?	10
+	lobster	where are lobsters found?	IN ALL OCEANS
+	lobster	are lobsters kosher?	NO
+	lobster	what is the caridoid escape reaction?	SWIMMING BACKWARDS QUICKLY BY CURLING AND UNCURLING THEIR ABDOMEN
+	lobster	are lobsters invertebrates?	YES
+	lobster	did the moche people worship lobsters?	YES
+	lobster	do lobsters feel pain?	YES
+	lobster	do lobsters have blue blood?	YES
+	abraham_lincoln	who suggested lincoln grow a beard?	11 YEAR OLD GRACE BEDELL
+	abraham_lincoln	how many long was lincoln's formal education?	18 MONTHS
+	abraham_lincoln	how long was lincoln's legal career?	23 YEARS
+	abraham_lincoln	who was the general in charge at the battle of antietam?	GENERAL MCCLELLAN
+	abraham_lincoln	which county was lincoln born in?	HARDIN COUNTY
+	abraham_lincoln	what trail did lincoln use a farmers' almanac in? 	"HE DEFENDED WILLIAM ""DUFF"" ARMSTRONG"
+	abraham_lincoln	who assassinated lincoln?	JOHN WILKES BOOTH
+	abraham_lincoln	when did lincoln first serve as president?	MARCH 4 1861
+	abraham_lincoln	did lincoln mother die of pneumonia?	NO
+	abraham_lincoln	was abraham lincoln the first president of the united states?	NO
+	abraham_lincoln	how old was lincoln in 1816?	SEVEN
+	abraham_lincoln	why did lincoln issue the emancipation proclamation?	THE GOAL WAS TO WEAKEN THE REBELLION WHICH WAS LED AND CONTROLLED BY SLAVE OWNERS
+	abraham_lincoln	what did the legal tender act of 1862 establish?	THE UNITED STATES NOTE THE FIRST PAPER CURRENCY IN UNITED STATES HISTORY
+	abraham_lincoln	was abraham lincoln the sixteenth president of the united states?	YES
+	abraham_lincoln	did lincoln sign the national banking act of 1863?	YES
+	abraham_lincoln	did lincoln beat john c. breckinridge in the 1860 election?	YES
+	abraham_lincoln	did lincoln start his political career in 1832?	YES
+	abraham_lincoln	did lincoln ever represent alton & sangamon railroad?	YES
+	abraham_lincoln	did lincoln win the election of 1860?	YES
+	abraham_lincoln	do scholars rank lincoln among the top three presidents?	YES
+	abraham_lincoln	did lincoln have 18 months of schooling?	YES
+	abraham_lincoln	was lincoln chosen as a presidential candidate in 1860?	YES
+	abraham_lincoln	did abraham lincoln live in the frontier?	YES
+	abraham_lincoln	did lincoln's wife's family support slavery?	YES
+	alessandro_volta	how old was alessandro volta when he died?	82
+	alessandro_volta	"how many years ago was it when volta married the daughter of count ludovico peregrini , teresa , with whom he raised three sons?"	215
+	alessandro_volta	for how many years did alessandro volta live?	53
+	alessandro_volta	his passion been always the study of what?	ELECTRICITY
+	alessandro_volta	when did lombardy come under napoleon`s rule?	FROM 1796 TO 1815
+	alessandro_volta	is volta buried in the city of pittsburgh?	NO
+	alessandro_volta	did alessandro volta live to be 80 years old?	NO
+	alessandro_volta	what was alessandro volta`s profession?	PHYSISIST
+	alessandro_volta	where did volta enter retirement?	SPAIN
+	alessandro_volta	what is the battery made by volta credited to be?	THE FIRST CELL
+	alessandro_volta	where did he publish his invention of the voltaic pile battery?	THE PHILOSOPHICAL TRANSACTIONS OF THE ROYAL SOCIETY
+	alessandro_volta	what important electrical unit was named in honor of volta?	THE VOLT
+	alessandro_volta	was volta an italian physicist?	YES
+	alessandro_volta	did volta have a passion for the study of electricity?	YES
+	alessandro_volta	is it a disadvantage for something to be unsafe to handle?	YES
+	alessandro_volta	was lombardy under napoleon's rule in 1800?	YES
+	alessandro_volta	was the italian 10.000 lira banknote created before the euro?	YES
+	alessandro_volta	is the electrolyte sulphuric acid?	YES
+	alessandro_volta	is volta buried in the city  of como?	YES
+	alessandro_volta	was his 1800  paper written in french?	YES
+	alessandro_volta	"before 1796, was lombardy ruled by austria?"	YES
+	alessandro_volta	did he receive the society`s 1794 copley medal?	YES
+	alessandro_volta	did he experiment with individual cells?	YES
+	alessandro_volta	did he become professor of experimental physics at the university of pavia?	YES
+	alessandro_volta	is it true that his passion been always the study of electricity?	YES
+	alessandro_volta	is it true that volta married the daughter of count ludovico peregrini?	YES
+	alessandro_volta	is it true that he published his invention of the voltaic pile battery?	YES
+	alessandro_volta	in what year did he become a professor of physics at the royal school in como?	1774
+	alessandro_volta	when did alessandro volta improve  and popularize the electrophorus?	1775
+	alessandro_volta	when did volta retire?	1819
+	alessandro_volta	"a year before improving and popularizing the electrophorus, what did volta become?"	A PROFESSOR OF PHYSICS AT THE ROYAL SCHOOL IN COMO
+	alessandro_volta	did alessandro volta invent the remotely operated pistol?	ALESSANDRO VOLTA DID INVENT THE REMOTELY OPERATED PISTOL
+	alessandro_volta	who did alessandro volta marry?	ALESSANDRO VOLTA MARRIED TERESA PEREGRINI
+	alessandro_volta	did alessandro volta die and retire in the same place?	ALESSANDRO VOLTA RETIRED AND DIED IN THE SAME PLACE
+	alessandro_volta	how long was alessandro volta a professor at the university of pavia?	ALESSANDRO VOLTA WAS A PROFESSOR AT THE UNIVERSITY OF PAVIA FOR ALMOST 25 YEARS
+	alessandro_volta	was alessandro volta a professor of chemistry?	ALESSANDRO VOLTA WAS NOT A PROFESSOR OF CHEMISTRY
+	alessandro_volta	where was volta born?	COMO
+	alessandro_volta	what did alessandro volta invent in 1800?	IN 1800 ALESSANDRO VOLTA INVENTED THE VOLTAIC PILE
+	alessandro_volta	who made volta a count?	NAPOLEON
+	alessandro_volta	did volta marry before he became professor of experimental physics at the university of pavia?	NO
+	alessandro_volta	was alessandro volta an egyptian?	NO
+	alessandro_volta	was volta made a count in 1810?	NO
+	alessandro_volta	what is the battery made by alessandro volta credited as?	THE BATTERY MADE BY VOLTA IS CREDITED AS THE FIRST ELECTROCHEMICAL CELL
+	alessandro_volta	when was volta made a count by napoleon?	VOLTA WAS MADE A COUNT BY NAPOLEON IN 1810
+	alessandro_volta	what happened in 1810?	VOLTA WAS MADE A COUNT BY NAPOLEON
+	alessandro_volta	was alessandro volta taught in public schools?	VOLTA WAS TAUGHT IN PUBLIC SCHOOLS
+	alessandro_volta	who became a professor of physics at the royal school in como?	VOLTA
+	alessandro_volta	was volta buried where he died or was he buried someplace else?	WHERE HE DIED
+	alessandro_volta	is the battery made by volta credited as the first electrochemical cell?	YES
+	alessandro_volta	is voltas legacy celebrated by a temple on the shore of lake como in the center of the town?	YES
+	alessandro_volta	was alessandro volta born in como?	YES
+	alessandro_volta	was volta taught in public schools?	YES
+	alessandro_volta	wasn't alessandro volta born in como?	YES VOLTA WAS BORN IN COMO ITALY AND WAS TAUGHT IN THE PUBLIC SCHOOLS THERE
+	alessandro_volta	was volta made a count by napoleon in 1810?	YES VOLTA WAS MADE A COUNT BY NAPOLEON IN 1810
+	amedeo_avogadro	who is most noted for his contributions to the theory of molarity and molecular weight?	AMEDEO AVOGADRO
+	amedeo_avogadro	who graduated in ecclesiastical law at the early age of 20 and began to practice?	AMEDEO AVOGADRO
+	amedeo_avogadro	what happened in 1833?	AVOGADRO HAD BEEN RECALLED TO TURIN UNIVERSITY
+	amedeo_avogadro	is it true that he became a professor in 1820?	YES
+	amedeo_avogadro	was lorenzo romano amedeo carlo avogadro an italian savant?	YES
+	amedeo_avogadro	"was amedeo avogadro born in turin august 9th 1776 to a noble ancient family of piedmont, italy?"	YES
+	amedeo_avogadro	is he most noted for his contributions to the theory of molarity and molecular weight?	YES
+	amedeo_avogadro	was king victor emmanuel iii there to pay homage to avogadro ?	YES
+	amedeo_avogadro	is avogadro 's number commonly used to compute the results of chemical reactions ?	YES
+	amedeo_avogadro	did the scientific community not reserve great attention to his theory ?	YES
+	amedeo_avogadro	can the title of this famous 1811 paper be roughly translated into english?	YES
+	amedeo_avogadro	in what year did avogadro stop teaching at turin university?	1823
+	amedeo_avogadro	how many years ago was it when he became a professor of physics at the university of turin?	189
+	amedeo_avogadro	what is avogadro's number?	6 02214199X10 23
+	amedeo_avogadro	what is amedeo avogadro?	A PERSON
+	amedeo_avogadro	what is amedeo avogadro`s first name?	AMEDEO
+	amedeo_avogadro	what is amedeo avogadro`s last name?	AVOGADRO
+	amedeo_avogadro	loschmidt calculated first the value of what?	AVOGADRO'S NUMBER
+	amedeo_avogadro	what is avogadro most noted for?	CONTRIBUTIONS TO THE THEORY OF MOLARITY AND MOLECULAR WEIGHT
+	amedeo_avogadro	what subject did avogadro study first?	ECCLESIASTICAL LAW
+	amedeo_avogadro	where is amedeo avogadro from?	ITALY
+	amedeo_avogadro	did avogadro live in england?	NO
+	amedeo_avogadro	was amedeo avogadro born in north america?	NO
+	amedeo_avogadro	what was amedeo avogadro`s profession?	PROFESSOR OF PHYSICS
+	amedeo_avogadro	how many children did avogadro have?	SIX
+	amedeo_avogadro	what was amedeo avogadro`s birthplace?	TURIN
+	amedeo_avogadro	where was avogadro a professor of physics?	UNIVERSITY OF TURIN
+	amedeo_avogadro	was amedeo avogadro italian?	YES
+	amedeo_avogadro	did amedeo avogadro graduate?	YES
+	amedeo_avogadro	was king victor  emmanuel  iii there to pay  homage  to avogadro?	YES
+	amedeo_avogadro	"in fact, was avogadro `s  famous  1811  paper written in french . )"	YES
+	amedeo_avogadro	is avogadro `s  number commonly used to compute  the results  of chemical reactions?	YES
+	amedeo_avogadro	"hence, can relative molecular  masses be calculated from the masses  of gas samples?"	YES
+	amedeo_avogadro	did he publish his work?	YES
+	amedeo_avogadro	is it true that loschmidt calculated first the value of avogadro number?	YES
+	amedeo_avogadro	"hence , can relative molecular masses be calculated from the masses of gas samples ?"	YES
+	amedeo_avogadro	did avogadro submit his poem?	YES
+	amedeo_avogadro	"can the title of this famous 1811 paper be roughly translated into english as ""essay on determining the relative masses of the elementary molecules of bodies"" ?"	YES
+	amedeo_avogadro	avogadro did not actually use what word?	ATOM
+	amedeo_avogadro	the number of elementary entities in 1 mole of a substance is known as what?	AVOGADRO CONSTANT
+	amedeo_avogadro	why did avogadro lose his chair at the university of turin?	AVOGADRO LOST HIS CHAIR AT THE UNIVERSITY OF TURIN BECAUSE HE WAS ACTIVE IN THE REVOLUTIONARY MOVEMENTS OF 1821 AGAINST THE KING OF SARDINIA
+	amedeo_avogadro	in what language was his 1811 paper published?	AVOGADRO'S 1811 PAPER WAS PUBLISHED IN FRENCH
+	amedeo_avogadro	what does avogadro's law state?	AVOGADRO'S LAW STATES THAT THE RELATIONSHIP BETWEEN THE MASSES OF THE SAME VOLUME OF DIFFERENT GASES AT THE SAME TEMPERATURE AND PRESSURE CORRESPONDS TO THE RELATIONSHIP BETWEEN THEIR RESPECTIVE MOLECULAR WEIGHTS
+	amedeo_avogadro	who was avogadro's wife?	FELICITA MAZZ
+	amedeo_avogadro	who showed that avogadro's theory held in dilute solutions?	JACOBUS HENRICUS VAN HOFF
+	amedeo_avogadro	who first calculated the value of avogadro's number?	JOHANN JOSEF LOSCHMIDT
+	amedeo_avogadro	what would a german call avogadro's number?	LOSCHMIDT NUMBER
+	amedeo_avogadro	"in 1820, avogadro became a professor of physics where?"	UNIVERSITY OF TURIN
+	amedeo_avogadro	did he become a professor before the revolutionary movements against the king of sardinia?	YES
+	amedeo_avogadro	did johann josef loschmidt first calculate the value of avogadro's number?	YES
+	amedeo_avogadro	is amedeo avogadro italian?	YES
+	amedeo_avogadro	is avogadro hailed as a founder of the atomic-molecular theory?	YES
+	amedeo_avogadro	is avogadro's number used to compute the results of chemical reactions?	YES
+	amedeo_avogadro	was amedeo avogadro was born in turin?	YES
+	amedeo_avogadro	was avogadro a  professor at the university of turin?	YES
+	amedeo_avogadro	was he a member of the royal superior council on public instruction?	YES
+	anders_celsius	who determined the dependence of the boiling of water with atmospheric pressure?	ANDERS CELSIUS
+	anders_celsius	who was the first to perform and publish careful experiments aiming at the definition of an international temperature scale on scientific grounds ?	ANDERS CELSIUS
+	anders_celsius	what happened from 1730 to 1744?	HE WAS PROFESSOR OF ASTRONOMY AT UPPSALA UNIVERSITY
+	anders_celsius	the celsius crater on the moon is what?	NAMED AFTER HIM
+	anders_celsius	is it true that he published a collection in 1738?	NO
+	anders_celsius	what is named after him?	THE CELSIUS CRATER ON THE MOON
+	anders_celsius	what happened in 1745?	THE SCALE WAS REVERSED
+	anders_celsius	is it true that thermometer had 100 for the freezing point?	YES
+	anders_celsius	was celsius born in uppsala in sweden?	YES
+	anders_celsius	"was anders celsius (november 27, 1701 april 25, 1744) a swedish astronomer?"	YES
+	anders_celsius	is the celsius crater on the moon named after him?	YES
+	anders_celsius	is the celsius crater on the moon named after him ?	YES
+	anders_celsius	was celsius born in uppsala in sweden ?	YES
+	anders_celsius	did he not determine the dependence of the boiling of water with atmospheric pressure -lrb- in excellent agreement with modern data -rrb- ?	YES HE DID
+	anders_celsius	had his thermometer 100 for the freezing point of water and 0 for the boiling point ?	YES IT HAD
+	anders_celsius	which temperature scale did celsius propose?	THE CELSIUS TEMPERATURE SCALE
+	anders_celsius	when did anders celcius publish his observations on the aurora borealis?	1733
+	anders_celsius	how old was celsius when he died?	42
+	anders_celsius	how old was anders celsius when he died?	42
+	anders_celsius	what is temperature would water have to be to be halfway between its standard boiling and freezing point?	50
+	anders_celsius	what is the boiling point of water dependent on?	ATMOSPHERIC PRESSURE
+	anders_celsius	what is anders celsius`s last name?	CELSIUS
+	anders_celsius	what did anders celsius determine about the boiling of water?	DEPENDENCE WITH ATMOSPHERIC PRESSURE
+	anders_celsius	he published a collection of what?	OBSERVATIONS
+	anders_celsius	what was anders celsius`s profession?	PROFESSOR OF ASTRONOMY
+	anders_celsius	what is the difference between celsius' original temperature scale and the one we use today?	SCALE WAS REVERSED
+	anders_celsius	"whad did celsius report in his paper ""observations of two persistent degrees on a thermometer""?"	THE FREEZING POINT IS INDEPENDENT OF LATITUDE
+	anders_celsius	where was celsius born?	UPPSALA IN SWEDEN
+	anders_celsius	was celsius born in uppsala  in sweden?	YES
+	anders_celsius	is the celsius  crater  on the moon named after him?	YES
+	anders_celsius	"was anders celsius  ( november 27 ,  1701  april 25 ,  1744  ) a swedish  astronomer?"	YES
+	anders_celsius	was anders celsius the first  to perform  and  publish  careful experiments  aiming at the definition  of an international  temperature  scale  on scientific grounds?	YES
+	anders_celsius	was he professor at uppsala university?	YES
+	anders_celsius	is it true that he published a collection of 316 observations?	YES
+	ant	"do the ants eat plants, meats, or both?"	BOTH
+	ant	where are bullet ants located?	BULLET ANTS ARE LOCATED IN CENTRAL AND SOUTH AMERICA
+	ant	how do most ants travel?	BY WALKING
+	ant	what are the ant colonies that lack queens called?	COLONIES THAT LACK QUEENS ARE CALLED GAMERGATE COLONIES
+	ant	what organs gives a bull ant its good sight?	COMPOUND EYES
+	ant	what may happen to red fire ants if we use boiling water on the queen?	DIE
+	ant	ultraviolet vision was first discovered in ants by sir who in 1881?	JOHN LUBBOK
+	ant	who wrote about ants in a tramp abroad?	MARK TWAIN
+	ant	what is the most common color of ants?	MOST ANTS ARE RED OR BLACK
+	ant	is the ant a marsupial?	NO
+	ant	do all ants build nests?	NO NOT ALL ANTS BUILD NESTS
+	ant	are ants found in antartica?	NO THERE ARE NO ANTS IN ANTARCTICA
+	ant	do worker ants have wings?	NO WORKER ANTS DO NOT HAVE WINGS
+	ant	"in ant colonies, what are the fertile female ants called?"	QUEENS
+	ant	what are the three segments of an ant?	THE HEAD MESOSOMA AND METASOMA ARE THE THREE DISTINCT BODY SEGMENTS
+	ant	are ants used in cuisine?	YES
+	ant	are several species of ants able to use the earths magnetic field?	YES
+	ant	did ants evolve from wasp-like ancestors in the mid-cretaceous period between 110 and 130 million years ago and diversified after the rise of flowering plants?	YES
+	ant	do ants belong to the hymenoptera order?	YES
+	ant	do some caterpillars produce vibrations as well as sounds?	YES
+	ant	does an ant's head contain sensory organs?	YES
+	ant	do ants belong to the same order as bees?	YES ANTS BELONG TO THE SAME ORDER AS BEES
+	ant	do male ants take flight before females?	YES MALE ANTS TAKE FLIGHT BEFORE FEMALES
+	ant	are termites actually more closely related to cockroaches as well as mantids?	YES TERMITES ARE ACTUALLY MORE CLOSELY RELATED TO COCKROACHES AS WELL AS MANTIDS
+	ant	are they easily identified by their elbowed antennae and a distinctive node-like structure that forms a slender waist?	YES THEY ARE EASILY IDENTIFIED BY THEIR ELBOWED ANTENNAE AND A DISTINCTIVE NODE LIKE STRUCTURE THAT FORMS A SLENDER WAIST
+	ant	do ants thrive in most ecosystems?	YES
+	arabic_language	can syllables begin with a vowel?	NO
+	arabic_language	the sociolinguistic situation of arabic provides a prime example of what?	THE LINGUISTIC PHENOMENON OF DIGLOSSIA
+	arabic_language	are calligraphers held in great esteem?	YES
+	arabic_language	have many european languages borrowed numerous words from it?	YES
+	arabic_language	"are pronouns in literary arabic marked for person , number and gender ?"	YES
+	arabic_language	"however , are non-human plural nouns grammatically considered to be feminine singular ?"	YES
+	arabic_language	how many people speak the arabic language?	280 MILLION PEOPLE
+	arabic_language	egyptian arabic is spoken by how many in egypt?	76 MILLION
+	arabic_language	hassan massoudy is a master of what genre?	ARABIC CALLIGRAPHY
+	arabic_language	why is arabic related to islam?	ARABIC IS THE LITURGICAL LANGUAGE OF ISLAM
+	arabic_language	why does arabic heavily influence european languages?	ARABIC WAS A MAJOR VEHICLE OF CULTURE IN EUROPE AND THE ARAB AND EUROPEAN CIVILIZATIONS ARE GEOGRAPHICALLY CLOSE
+	arabic_language	the most active academies of arabic language are found where?	DAMASCUS AND CAIRO
+	arabic_language	what is the only variety of modern arabic that has acquired official language status?	MALTESE
+	arabic_language	when was arabic calligraphy invented?	MANY STYLES WERE DEVELOPED AFTER 786
+	arabic_language	where are the western arabic numerals used?	NORTH AFRICA
+	arabic_language	where is arabic spoken?	THE MIDDLE EAST AND NORTH AFRICA
+	arabic_language	does modern standard arabic continue to evolve like other languages?	YES
+	arabic_language	is arabic a central semitic language?	YES
+	arabic_language	is arabic classified alongside semitic languages?	YES
+	arabic_language	is arabic the largest member of the semitic language family?	YES
+	arabic_language	is hassaniya arabic spoken in mauritania?	YES
+	arabic_language	was arabic a major vehicle of culture in europe?	YES
+	bee	what do people commonly call cleptoparasitic bees?	CUCKOO BEES
+	bee	how did vespoid wasps evolve?	FROM PREDATORY ANCESTORS
+	bee	what do humans use bees for?	HONEY
+	bee	where do bees live?	IN COLONIES
+	bee	when do bumblebee colonies reach peak population?	MID TO LATE SUMMER
+	bee	why do honey bee queens continue to lay eggs during the foraging season?	TO REPLACE DAILY CASUALTIES
+	bee	is a bee an insect?	YES
+	bee	are bees related to ants?	YES
+	bee	have managed populations of european honey bees experienced substantial declines?	YES
+	beetle	how many species of beetles are there?	ABOUT 350 000
+	beetle	who or what vary greatly in form within the coleoptera?	ANTENNAE
+	beetle	what are the similarities between beetles and grasshoppers?	BEETLES HAVE MOUTHPARTS SIMILAR TO THOSE OF GRASSHOPPERS
+	beetle	what are prey of various animals including birds and mammals?	BEETLES
+	beetle	how can beetle larvae be differentiated from other insect larvae?	BY THEIR HARDENED OFTEN DARKENED HEAD THE PRESENCE OF CHEWING MOUTHPARTS AND SPIRACLES ALONG THE SIDES OF THE BODY
+	beetle	what is the study of beetles called?	COLEOPTEROLOGY
+	beetle	which type of beetle is a pest of potato plants?	COLORADO POTATO BEETLE
+	beetle	when are sperm cells transferred to the female?	DURING PAIRING
+	beetle	which defense mechanism uses colour or shape to deceive potential enemies?	MIMICRY
+	beetle	can beetles be found in polar regions?	NO
+	beetle	is the adephaga suborder larger than the polyphaga suborder?	NO
+	beetle	do carrion beetles eat dung?	NO
+	beetle	what do beetles eat?	SOME ARE GENERALISTS EATING BOTH PLANTS AND ANIMALS OTHER BEETLES ARE HIGHLY SPECIALISED IN THEIR DIET
+	beetle	what are the three sections of a beetle?	THE HEAD THE THORAX AND THE ABDOMEN
+	beetle	what was given by aristotle for the hardened shield like forewings?	"THE NAME ""COLEOPTERA"""
+	beetle	what happened on plants and fungi?	THEY ARE FOOD TO BEETLES
+	beetle	are beetles insects?	YES
+	beetle	do beetles antennae function primarily as organs of smell?	YES
+	beetle	are certain species of beetles considered pests?	YES
+	beetle	is a beetle's general anatomy uniform?	YES
+	beetle	are beetles endopterygotes?	YES
+	beetle	"is it possible that there are more than 350,000 species of beetles?"	YES
+	beetle	are many beetles territorial?	YES
+	beetle	are beetles endopterygotes with complete metamorphosis?	YES
+	beetle	is there a thriving industry in the collection of beetle specimens for amateur and professional collectors ?	YES
+	beetle	have coleopterists formed organisations to facilitate the study of beetles ?	YES
+	beetle	"is the study of beetles called coleopterology , and its practitioners are coleopterists ?"	YES
+	beetle	may a single female lay from several dozen to several thousand eggs during her lifetime ?	YES
+	beetle	can beetles be found in almost all habitats?	YES
+	beijing	"as of august 1st, 2006, how many trains stop daily at the beijing railway station or the beijing west railway station?"	167
+	beijing	when did yuan shikai die?	1916
+	beijing	when did beijing host the olympic games?	2008
+	beijing	"in 1949, where did communist forces enter without a fight?"	BEIPING
+	beijing	when was the an shi rebellion launched?	IN 755 AD
+	beijing	where does air pollution in beijing come from?	SURROUNDING CITIES AND PROVINCES
+	beijing	what is the name of a university (or similar institution for imparting higher education) in beijing?	TSINGHUA UNIVERSITY
+	beijing	"does beijing mean ""northern capital""?"	YES
+	beijing	are the caves of dragon bone hill near the village of zhoukoudian in fangshan district?	YES
+	beijing	are hutongs disappearing?	YES
+	beijing	are famous middle  schools  in beijing :?	YES
+	berlin	"why is vattenfall shifting towards reliance on cleaner, renewable energy sources?"	BECAUSE BURNING LIGNITE PRODUCES HARMFUL EMISSIONS
+	berlin	is berlin the largest city in germany?	BERLIN IS GERMANY'S LARGEST CITY
+	berlin	is berlin the capital city of germany?	BERLIN IS THE CAPITAL CITY OF GERMANY
+	berlin	how many occupation zones was germany divided into after the war?	GERMANY WAS DIVIDED INTO FOUR OCCUPATION ZONES AFTER THE WAR
+	berlin	when did berlin give up its status as a free hanseatic city?	IN 1451 BERLIN GAVE UP ITS STATUS AS A FREE HANSEATIC CITY
+	berlin	is the nauen plain north of berlin?	NO THE NAUEN PLAIN STRETCHES TO THE WEST OF BERLIN
+	berlin	where is the berliner dom located?	ON THE SPREE ISLAND
+	berlin	where was popkomm held before moving to berlin?	POPKOMM WAS HELD IN COLOGNE BEFORE MOVING TO BERLIN
+	berlin	which berlin building did architect norman foster remodel in the 1990s?	REICHSTAG BUILDING
+	berlin	is schloss charlottenburg the largest existing palace in berlin?	SCHLOSS CHARLOTTENBURG IS THE LARGEST EXISTING PALACE IN BERLIN
+	berlin	which is the busiest airport in berlin?	TEGEL INTERNATIONAL AIRPORT IS THE BUSIEST AIRPORT IN BERLIN
+	berlin	which two sports events did the olympiastadion host?	THE 1936 SUMMER OLYMPICS AND THE 2006 FIFA WORLD CUP FINAL
+	berlin	where is the bust of queen nefertiti?	THE BUST OF QUEEN NEFERTITI IS IN THE ALTES MUSEUM
+	berlin	where does the german president live?	THE GERMAN PRESIDENT LIVES WEST OF THE CENTER SCHLOSS BELLEVUE
+	berlin	which building is the site of the german parliament?	THE REICHSTAG BUILDING
+	berlin	what are the names of the two zoos in berlin?	THE TWO ZOOS IN BERLIN ARE THE ZOOLOGISCHER GARTEN BERLIN AND THE TIERPARK FRIEDRICHSFELDE
+	berlin	is berlin the headquarters of springer?	YES BERLIN IS THE HEADQUARTERS OF SPRINGER
+	berlin	does the gendarmenmarkt border the french cathedral?	YES THE GENDARMENMARKT BORDERS THE FRENCH CATHEDRAL
+	blaise_pascal	of whose continual poor health was the cause never precisely determined?	BLAISE PASCAL
+	blaise_pascal	who was the eldest sibling?	GILBERTE
+	blaise_pascal	could blaise pascal move without crutches?	HE COULD MOVE WITHOUT CRUTCHES UNTIL A PARALYTIC ATTACK IN 1647
+	blaise_pascal	from what did pascal suffer throughout his life?	ILL HEALTH
+	blaise_pascal	what did pascal argue was as perfect as possible?	THE PROCEDURE USED IN GEOMETRY
+	blaise_pascal	what is the best physician?	TIME
+	blaise_pascal	was blaise pascal a mathematician of the first order?	YES
+	blaise_pascal	has the name pascal been given to the si unit of pressure?	YES
+	blaise_pascal	"aside from the provincial letters' religious influence, were they popular as a literary work?"	YES
+	blaise_pascal	when did his father die?	1651
+	blaise_pascal	how old was pascal when he died?	1662 08 19
+	blaise_pascal	how old was pascal when he lost his mother?	3
+	blaise_pascal	who was blaise pascal's father?	√?¬Ä∞TIENNE PASCAL
+	blaise_pascal	who was pascal's younger sister?	JACQUELINE
+	blaise_pascal	did pascal write about cycloid before 1658?	NO
+	blaise_pascal	crowds of believers came to see and kiss the thorn; all of catholic where acclaimed a miracle?	PARIS
+	blaise_pascal	who died the next morning?	PASCAL
+	blaise_pascal	what led pascal to his religious conversion?	SICKNESS AND JANSENISM
+	blaise_pascal	did pascal also write in defense of the scientific method?	YES
+	blaise_pascal	did pascal have poor health throughout his life?	YES
+	blaise_pascal	is there a programming language called pascal?	YES
+	blaise_pascal	"was he a child prodigy who was educated by his father, a civil servant?"	YES
+	blaise_pascal	was pascal a french mathematician?	YES
+	blaise_pascal	"was pascal's earliest work in the natural and applied sciences where he made important contributions to the construction of mechanical calculators, the study of fluids, and clarified the concepts of pressure and vacuum by generalizing the work of evangelista torricelli?"	YES
+	blaise_pascal	wasn't blaise pascal a work of desargues on conic sections?	YES IT WAS
+	calvin_coolidge	what years were coolidge's two sons born in?	1906 AND 1908
+	calvin_coolidge	who appointed harlan fiske stone to the supreme court?	COOLIDGE
+	calvin_coolidge	what did coolidge do after graduating from amherst?	COOLIDGE MOVED TO NORTHAMPTON MASSACHUS08_SETTS
+	calvin_coolidge	why did coolidge not attend law school?	COST
+	calvin_coolidge	in 1905 coolidge met and married whom?	GRACE ANNA GOODHUE
+	calvin_coolidge	what caused calvin jr.'s death?	HEART ATTACK
+	calvin_coolidge	when did coolidge meet and marry grace anna goodhue?	IN 1905
+	calvin_coolidge	when was coolidge born?	JULY 4 1872
+	calvin_coolidge	of what state was coolidge governor?	MASSACHUS08_SETTS
+	calvin_coolidge	was calvin coolidge the twenty-ninth vice president?	NO
+	calvin_coolidge	was coolidge the thirteenth president of the united states?	NO
+	calvin_coolidge	is calvin jr. older than john coolidge?	NO
+	calvin_coolidge	was john calvin coolidge jr. was born in las vegas?	NO
+	calvin_coolidge	was coolidge opposed in the republican nomination for governor of massachus08_setts in 1918?	NO
+	calvin_coolidge	have there been other us presidents that have visited cuba?	NO
+	calvin_coolidge	what fraternity was coolidge a member of?	PHI GAMMA DELTA
+	calvin_coolidge	where did coolidge's grandfather had government offices?	PLYMOUTH
+	calvin_coolidge	which state were coolidge born in?	PLYMOUTH WINDSOR COUNTY VERMONT
+	calvin_coolidge	what period of rapid economic growth did the united states experience during coolidge's presidency?	"THE ""ROARING TWENTIES"""
+	calvin_coolidge	when did he drop john from his name?	UPON GRADUATING FROM COLLEGE
+	calvin_coolidge	"was calvin coolidge born in plymouth, windsor county, vermont?"	YES
+	calvin_coolidge	did coolidge graduate from black river academy?	YES
+	calvin_coolidge	was calvin coolidge republican?	YES
+	calvin_coolidge	was calvin coolidge a governor of massachus08_setts?	YES
+	calvin_coolidge	did coolidge get in amherst college?	YES
+	calvin_coolidge	did coolidge meet and marry grace anna goodhue?	YES
+	canada	how many provinces and territories does canada have?	A FEDERATION NOW COMPRISING TEN PROVINCES AND THREE TERRITORIES
+	canada	what is the largest religious group in canada?	ACCORDING TO 2001 CENSUS 77 1% OF CANADIANS IDENTIFIED AS BEING CHRISTIANS OF THIS CATHOLICS MAKE UP THE LARGEST GROUP 43 6% OF CANADIANS THE LARGEST PROTESTANT DENOMINATION IS THE UNITED CHURCH OF CANADA ABOUT 16 5% OF CANADIANS DECLARE NO RELIGIOUS AFFILIATION AND THE REMAINING 6 3% WERE AFFILIATED WITH RELIGIONS OTHER THAN CHRISTIANITY OF WHICH THE LARGEST IS ISLAM NUMBERING 1 9% FOLLOWED BY JUDAISM 1 1%
+	canada	what was the consitution act formerly called?	BRITISH NORTH AMERICA ACT
+	canada	how has canada helped un peacekeeping efforts?	CANADA HAS PLAYED A LEADING ROLE IN UN PEACEKEEPING EFFORTS DURING THE SUEZ CRISIS OF 1956 LESTER B PEARSON EASED TENSIONS BY PROPOSING THE INCEPTION OF THE UNITED NATIONS PEACEKEEPING FORCE CANADA HAS SINCE SERVED IN 50 PEACEKEEPING MISSIONS INCLUDING EVERY UN PEACEKEEPING EFFORT UNTIL 1989
+	canada	what is the largest country in the world?	CANADA IS THE SECOND LARGEST COUNTRY IN THE WORLD AFTER RUSSIA AND LARGEST ON THE CONTINENT
+	canada	how do cuba and declining participation relate?	CANADA MAINTAINS FULL RELATIONS WITH BOTH
+	canada	what happened in 1867?	CANADA WAS FORMED AS A FEDERAL SEMI AUTONOMOUS POLITY
+	canada	what is one significant non-official language?	CHINESE
+	canada	which countries established colonies in canada?	FANCE AND BRITAIN
+	canada	what is canada's national unemployment rate?	IN OCTOBER 2007 CANADA'S NATIONAL UNEMPLOYMENT RATE IS 5 9%
+	canada	is canada's official language zulu?	NO
+	canada	did continental european immigrants not s08_settle the prairies ?	NO
+	canada	did mainland nova scotia not come under british rule with the treaty of utrecht    (: ; ?	NO
+	canada	did canadian soldiers win the battle of vimy ridge in 1917?	NO IT DID NOT
+	canada	is an official language of canada german?	NO IT IS NOT
+	canada	"in addition to port royal, where else did samuel de champlain establish a s08_settlement?"	QUEBEC CITY
+	canada	what arrived in britain?	THE FIRST CANADIAN ARMY UNITS IN WW II
+	canada	what was canada's most important industry until the 1800s?	THE FUR TRADE
+	canada	what have been inhabited for millennia by aboriginal peoples?	THE LANDS
+	canada	what did canada adopt in 1965?	THE MAPLE LEAF FLAG
+	canada	where is the most densely populated part of canada?	THE MOST DENSELY POPULATED PART OF THE COUNTRY IS THE QUEBEC CITY WINDSOR CORRIDOR ALONG THE GREAT LAKES AND SAINT LAWRENCE RIVER IN THE SOUTHEAST
+	canada	when did canada have one of the largest armed forces in the world?	WORLD WAR II
+	canada	did france cede nearly all of its colonies in europe in 1763?	YES
+	canada	is canada a member of the oecd?	YES
+	canada	is it true that it angered many residents of the thirteen colonies?	YES
+	canada	is it true that provinces have a large degree of autonomy?	YES
+	canada	are canada 's two official languages english and french ?	YES
+	canada	are canada 's official national sports ice hockey ( winter ) and lacrosse ( summer ) ?	YES
+	canada	is canada a geographically vast and ethnically diverse country ?	YES
+	canada	"did cartier not use the word ` canada ' to refer to not only that village , but the entire area subject to donnacona , chief at stadacona ?"	YES
+	canada	is it the world 's second largest country by total area?	YES
+	canada	is canada bilingual?	YES IT IS
+	cello	when did the first educational works appear for the cello?	18TH CENTURY
+	cello	what position is used to play the cello?	A GAMBA
+	cello	which harmonics can produce any notes above middle c? 	ARTIFICIAL HARMONICS
+	cello	what is a person who plays the cello called?	CELLIST
+	cello	what cello manufacturer should i buy from if i want to play outside?	LUIS & CLARK
+	cello	"who referred to the cello as ÔøΩbasso de viola da braccio""?"	MONTEVERDI
+	cello	is the purfling just for decoration?	NO
+	cello	are the z-holes used as access points to the interior of the cello? 	NO
+	cello	where is the violincello held?	ON THE SHOULDER
+	cello	what is used to tune a cello?	PEGS ARE USED TO TUNE A CELLO
+	cello	why is there purling on a cello?	TO STOP CRACKS FROM FORMING ****MISSPELLED****
+	cello	what are the two materials that bows are made of traditionally? 	TRADITIONALLY BOWS ARE MADE FROM PERNAMBUCO OR BRAZILWOOD
+	cello	what does violincello mean?	"VIOLINCELLO MEANS ""LITTLE VIOLENE"""
+	cello	what is cello an abbreviation of?	VIOLONCELLO
+	cello	is the violin cello a bowed string instrument?	YES
+	cello	is there cello in performances by rihanna?	YES
+	cello	are cellos constructed with glue?	YES
+	cello	is the cello a stringed instrument?	YES
+	charles-augustin_de_coulomb	when did charles-augustin de coulomb retire to a small estate he possessed at blois?	1789
+	charles-augustin_de_coulomb	how old was charles-augustin de coulomb when he died?	1806
+	charles-augustin_de_coulomb	how many years ago did charles-augustin de coulomb die?	203
+	charles-augustin_de_coulomb	how many years ago did he resign his appointment as intendant de eaux et fontaine ?	220
+	charles-augustin_de_coulomb	"if charles-augustin de coulomb was alive today, how old would he have been?"	273
+	charles-augustin_de_coulomb	for how many years did charles-augustin de coulomb live?	70
+	charles-augustin_de_coulomb	where did charles-augustin de coulomb die?	CHARLES AUGUSTIN DE COULOMB DIED IN PARIS
+	charles-augustin_de_coulomb	when was charles-augustin de coulomb permanently stationed in paris?	CHARLES AUGUSTIN DE COULOMB WAS PERMANENTLY STATIONED IN PARIS IN 1781
+	charles-augustin_de_coulomb	what is the definition of the electrostatic force of attraction and repulsion? 	COULOMB'S LAW
+	charles-augustin_de_coulomb	he discovered an inverse relationship of what?	DISTANCE AND ELECTRIC FORCE
+	charles-augustin_de_coulomb	where is charles-augustin de coulomb from?	FRANCE
+	charles-augustin_de_coulomb	when was charles-augustin de coulomb born?	JUNE 14 1736
+	charles-augustin_de_coulomb	where did the construction of fort bourbon take place?	MARTINIQUE
+	charles-augustin_de_coulomb	did charles-augustin de coulomb find any relationship between electric charges and magnetic poles? 	NO
+	charles-augustin_de_coulomb	did charles-augustin de coulomb live to be 80 years old?	NO
+	charles-augustin_de_coulomb	what contribution did charles-augustin de coulomb make to the field of geotechnical engineering?	RETAINING WALL DESIGN
+	charles-augustin_de_coulomb	was charles-augustin de coulomb a member of the national institute?	YES
+	charles-augustin_de_coulomb	was charles-augustin de coulomb's father's family in montpellier? 	YES
+	charles-augustin_de_coulomb	"was the si  unit  of charge , the  coulomb , named after him?"	YES
+	charles-augustin_de_coulomb	"was coulomb born in angoul„™me,  france ,  to a well  to do  family?"	YES
+	charles-augustin_de_coulomb	"was his father ,  henri  coulomb , inspector of the royal  fields  in montpellier?"	YES
+	charles-augustin_de_coulomb	is coulomb distinguished in the history  of mechanics  and  of electricity and  magnetism?	YES
+	charles-augustin_de_coulomb	"was charles augustin  de coulomb  ( born  june  14 ,  1736 ,  angoul„™me ,  france  -  died august 23 ,  1806 ,  paris ,  france  ) a french  physicist?"	YES
+	charles-augustin_de_coulomb	does coulomb leave a legacy?	YES
+	charles-augustin_de_coulomb	did he publish an important investigation of the laws of friction?	YES
+	charles-augustin_de_coulomb	"was coulomb born in angoul„™me, france, to a well to do family?"	YES
+	charles-augustin_de_coulomb	was his father inspector of the royal fields?	YES
+	charles-augustin_de_coulomb	is it true that coulomb leaves a legacy as a hero?	YES
+	charles-augustin_de_coulomb	who determined to pursue mathematics?	CHARLES AUGUSTIN DE COULOMB
+	charles-augustin_de_coulomb	what happened in 1757 to 1759?	CHARLES AUGUSTIN DE COULOMB JOINED HIS FATHER'S FAMILY IN MONTPELLIER AND TOOK PART IN THE WORK OF THE ACADEMY OF THE CITY
+	charles-augustin_de_coulomb	what happened in 1785?	COULOMB PRESENTED HIS THREE REPORTS ON ELECTRICITY AND MAGNETISM
+	charles-augustin_de_coulomb	was coulomb born in angoulme france to a well-to-do family?	COULOMB WAS BORN IN ANGOUL√?¬™ME FRANCE TO A WELL TO DO FAMILY
+	charles-augustin_de_coulomb	when did charles-augustin de coulomb join his father's family in montpeillier?	FROM 1757 TO 1759 HE JOINED HIS FATHER'S FAMILY IN MONTPELLIER
+	charles-augustin_de_coulomb	whose ideas inspired charles-augustin de coulomb's experiments on the resistance of masonries?	HE CARRIED OUT SEVERAL EXPERIMENTS ON THE RESISTANCE OF MASONRIES WHICH WERE INSPIRED BY THE IDEAS OF PIETER VAN MUSSCHENBROEK ON FRICTION
+	charles-augustin_de_coulomb	what is charles-augustin de coulomb best known for?	HE IS BEST KNOWN FOR DEVELOPING COULOMB'S LAW
+	charles-augustin_de_coulomb	when did coulomb return to paris?	IN 1759
+	charles-augustin_de_coulomb	where is coll„®ge des quatre-nations located?	IN MONTPELLIER
+	charles-augustin_de_coulomb	"did coulomb die in angoul„É‚™me, france, to a well-to-do family?"	NO
+	charles-augustin_de_coulomb	was charles-augustin de coulomb a spanish biologist?	NO HE WAS A FRENCH PHYSICIST
+	charles-augustin_de_coulomb	did charles-augustin de coulomb come from a poor family?	NO HIS MOTHER CAME FROM A WEALTHY FAMILY IN THE WOOL TRADE
+	charles-augustin_de_coulomb	what is coulomb's law?	THE DEFINITION OF THE ELECTROSTATIC FORCE OF ATTRACTION AND REPULSION
+	charles-augustin_de_coulomb	"regarding this topic, what did the revolution do?"	THE REVOLUTION CAUSED COULOMB TO RESIGN HIS APPOINTMENT AS INTENDENT DES EAUX ET FONTAINS AND RETIRE
+	charles-augustin_de_coulomb	did the family move to paris as well as there coulomb studied at the prestigious collge des quatre-nations?	YES
+	charles-augustin_de_coulomb	does coulomb leave a legacy as a pioneer in the field of geotechnical engineering for his contribution to retaining wall design?	YES
+	charles-augustin_de_coulomb	"is he best known for developing coulomb's law, the definition of the electrostatic force of attraction and repulsion?"	YES
+	charles-augustin_de_coulomb	"the si unit of charge, the coulomb, was named after him?"	YES
+	charles-augustin_de_coulomb	was the si unit of charge named after charles-augustin de coulomb?	YES THE SI UNIT OF CHARGE THE COULOMB WAS NAMED AFTER HIM
+	charles-augustin_de_coulomb	was charles-augustin de coulomb ever employed at la rochelle?	YES UPON HIS RETURN TO FRANCE WITH THE RANK OF CAPTAIN HE WAS EMPLOYED AT LA ROCHELLE
+	chinese_language	one-fifth of world population speak some form of what?	CHINESE
+	chinese_language	was old chinese wholly uninflected?	NO
+	chinese_language	is mandarin spoken chinese distinguished by its high level?	NO IT'S DISTINGUISHED BY DIVERSITY
+	chinese_language	are the modern chinese dialects more like a family?	YES
+	chinese_language	is it true that one-fifth of world population speak some form of chinese?	YES
+	chinese_language	how many head entries for character definitions does the zhonghua zihai &#20013;&#21326;&#23383;&#28023; (1994) contain?	54678
+	chinese_language	what does the prc government classify as literacy amongst workers?	A KNOWLEDGE OF 2000 CHARACTERS
+	chinese_language	&#20415;&#24403;/&#20415;&#30070; ‚Äúlunchbox or boxed lunch‚Äù (from bento) and &#26009;&#29702; ‚Äúprepared cuisine‚Äù are loan words from which language?	CHINESE
+	chinese_language	when did classical chinese literature begin?	CLASSICAL CHINESE LITERATURE BEGAN IN THE 14TH TO 11TH CENTUIRES BCE
+	chinese_language	how is the pronunciation of foreign words determined?	FOREIGN WORDS ARE TRANSLITERATED INTO CLOSE MATCH EXISTING CHINESE MORPHEMES
+	chinese_language	what is the most common romanization standard for standard mandarin today?	HANYU PINYIN
+	chinese_language	when was middle chinese used?	MIDDLE CHINESE WAS THE LANGUAGE USED IN THE 6TH THROUGH 1 TH CENTURIES CE
+	chinese_language	what language was used in the zhou and southern dynasties?	OLD CHINESE WAS THE LANGUAGE COMMON DURING THE EARLY AND MIDDLE ZHOU DYNASTY
+	chinese_language	"what is the official standard language used by the people's republic of china, the republic of china, and singapore (where it is called ""huayu"")?"	"PUTONGHUA / GUOYU OFTEN CALLED ""MANDARIN"""
+	chinese_language	how is south china linguistically different from north china?	SOUTH CHINA DISPLAYS MORE LINGUISTIC DIVERSITY
+	chinese_language	how does the government of the people's republic of china often refer to all divisions of the sinitic language(s) besides standard mandarin?	THE GOVERNMENT OF THE PEOPLE'S REPUBLIC OF CHINA REFERS TO ALL DIVISIONS OF THE SINITIC LANGUAGE S BESIDES STANDARD MANDARIN AS FANGYAN
+	chinese_language	what is the total number of chinese words?	THE HANYU DA ZIDIAN INCLUDES 54 678 HEAD ENTRIES FOR CHARACTERS
+	chinese_language	what is the standardized form of spoken chinese?	THE STANDARDIZED FORM OF SPOKEN CHINESE IS STANDARD MANDARIN
+	chinese_language	are all spoken varieties of chinese tonal and analytical?	YES
+	chinese_language	"does ""ketchup"" come from the minnan pronunciation of &#39853;&#27713; (koe-tsiap)?"	YES
+	chinese_language	is fifty percent or more of korean vocabulary of chinese origin?	YES
+	chinese_language	is diglossia a common feature in mainland china and taiwan?	YES DIGLOSSIA IS A COMMON FEATURE IN MAINLAND CHINA AND TAIWAN
+	chinese_language	do linguists often view chinese as a language family?	YES LINGUISTS OFTEN VIEW CHINESE AS A LANGUAGE FAMILY
+	copenhagen	what is the population of copenhagen?	1153615
+	copenhagen	what happened to copenhagen between 1251 and 1255?	A BUNCH OF THINGS
+	copenhagen	why did german troops occupy copenhagen?	BECAUSE IT WAS WW2
+	copenhagen	copenhagen is the capital of what country?	DENMARK
+	copenhagen	why is copenhagen a regional hub?	ITS STRATEGIC LOCATION AND EXCELLENT INFRASTRUCTURE
+	copenhagen	copenhagen is ranked number one worldwide for which things?	MOST LIVABLE CITY IN THE WORLD
+	copenhagen	is copenhagen completely surrounded with water? 	NO
+	copenhagen	what transnational bridge was completed in 2000?	ORESUND BRIDGE
+	cougar	how long are cougar adult males (from nose to tail)?	2 4 METERS
+	cougar	how long is an adult cougar's paw print?	4 INCHES
+	cougar	is a cougar also known as a mountain lion?	A COUGAR IS ALSO KNOWN AS A MOUNTAIN LION
+	cougar	what are the three cat species that are native to canada?	COUGAR BOBCAT CANADIAN LYNX
+	cougar	are cougars larger than jaguars?	COUGARS ARE NOT LARGER THAN JAGUARS
+	cougar	"on average, are cougar males heavier than females?"	ON AVERAGE COUGAR MALES ARE HEAVIER THAN FEMALES
+	cougar	what are some of the cougar's primary food sources?	THE COUGAR'S PRIMARY FOOD SOURCES INCLUDE UNGULATES SUCH AS DEER ELK AND BIGHORN SHEEP AS WELL AS DOMESTIC CATTLE HORSES AND SHEEP PARTICULARLY IN THE NORTHERN PART OF ITS RANGE
+	cougar	what are the three heaviest cats in the world?	THE THREE HEAVIEST CATS IN THE WORLD ARE THE TIGER LION AND JAGUAR
+	cougar	"does the world conservation union consider the cougar a ""least concern"" species?"	"THE WORLD CONSERVATION UNION IUCN CURRENTLY LISTS THE COUGAR AS A ""LEAST CONCERN"" SPECIES"
+	cymbal	what are the most common cymbals?	THE MOST COMMON CYMBALS ARE THE HI HATS CRASH SPLASH RIDE AND CHINA
+	cymbal	what are orchestral crash cymbals technically called?	A PAIR OF CLASH CYMBALS
+	cymbal	from what type of cymbals can a expert player obtain an enormous dynamic range?	AN EXPERT PLAYER CAN OBTAIN AN ENORMOUS DYNAMIC RANGE FROM CRASH CYMBALS
+	cymbal	what is the center of a cymbal called?	BELL
+	cymbal	what have clash cymbals traditionally been accompanied by?	CLASH CYMBALS HAVE TRADITIONALLY BEEN ACCOMPANIED BY THE BASS DRUM PLAYING AN IDENTICAL PART
+	cymbal	"what part of the cymbal gets the best ""crash""?"	EDGE OR RIM
+	cymbal	what greek mythical creatures were depicted holding cymbals?	FAUNS AND SATYRS
+	cymbal	what happens when the center of a cymbal is hit?	IT CAUSES A SOUND WHICH IS IN A HIGHER REGISTER THAN THE REST OF THE CYMBAL
+	cymbal	is the word cymbal derived from a germanic word?	NO
+	cymbal	what is an effective way to accentuate a note?	PLAYING A BASS DRUM PLAYING AN IDENTICAL PART IS AN EFFECTIVE WAY TO ACCENTUATE A NOTE
+	cymbal	what two instruments form the modern drum kit?	THE CYMBALS AND THE DRUM
+	cymbal	what is the second main orchestral use of cymbals?	THE SUSPENDED CYMBAL
+	cymbal	have cymbals been used historically to suggest bacchanal?	YES
+	cymbal	can the origins of cymbals be traced to prehistoric times?	YES
+	cymbal	are cymbals used in moden orchestras?	YES
+	cymbal	can the origins of cymbals be traced back to prehistoric times?	YES
+	cymbal	did the modern hi-hat evolve from clash cymbals?	YES
+	cymbal	how many cymbals typically go in a drum kit?	AT LEAST 3
+	cymbal	what are cymbals made of?	BRASS
+	cymbal	what kinds of musical groups use cymbals?	CYMBALS ARE USED IN MODERN ORCHESTRAS AND MANY MILITARY MARCHING CONCERT AND OTHER BANDS
+	cymbal	what's the timber of ancient cimbals like? disfluent	LIKE THAT OF SMALL HAND BELLS OR OF THE NOTES OF THE KEYED HARMONICA
+	cymbal	does fender make cymbals?	NO
+	cymbal	is one of the parts of a cymbal called a disc?	NO
+	cymbal	what does it sound like to play cymbals with a cello bow?	SQUEALING CAR BRAKES
+	cymbal	what part of the cymbal is the bell?	THE CENTER OF A CYMBAL
+	cymbal	are ride cymbals very common?	YES
+	dhaka	how much area does dhaka cover?	1462 60 SQUARE KILOMETERS
+	dhaka	how many people did the 1970 bhola cyclone kill?	500000
+	dhaka	when is the end of the independence war of bangladesh?	DECEMBER 16 1971
+	dhaka	is university of dhaka older than the dhaka college?	NO
+	dhaka	is dhaka the capital of bangladesh?	YES
+	dhaka	is dhaka located on the eastern banks of the buriganga river?	YES
+	dhaka	is university of dhaka the largest public university in dhaka?	YES
+	dhaka	did the mughals arrive in dhaka?	YES
+	dragonfly	is the dragonfly associated with late summer as well as early autumn?	YES
+	dragonfly	does exposure to air cause the larva to begin breathing?	YES CAPITALIZATION
+	dragonfly	"is it characterized by large multifaceted eyes, two pairs of strong transparent wings, and an elongated body?"	YES
+	drum	how do rock and roll drummers like their drumheads?	DRUMS THAT SOUND LOUD AND DEEP
+	drum	by what name are drums classified as under the percussion group?	MEMBRANOPHONE
+	drum	can some cylindrical shell drums have no drum heads?	NO
+	drum	do drums consist of at least eight membranes?	NO
+	drum	does every drumhead make the same sound?	NO
+	drum	has the design of drums changed recently?	NO
+	drum	how long has the basic design of the drum remained unchanged?	REMAINED VIRTUALLY UNCHANGED FOR THOUSANDS OF YEARS
+	drum	whare is the name for drums that have a s10_set of wires held across some of all of the drum heads?	SNARES
+	drum	what is the second biggest factor affecting the sound produced by a drum?	TENSION
+	drum	who constructed a kit using diatonic and chromatically tuned drums?	TERRY BOZZIO
+	drum	what has the most effect on how a drum sounds?	THE DRUMHEAD
+	drum	drums are usually played by what?	THE HANDS
+	drum	are drums often used in music therapy?	YES
+	drum	are drums usually played by the hands?	YES
+	drum	"do drums consist of at least one membrane, called a drumhead or drum skin, that is stretched over a shell and struck, either directly with parts of a player's body, or with some sort of implement such as a drumstick, to produce sound?"	YES
+	drum	does each type of drum head serve its own musical purpose?	YES
+	drum	had the drums been used in sri lanka since before christ?	YES
+	drum	"have other techniques been used to cause drums to make sound, such as the ``thumb roll''?"	YES
+	drum	is the aburukuwa a type of drum?	YES
+	drum	is the drum a member of the percussion group?	YES
+	drum	aren't drums often used in music therapy?	YES DRUMS ARE OFTEN USED IN MUSIC THERAPY
+	drum	aren't drums usually played by the hands?	YES
+	drum	do many such drums have six to ten tension rods?	YES
+	duck	who is daffy duck?	A SILLY CARTOON CHARACTER
+	duck	what is an economic use of a duck?	BEING FARMED FOR THEIR MEAT
+	duck	what are some economic uses for duck?	BEING FARMED FOR THEIR MEAT EGGS FEATHERS PARTICULARLY THEIR DOWN
+	duck	what kind of ducks feed on land?	DABBLING DUCKS
+	duck	do ducks forage underwater?	DIVING DUCKS AND SEA DUCKS FORAGE UNDERWATER
+	duck	"where did the expression ""a sitting duck"" come from?"	IN MANY AREAS WILD DUCKOF VARIOUS SPECIES INCLUDING DUCKS FARMED AND RELEASED INTO THE WILD ARE HUNTED FOR FOOD OR SPORT BY SHOOTING OR FORMERLY BY DECOYS
+	duck	what does the word duck mean?	IT IS THE COMMON NAME FOR A NUMBER OF SPECIES IN THE ANATIDAE FAMILY OF BIRDS
+	duck	how does a mallard's tongue work?	IT USES SHORT SPIKES TO PUSH STRUGGLING PREY AND OTHER FOOD DOWN ITS THROAT
+	duck	what unrelated water birds are ducks sometimes confused with?	LOONS OR DIVERS GREBES GALLINULES AND COOTS
+	duck	what types of unrelated water birds with similar forms are ducks sometimes confused with?	LOONS OR DIVERS GREBES GALLINULES AND COOTS
+	duck	what are the reasons for hunting wild ducks?	MEAT EGGS AND FEATHERS
+	duck	"do all ducks ""quack""?"	NO
+	duck	what are some common predators of ducks?	PIKE CROCODILIANS AND OTHER AQUATIC HUNTERS
+	duck	what expression is part of a conceptual framework for testing computer systems?	QUACKS LIKE A DUCK
+	duck	are ducks in the arctic northern hemisphere migratory?	SOME ARE
+	duck	what animal attracts the most humor and silliness?	THE DUCK
+	duck	what is the name of a specialized species of duck adapted to catch large fish?	THE SMEW
+	duck	why are ducklings particularly vulnerable?	THEIR INABILITY TO FLY MAKES THEM EASY PREY
+	duck	what economic uses to ducks have?	THEY ARE FARMED FOR THEIR MEAT EGGS AND FEATHERS THEY ARE ALSO KEPT AND BRED BY AVICULTURISTS AND OFTEN DISPLAYED IN ZOOS
+	duck	what makes it more difficult for a diving duck to fly?	THEY ARE HEAVIER
+	duck	what allows a duck to filter water out of the side of their beaks and keep food inside?	TINY ROWS OF PLATES CALLED LAMELLAE
+	duck	is a drake a male?	YES
+	duck	is foie gras often made from ducks?	YES
+	duck	are diving ducks heavier tha dabbling ducks?	YES
+	duck	are adult ducks fast fliers?	YES
+	duck	are ducks an accepted presence in some populated areas?	YES
+	eel	how many species of true eels are there?	APPROXIMATELY 800 SPECIES
+	eel	how do eels begin life?	AS FLAT AND TRANSPARENT LARVAE CALLED LEPTOCEPHALI
+	eel	what types of fins do eels have?	DORSAL ANAL CAUDAL TAIL FINS
+	eel	what do leptocephali eat?	LEPTOCEPHALI EAT SMALL PARTICLES CALLED MARINE SNOW
+	eel	do all eels live in fresh water?	NO
+	eel	is the electric eel a true eel?	NO
+	eel	where is smoked eel considered a delicacy?	NORTHERN GERMANY THE NETHERLANDS DENMARK SWEDEN
+	eel	are most eels predators?	YES
+	eel	is eel blood toxic to humans?	YES
+	egypt	when did organized agriculture appear in the nile valley?	6000 BC
+	egypt	what is the estimated population of egypt?	78 MILLION
+	egypt	what is the poulation of egypt?	78 MILLION PEOPLE
+	egypt	what religions has egypt outlawed?	ALL BUT CHRISTIANITY ISLAM AND JUDAISM
+	egypt	when were the great sphinx and the pyramids of giza built?	DURING THE OLD KINGDOM
+	egypt	since when has egypt been a republic?	JUNE 18 1953
+	egypt	what countries border egypt?	LIBYA SUDAN THE GAZA STRIP AND ISRAEL
+	egypt	is egypt the most populated country in africa?	NO
+	egypt	are there a large number of jews living in egypt today?	NO
+	egypt	is egypt in asia?	NO
+	egypt	during what period was akhenaten a pharaoh?	THE NEW KINGDOM
+	egypt	why does most of egypt's population live near the nile?	THE ONLY ARABLE AGRICULTURAL LAND IS FOUND THERE
+	egypt	is egypt bordered by the gaza strip?	YES
+	egypt	does egypt have political influence in the middle east?	YES
+	egypt	does egypt receive the least rainfall in the world?	YES
+	egypt	does egypt's foreign policy operates along moderate lines?	YES
+	egypt	does snow fall in egypt?	YES
+	english_language	is english a de  jure  official  language  of israel?	NO
+	english_language	what is given for the number of native speakers?	NO FIGURE IS GIVEN FOR THE NUMBER OF NATIVE SPEAKERS
+	english_language	is it true that semantics causes a number of false friends?	TRUE
+	english_language	is english an intonation  language?	YES
+	english_language	is the stressed  syllable called the nuclear  syllable?	YES
+	english_language	does english grammar have minimal inflection?	YES
+	english_language	did old english develop into middle english?	YES
+	english_language	"are books, magazines, and newspapers written in english available?"	YES
+	english_language	is the syntax of german different with different rules?	YES
+	english_language	"here , are all syllables unstressed , except the syllables/words best and done , which are stressed ?"	YES
+	english_language	"are many words describing the navy , types of ships , and other objects or activities on the water of dutch origin ?"	YES
+	english_language	"are local variations in the formal written version of the language quite limited , being restricted largely to the spelling differences between british and american english ?"	YES
+	finland	when did the first verifiable written documents appear?	THE FIRST VERIFIABLE WRITTEN DOCUMENTS APPEARED IN THE TWELFTH CENTURY
+	finland	what is the life expectancy for men in finland?	75 YEARS
+	finland	what is the life expectancy for men?	75 YEARS
+	finland	what is finland's economy like?	A HIGHLY INDUSTRIALISED FREE MARKET ECONOMY
+	finland	which russian army general conquered finland in 1809?	ALEXANDER I
+	finland	what body of water lies to the south of finland?	ARCHIPELAGO SEA
+	finland	what is the most extensively celebrated holiday?	CHRISTMAS
+	finland	who is the most popular rock group in finland?	CMX
+	finland	what is a country with which finland is involved in an international conflict?	FINLAND IS NOT INVOLVED IN INTERNATIONAL CONFLICTS OR BORDER DISPUTES
+	finland	name an animal that is growing in number due to recent conservation efforts	GOLDEN EAGLE
+	finland	what is the biggest city in finland?	GREATER HELSINKI
+	finland	what is the capital city?	HELSINKI
+	finland	were the treaties signed in 1947 and 1948 with the ukraine?	NO
+	finland	is the most read newspaper in finland taloussanomat?	NO
+	finland	is the capital city oslo?	NO
+	finland	does a large proportion of the population speak swedish as its mother tongue?	NO
+	finland	where is finland located?	NORTHERN EUROPE
+	finland	what is the weather like in summer?	RELATIVELY WARM
+	finland	is finnish a member of the baltic-finnic subgroup of the uralic languages?	YES
+	finland	"today, are there more cell phone subscriptions than people in finland?"	YES
+	finland	is matti vanhanen the prime minister of finland?	YES
+	finland	does it have a border with norway?	YES
+	finland	does salmon remain the favorite of fly rod enthusiasts?	YES
+	finland	are there cathedrals scattered all across finland?	YES
+	finland	"according to reader's digest, is finland best for living?"	YES
+	finland	do women live longer than men?	YES
+	finnish_language	who wrote the first novel in finnish?	ALEKSIS KIVI
+	finnish_language	when did proto-uralic language arrive in finland?	AROUND 1900 BCE
+	finnish_language	what are characteristic features of finnish?	CHARACTERISTIC FEATURES OF FINNISH ARE VOWEL HARMONY AND AN AGGLUTINATIVE MORPHOLOGY
+	finnish_language	is finnish threatened by english?	NO
+	finnish_language	where is the kven language spoken?	NORWAY
+	finnish_language	for how long has the classification of dialects spoken outside of finland been a controversial issue?	SINCE FINLAND'S INDEPENDENCE IN 1917
+	finnish_language	what book defined the official finnish language?	THE DICTIONARY OF CONTEMPORARY FINNISH
+	finnish_language	are the dialects of finnish divided into two groups?	YES
+	finnish_language	is finnish an official language of the european union?	YES
+	flute	when did the tin whistle first appear?	12TH CENTURY
+	flute	when was a three-holed flute made from a mammoth tusk discovered?	2004
+	flute	when was the pan flute spread to other parts of europe?	7TH CENTURY BC
+	flute	what does the air stream across this hole create?	A BERNOULLI OR SIPHON
+	flute	what do we refer musicians who play flute?	A FLUTE PLAYER A FLAUTIST OR A FLUTIST
+	flute	what are the oldest known musical instruments?	A THREE HOLED FLUTE MADE FROM A MAMMOTH TUSK AND TWO FLUTES MADE FROM SWAN'S BONES
+	flute	is the flute a musical instrument?	YES
+	flute	is it possible to open flutes at one or both ends?	YES
+	flute	are indian concert flutes available in standard pitches?	YES
+	flute	when was the pan flute used in greece?	7TH CENTURY BC
+	flute	what is the most basic form of the flute?	A FLUTE CAN BE AN OPEN TUBE WHICH IS BLOWN LIKE A BOTTLE
+	flute	how can a flute's volume be increased?	A FLUTE'S VOLUME CAN BE INCREASED BY MAKING ITS RESONATOR AND TONE HOLES LARGER
+	flute	why is a police whistle very wide for its pitch?	A FLUTE'S VOLUME CAN GENERALLY BE INCREASED BY MAKING ITS RESONATOR AND TONE HOLES LARGER
+	flute	what are the two main varieties of indian flutes?	BANSURI AND THE VENU OR PULLANGUZHAL
+	flute	how does a flute player change the pitch of the sound?	BY OPENING AND CLOSING HOLES IN THE BODY OF THE INSTRUMENT
+	flute	what is the earliest extant transverse flute?	CHI
+	flute	where was the oldest flute ever discovered found?	GERMANY
+	flute	what material is a chi flute fashioned from?	LACQUERED BAMBOO
+	flute	are western flutes simpler than indian flutes?	NO
+	flute	when did concert flutes begin appearing in concert ensembles?	THE 16TH CENTURY
+	flute	how many main varieties of indian flutes are currently used?	TWO
+	flute	when does a flute produce sound?	WHEN A STREAM OF AIR DIRECTED ACROSS A HOLE IN THE INSTRUMENT CREATES A VIBRATION OF AIR AT THE HOLE
+	flute	can a flute be played with several different air sources?	YES
+	flute	do open-ended flutes have brighter timbres?	YES
+	flute	has the flute been dated to prehistoric times?	YES
+	flute	was the pan flute used in greece?	YES
+	fox	how long do most foxes live?	2 TO 3 YEARS
+	fox	what is caching food?	BURYING IT FOR LATER CONSUMPTION
+	fox	in what country did fox hunting originate?	IN THE UNITED KINGDOM
+	fox	are fennec foxes endangered?	NO
+	fox	do foxes damage fruit on farms?	NO
+	fox	what is the smallest species of fox?	THE FENNEC FOX
+	fox	what are female foxes called?	VIXENS
+	fox	are foxes wary of humans?	YES
+	fox	does the diet of foxes include reptiles?	YES
+	french_language	how many years ago did african people spread across 31 francophone african countries can speak french either as a first or second language?	2 YEARS AGO
+	french_language	"what is widely used by the lebanese, especially for administrative purposes?"	FRENCH
+	french_language	"in old french, was the plural  for animal animals?"	YES
+	french_language	is catalan the only  official  language  of andorra?	YES
+	french_language	"in belgium, however, is quatre-vingts universally used?"	YES
+	french_language	is french taught in many schools as a primary language along with arabic?	YES
+	french_language	is french descendant of the latin language?	YES
+	french_language	are there also a variety of regional languages in addition?	YES
+	french_language	is it true that france signed the european charter for regional languages?	YES
+	french_language	are the prefixes en- and em- always nasalized ?	YES
+	gerald_ford	how many eagle scouts were involved in ford's funeral procession?	ABOUT 400
+	gerald_ford	who did ford nominate for vice president?	BOB DOLE
+	gerald_ford	what positions ford played in the school football team?	CAPTAIN
+	gerald_ford	"what did ford receive on april 13, 1942?"	FORD RECEIVED A COMMISSION AS ENSIGN IN THE US NAVAL RESERVE
+	gerald_ford	for how long was ford a member of the house of representatives?	FORD SERVED FOR OVER EIGHT YEARS AS THE REPUBLICAN MINORITY LEADER OF THE UNITED STATES HOUSE OF REPRESENTATIVES
+	gerald_ford	what did ford say about his biological father?	HE WAS ABUSIVE AND HAD A HISTORY OF HITTING HIS MOTHER
+	gerald_ford	which future heisman trophy winner did ford tackle?	JAY BERWANGER
+	gerald_ford	what district was ford elected from?	MICHIGAN'S 5TH CONGRESSIONAL DISTRICT
+	gerald_ford	"did ford get an award called ""congressman's congressman""?"	NO
+	gerald_ford	was ford active about vietnamese affairs?	NO
+	gerald_ford	had ford's wife married before?	NO
+	gerald_ford	has another us president been an eagle scout?	NO
+	gerald_ford	have more than five presidents lived past the age of 90?	NO
+	gerald_ford	"did grand rapids supporters not urge him to take on bartel j. jonkman , the incumbent republican congressman ?"	NO
+	gerald_ford	how do kwajalein and eniwetok relate?	THE MONTEREY SUPPORTED LANDINGS AT BOTH LOCATIONS
+	gerald_ford	did they not claim ford 's pardon was quid pro quo in exchange for nixon 's resignation ?	THEY DID CLAIM FORD'S PARDON WAS QUID PRO QUO
+	gerald_ford	was ford a member of the house of representatives?	YES
+	gerald_ford	was gerald ford a member of delta kappa epsilon?	YES
+	gerald_ford	did ford attend the university of michigan?	YES
+	gerald_ford	is ford related with the assassination of john f. kennedy?	YES
+	gerald_ford	was gerald ford the 38th president of the united states?	YES
+	gerald_ford	did gerald ford serve as the republican minority leader of the house of representatives?	YES
+	gerald_ford	was ford an eagle scout?	YES
+	gerald_ford	did ford need to do extra work to pay for college?	YES
+	gerald_ford	was ford released from the hospital?	YES
+	gerald_ford	"was ford interred at his presidential museum in grand rapids, michigan?"	YES
+	gerald_ford	is ford one of only four former presidents to live to 90 or more years of age ?	YES
+	gerald_ford	was ford the last surviving member of the warren commission ?	YES
+	german_language	how many years ago was the luther bible by martin luther printed?	475
+	german_language	"in switzerland, is „ˇ used at all?"	NO
+	german_language	are feminines declined in the singular?	NO
+	german_language	is 9 %  of the internet  population german?	NO
+	german_language	does a  tz indicate that the preceding vowel is short?	NO
+	german_language	is german an inflected  language?	YES
+	german_language	are there two common  word  orders?	YES
+	german_language	is german written using the latin  alphabet?	YES
+	german_language	was the luther bible by martin luther printed?	YES
+	german_language	"are there 622,650 speakers of german in canada?"	YES
+	german_language	are there also large populations of german ancestry in mexico?	YES
+	german_language	would bundesl„§nder not accept north rhine westphalia and bavaria ?	YES
+	german_language	"have adverbs of time to appear in the third place in the sentence , just after the predicate ?"	YES
+	ghana	where is old ghana in relation to present ghana?	500 MILES NORTH
+	ghana	what is the dominant religion in ghana?	CHRISTIAN
+	ghana	who was kwame nkrumah?	FOUNDER AND FIRST PRESIDENT
+	ghana	who is the head of state of ghana?	JOHN AGYEKUM KUFUOR
+	ghana	what are the two subfamilies of the native ghanaian languages?	KWA AND GUR
+	ghana	did the dutch build the elmina castle?	NO
+	ghana	is ghana in asia?	NO
+	ghana	what european countries established states in ghana?	PORTUGUAL FRANCE BRITAIN NETHERLANDS
+	ghana	who makes up ghana's parliament?	THE NEW PATRIOTIC PARTY AND NATIONAL DEMOCRATIC CONGRESS
+	ghana	what is the weather like at lake volta?	WARM AND COMPARATIVELY DRY
+	ghana	what does the word ghana mean?	WARRIOR KING
+	ghana	does ghana have twice the per capita output of the poorer countries in west africa?	YES
+	ghana	is english ghana's official language?	YES
+	ghana	is english the official language?	YES
+	ghana	is ghana's head of state john agyekum kufuor?	YES
+	giant_panda	how many different names did chinese writings give to the panda?	20
+	giant_panda	when was the giant panda's genome sequenced?	2009
+	giant_panda	where do giant pandas live?	A FEW MOUNTAIN RANGES IN CENTRAL CHINA
+	giant_panda	is the population of wild giant  pandas growing?	ACCORDING TO SOME REPORTS YES
+	giant_panda	what are the two subspecies of giant pandas?	AILUROPODA MELANOLEUCA MELANOLEUCA AND AILUROPODA MELANOLEUCA QINLINGENSIS
+	giant_panda	what foods do pandas eat?	BAMBOO
+	giant_panda	why is the giant panda an endangered species?	IT IS THREATENED BY CONTINUED HABITAT LOSS AND BY A VERY LOW BIRTHRATE
+	giant_panda	what is panda diplomacy?	LOANS OF GIANT PANDAS TO AMERICAN AND JAPANESE ZOOS
+	giant_panda	do pandas hibernate?	NO
+	giant_panda	how long does it take for the panda cubs skin to turn gray?	ONE TO TWO WEEKS
+	giant_panda	how many subspecies of the giant panda are there?	TWO
+	giant_panda	what family is the panda a part of?	URSIDAE
+	giant_panda	do giant pandas attack humans?	YES
+	giant_panda	has the dragon historically served as china's national emblem?	YES
+	giant_panda	is the giant panda a carnivore?	YES
+	giant_panda	is the giant panda a mammal?	YES
+	giant_panda	is the giant panda a terrestrial animal?	YES
+	giant_panda	is the giant panda an endangered species?	YES
+	giraffe	what will a giraffe use to clean off any bugs that appear on its face?	EXTREMELY LONG TONGUE
+	giraffe	what areas can giraffes inhabit?	INHABIT SAVANNAS GRASSLANDS OR OPEN WOODLANDS
+	giraffe	how do giraffes defend themselves?	WITH A POWERFUL KICK
+	giraffe	do both sexes of giraffe have horns?	YES
+	giraffe	do giraffes give birth standing up?	YES
+	giraffe	are giraffes hunted for their hides?	YES
+	giraffe	do male giraffes weigh more than female giraffes?	YES
+	giraffe	do male giraffes have larger horns than female giraffes?	YES
+	giraffe	are male females generally taller than female giraffes?	YES
+	gray_wolf	why is it beneficial for alpha males and females to forcefully prevent other wolves from mating?	A PACK CAN ONLY SUPPPORT ONE LITTLER PER YEAR
+	gray_wolf	how much do wolves weigh?	BETWEEN 32 AND 68 KILOGRAMS
+	gray_wolf	where do wolves have scent glands?	BETWEEN A WOLF'S TOES
+	gray_wolf	what kinds of coats do wolves have?	BULKY COATS WITH TWO LAYERS
+	gray_wolf	to what genus does the gray wolf belong?	CANIS
+	gray_wolf	what type of tools do biologists use to capture wolves for tagging?	DARTING AND FOOT HOLD TRAPS
+	gray_wolf	"forward, erect ears and slightly bristle hackles are a sign of what in wolves?"	DOMINANCE
+	gray_wolf	why do wolves howl?	"HOWLING HELPS PACK MEMBERS KEEP IN TOUCH ALLOWING THEM TO COMMUNICATE EFFECTIVELY IN THICKLY FORESTED AREAS OR OVER GREAT DISTANCES HOWLING ALSO HELPS TO CALL PACK MEMBERS TO A SPECIFIC LOCATION HOWLING CAN ALSO SERVE AS A DECLARATION OF TERRITORY AS SHOWN IN A DOMINANT WOLF&APOS S TENDENCY TO RESPOND TO A HUMAN IMITATION OF A ""RIVAL"" WOLF IN AN AREA THE WOLF CONSIDERS ITS OWN"
+	gray_wolf	where is the largest gray wolf population thought to be found?	KAZAKHSTAN
+	gray_wolf	when do wolves molt?	LATE SPRING OR EARLY SUMMER
+	gray_wolf	are gray wolves native to north america?	NO CURRENT THEORY SUGGESTS THAT IT'S FROM EURASIA
+	gray_wolf	what is surplus killing?	SURPLUS KILLING IS DEFINED AS THE KILLING OF SEVERAL PREY ANIMALS TOO NUMEROUS TO EAT AT ONE SITTING
+	gray_wolf	do wolves leave their pack?	THEY LEAVE THEIR BIRTH PACK WHEN THEY REACH SEXUAL MATURITY
+	gray_wolf	does the gray wolf share an ancestry with the domestic dog?	YES
+	gray_wolf	do wolf pups tend to have darker fur than adults?	YES
+	gray_wolf	is the gray wolf a mammal?	YES
+	gray_wolf	are a wolf's teeth its main weapons?	YES
+	gray_wolf	are wolves built for stamina?	YES
+	grover_cleveland	which election did grover cleveland win?	1884 AND 1892 PRESIDENTIAL ELECTIONS
+	grover_cleveland	what did cleveland die from?	A HEART ATTACK
+	grover_cleveland	why did cleveland want to hide his cancer surgery from the public?	BECAUSE OF THE FINANCIAL DEPRESSION OF THE COUNTRY
+	grover_cleveland	who were grover cleveland's parents?	CLEVELAND WAS BORN IN CALDWELL NEW JERSEY TO THE REVEREND RICHARD CLEVELAND AND ANNE NEAL
+	grover_cleveland	who did cleveland run against in 1884?	FORMER SENATOR JAMES G BLAINE OF MAINE
+	grover_cleveland	who lost control of his party to the agrarians and silverites in 1896?	GROVER CLEVELAND
+	grover_cleveland	where was grover cleveland married?	IN THE BLUE ROOM IN THE WHITE HOUSE
+	grover_cleveland	when did he die?	JUNE 24 1908
+	grover_cleveland	was grover cleveland born in new york?	NO
+	grover_cleveland	did grover cleveland support women's suffrage?	NO
+	grover_cleveland	was grover cleveland the twenty-seventh president of the united states?	NO
+	grover_cleveland	how many years after cleveland left office did the u.s. win the spanish-american war?	ONE
+	grover_cleveland	how many children did grover cleveland have?	SIX
+	grover_cleveland	what did cleveland's opponents say in 1884 to counter his innocent image?	THAT HE HAD FATHERED AN ILLEGITIMATE CHILD
+	grover_cleveland	did grover cleveland win the 1884 election?	YES
+	grover_cleveland	is it true that he sent in federal troops to chicago?	YES
+	grover_cleveland	"was cleveland born in caldwell, new jersey to the reverend richard cleveland and anne neal?"	YES
+	grover_cleveland	"was grover cleveland elected sheriff of erie county, new york?"	YES
+	grover_cleveland	was cleveland 's portrait on the u.s. $ 1000 bill from 1928 to 1946 ?	YES
+	grover_cleveland	is he buried in the princeton cemetery of the nassau presbyterian church ?	YES
+	grover_cleveland	did the department of the interior not charge that the rights of way for this land must be returned to the public because the railroads failed to extend their lines according to agreements ?	YES
+	grover_cleveland	"did the team , sedating cleveland with nitrous oxide -lrb- laughing gas -rrb- , not remove his upper left jaw and portions of his hard palate ?"	YES
+	grover_cleveland	is grover cleveland honest?	YES
+	grover_cleveland	was grover cleveland married in the whitehouse?	YES
+	grover_cleveland	"when was he elected sheriff of erire county, new york?"	YES
+	guitar	how old is the oldest known representation of a guitar-like intrument being played?	3 300 YEARS OLD
+	guitar	why are harp guitars difficult to classify?	AS THERE ARE MANY VARIATIONS WITHIN THIS TYPE OF GUITAR
+	guitar	where is the headstock located?	AT THE END OF THE GUITAR
+	guitar	which guitars use three single-coil pickups?	FENDER STATOCASTER TYPE GUITARS
+	guitar	what is located at the end of the guitar neck furthest from the body?	HEADSTOCK
+	guitar	whom are guitars made and repaired by?	LUTHIERS
+	guitar	what are modern guitar strings constructed of?	METAL POLYMERS ANIMAL OR PLANT PRODUCT MATERIALS
+	guitar	what is the point called that is bolted or glued to the body of the guitar?	NECK JOINT
+	guitar	is an acoustic guitar dependent on an external device?	NO
+	guitar	how many strings does a guitar typically have?	SIX
+	guitar	what is the bridge used for?	THE TRANSFER OF STRING VIBRATIONS
+	guitar	why do some people believe that left-handed people should learn to play guitars as right-handed people do?	TO STANDARDISE THE INSTRUMENT
+	guitar	what are most electric guitar bodies made of?	WOOD
+	guitar	can guitars be divided into two broad categories?	YES
+	guitar	do picks come in many shapes and sizes?	YES
+	guitar	is a guitar an instrument?	YES
+	guitar	is the battente smaller than a classical guitar?	YES
+	guitar	is the flamenco guitar similar to the classical guitar?	YES
+	henri_becquerel	what happened in 1896?	BECQUEREL ACCIDENTALLY DISCOVERED RADIOACTIVITY
+	henri_becquerel	who won the 1903 nobel prize in physics for discovering radioactivity ?	HENRI BECQUEREL
+	henri_becquerel	he became chief engineer in the department of bridges and highways in what year?	IN 1894
+	henri_becquerel	what led becquerel to investigate the spontaneous emission of nuclear radiation?	PHOGRAPHIC PLATES BEING FULLY EXPOSED
+	henri_becquerel	what happened with a bromide emulsion in two sheets of very thick black paper?	THE PLATE DOES NOT BECOME CLOUDED UPON BEING EXPOSED TO THE SUN FOR A DAY
+	henri_becquerel	is it true that he married louise d??sir??e lorieux in 1890?	YES
+	henri_becquerel	is it true that he shared the nobel prize in physics?	YES
+	henri_becquerel	was becquerel elected permanent secretary of the acad??mie des sciences?	YES
+	henri_becquerel	"was becquerel born in paris into a family which, including he and his son jean, produced four generations of scientists?"	YES
+	henri_becquerel	did one places between the phosphorescent substance and the paper a piece of money or a metal screen not pierce with a cut-out design ?	YES
+	henri_becquerel	is there a becquerel crater on the moon and a becquerel crater on mars?	YES
+	henri_becquerel	did he not die at the age of 55 in le croisic ?	YES HE DIED AT THE AGE OF 55
+	henri_becquerel	where was henri becquerel born?	PARIS
+	henri_becquerel	how many years ago was it when he became the third in his family to occupy the physics chair at the musum national d`histoire naturelle?	117
+	henri_becquerel	"if henri becquerel was alive today, how old would he have been?"	157
+	henri_becquerel	in what year did henri becquerel win the nobel prize in physics?	1903
+	henri_becquerel	in what year did henri becquerel die?	1908
+	henri_becquerel	how old was henri becquerel when he died?	53
+	henri_becquerel	for how many years did henri becquerel live?	56
+	henri_becquerel	when was henri becquerel born?	DECEMBER 15 1852
+	henri_becquerel	did henri becquerel intentionally discover radioactivity?	HE DISCOVERED IT ACCIDENTALLY
+	henri_becquerel	what is henri becquerel?	HENRI BECQUEREL WAS A FAMOUS PHYSICIST
+	henri_becquerel	what does henri becquerel do?	HENRI BECQUEREL WAS A PHYSICIST
+	henri_becquerel	was henri becquerel first in his family to occupy the physics chair at the museum national d'histoire naturelle?	NO
+	henri_becquerel	was henri becquerel the sole winner of the 1903 nobel prize in physics?	NO
+	henri_becquerel	did henri becquerel live to be 80 years old?	NO
+	henri_becquerel	where is henri becquerel from?	PARIS
+	henri_becquerel	becquerel wrapped a fluorescent substance in what?	PHOTOGRAPHIC PLATES AND BLACK MATERIAL
+	henri_becquerel	what was henri becquerel`s profession?	PHYSISIST
+	henri_becquerel	was henri becquerel one of the discoverers of radioactivity?	YES
+	henri_becquerel	is the si unit for radioactivity named after him?	YES
+	henri_becquerel	was henri becquerel a french physicist?	YES
+	henri_becquerel	"in 1908, the year  of his death, was becquerel elected permanent secretary  of the acad„©mie  des  sciences?"	YES
+	henri_becquerel	did he become chief engineer in the department of bridges and highways?	YES
+	henri_becquerel	did he share the nobel prize in physics?	YES
+	henri_becquerel	is it true that becquerel wrapped a fluorescent substance in photographic plates?	YES
+	henri_becquerel	is there a becquerel crater on the moon for radioactivity?	YES
+	henri_becquerel	must ‚Ä¶ one conclude from these experiments that the phosphorescent substance in question emits rays which pass through the opaque paper and reduces silver salts ?	YES
+	henri_becquerel	what is the si unit for radioactivity called?	BECQUEREL
+	henri_becquerel	why did bequerel win the nobel prize in physics?	DISCOVERY OF SPONTANEOUS RADIOACTIVITY
+	henri_becquerel	where are there craters named becquerel?	MOON AND MARS
+	henri_becquerel	did he become chief engineer in the department of bridges and highways in 1892?	NO
+	henri_becquerel	whom did he share the nobel prize with?	PIERRE AND MARIE CURIE
+	henri_becquerel	"when becquerel discovered radioactivity, whose work did he investigate?"	WILHELM CONRAD R√∂NTGEN
+	henri_becquerel	did becquerel study science at the „âcole des ponts et chauss„©es?	YES
+	henri_becquerel	was becquerel a french physicist?	YES
+	indonesia	why did indonesia break off relations with the people's republic of china?	ANTI COMMUNIST PURGES EARLY IN THE SUHARTO ERA
+	indonesia	when did islam become the dominant religion in java and sumatra?	BY THE END OF THE 16TH CENTURY
+	indonesia	who has its own political legislature and governor ?	EACH PROVINCE
+	indonesia	"what shares land borders with papua new guinea, east timor and malaysia?"	INDONESIA
+	indonesia	what is jakarta?	INDONESIA'S SPECIAL CAPITAL REGION
+	indonesia	is indonesia a monarchy with a presidential system?	NO
+	indonesia	does indonesia have the world's hightest level of biodiversity?	NO
+	indonesia	was indonesia named after it became an independent country?	NO
+	indonesia	which spice originally attracted europeans to indonesia?	NUTMEG CLOVES AND CUBEB PEPPER
+	indonesia	what happens when the srivijaya kingdom formed trade links?	THE INDONESIAN ARCHIPELAGO BECAME AN IMPORTANT TRADE REGION
+	indonesia	what are the largest and politically dominant ethnic group?	THE JAVANESE
+	indonesia	are the javanese the largest and politically dominant ethnic group in indonesia?	YES
+	indonesia	did the japanese invasion and subsequent occupation during wwii end dutch rule?	YES
+	indonesia	is it true that indonesia has vast areas of wilderness?	YES
+	indonesia	is indonesia a republic?	YES
+	indonesia	are sports in indonesia generally male-orientated?	YES
+	indonesia	is indonesia the world's largest archipelagic state?	YES
+	indonesia	are sports in indonesia generally male-orientated and spectator sports are often associated with illegal gambling ?	YES
+	indonesia	is pencak silat an indonesian martial art ?	YES
+	indonesia	has indonesia the world 's largest muslim population ?	YES
+	indonesia	is it the world 's largest archipelagic state?	YES
+	indonesia	is it the world 's fourth most populous country and the most populous muslim-majority nation?	YES
+	isaac_newton	when did netwon investigate the refraction of light	1670 1672
+	isaac_newton	when was newton's date of birth recorded?	CHRISTMAS DAY DECEMBEER 25 1642
+	isaac_newton	who did newton see as the master creator?	GOD
+	isaac_newton	interaction with what man stirred up newton's interest in alchemy?	HENRY MORE
+	isaac_newton	what principles did newton explain for mechanics?	IN MECHANICS NEWTON ENUNCIATED THE PRINCIPLES OF CONSERVATION OF MOMENTUM AND ANGULAR MOMENTUM
+	isaac_newton	did newton reject the church's doctrine of the trinity?	MAYBE
+	isaac_newton	was newton admitted into havard college?	MAYBE BUT IT DOESN'T SAY SO IN THE ARTICLE
+	isaac_newton	how many laws of motion did netwon have?	THREE
+	isaac_newton	was newton a english physicist?	YES
+	isaac_newton	when was the principia published?	1687
+	isaac_newton	what food gave isaac newton clues to his theory of gravity?	APPLE
+	isaac_newton	where was isaac newton born?	AT WOOLSTHORPE MANOR IN WOOSTHORPE BY COLSTERWORTH
+	isaac_newton	who shares credit with isaac newton for developing calculus?	GOTTFRIED LEIBNIZ
+	isaac_newton	what religion did isaac newton follow?	HE NEVER MADE A PUBLIC DECLARATION OF HIS PRIVATE FAITH
+	isaac_newton	did the occult influence newton's theory of gravitation?	IF NEWTON HAD NOT RELIED ON THE OCCULT IDEA OF ACTION AT A DISTANCE HE MIGHT NOT HAVE DEVELOPED HIS THEORY OF GRAVITY
+	isaac_newton	when did isaac newton discover the generalized binomial theorem?	IN 1665
+	isaac_newton	which fruit inspired isaac newton's theory of gravitation?	ISAAC NEWTON'S THEORY OF GRAVITATION WAS INSPIRED BY WATCHING THE FALL OF AN APPLE FROM A TREE
+	isaac_newton	was isaac newton religious?	IT IS NOT CLEAR
+	isaac_newton	were newton's religious views consistent with anglicanism?	NO A CONFLICT BETWEEN NEWTON'S RELIGIOUS VIEWS AND ANGLICAN ORTHODOXY WAS AVERTED
+	isaac_newton	did isaac newton die in 1898?	NO NEWTON DIED IN HIS SLEEP IN LONDON ON 31 MARCH 1727
+	isaac_newton	where is there a newton statue on display?	OXFORD UNIVERSITY MUSEUM OF NATURAL HISTORY
+	isaac_newton	where was isaac newton buried?	WESTMINSTER ABBEY
+	isaac_newton	did he build the first practical reflecting telescope?	YES
+	isaac_newton	"was isaac newton educated at the king's schol, grantham?"	YES
+	isaac_newton	was sir isaac newton an english physicist and mathematician?	YES
+	isaac_newton	was isaac newton british?	YES HE WAS ENGLISH
+	jackson_pollock	who was a farmer and later a land surveyor for the government?	LEROY POLLOCK WAS A FARMER AND LATER A LAND SURVEYOR FOR THE GOVERNMENT
+	jackson_pollock	when were his papers donated by lee krasner?	IN 1983
+	jackson_pollock	"who used hardened brushes, sticks,?"	JACKSON POLLOCK USED HARDENED BRUSHES STICKS
+	jackson_pollock	"regarding this topic, what did david alfaro siqueiros do?"	POLLOCK WAS INTRODUCED TO THE USE OF LIQUID PAINT IN 1936 AT AN EXPERIMENTAL WORKSHOP OPERATED IN NEW YORK CITY BY THE MEXICAN MURALIST DAVID ALFARO SIQUEIROS
+	jackson_pollock	give an example of the origins of the term action painting. 	POLLOCK'S TECHNIQUE OF POURING AND DRIPPING PAINT IS THOUGHT TO BE ONE OF THE ORIGINS OF THE TERM ACTION PAINTING
+	jackson_pollock	was he regarded as a mostly reclusive artist?	YES HE WAS REGARDED AS A MOSTLY RECLUSIVE ARTIST
+	jackson_pollock	was paul jackson pollock an influential american painter as well as a major figure in the abstract expressionist movement?	YES POLLOCK WAS AN INFLUENTIAL AMERICAN PAINTER AND A MAJOR FIGURE IN THE ABSTRACT EXPRESSIONIST MOVEMENT
+	jackson_pollock	did free jazz feature a pollock painting as its cover artwork?	YES
+	jackson_pollock	"during his lifetime, did pollock enjoy considerable fame and notoriety?"	YES
+	jakarta	why does jakarta suffer frequent flooding?	BECAUSE IT IS LOCATED APPROXIMATELY EIGHT METERS ABOVE THE SEA LEVEL
+	jakarta	what is the official name of jakarta?	DAERAH KHUSUS IBUKOTA JAKARTA
+	jakarta	who created monas park	DUTCH GOVERNOR GENERAL HERMAN WILLEM DEANDELS
+	jakarta	how is the city's governor chosen?	ELECTION
+	jakarta	what contributes to frequent flooding in jakarta	IT LIES ON A PLAIN APPROXIMATELY EIGHT METERS ABOVE THE SEA LEVEL
+	jakarta	what is the capital of indonesia?	JAKARTA
+	jakarta	how is the climate in the city?	JAKARTA HAS A HOT AND HUMID EQUATORIAL/TROPICAL CLIMATE
+	jakarta	"in 1602, the british east india company's first voyage, commanded by sir who, arrived in aceh and sailed on to banten where they were allowed to build a trading post?"	JAMES LANCASTER
+	jakarta	"in ad 39, king purnawarman established sunda pura as a new capital city for the kingdom, located at the northern coast of where?"	JAVA
+	jakarta	who began control of migration to the city in order to stem the overcrowding and poverty?	LIEUTENANT GENERAL ALI SADIKIN BEGAN CONTROL OF MIGRATION TO THE CITY IN ORDER TO STEM THE OVERCROWDING AND POVERTY
+	jakarta	do mikrolets travel on the main roads?	NO
+	jakarta	where is jakarta located	NORTHWEST COAST OF JAVA
+	jakarta	where does the name of the city jakarta come from?	"THE NAME JAKARTA IS DERIVED FROM THE SANSKRIT WORD ""JAYAKARTA """
+	jakarta	give an example of the many sukarno era monuments in the city. 	THE WEST IRIAN LIBERATION STATUE IS ONE OF THE MANY SUKARNO ERA MONUMENTS IN THE CITY
+	jakarta	did jayawikarta's soldiers attack the dutch fortress?	YES
+	jakarta	did suharto resign as president?	YES
+	jakarta	did the economy improve in jakarta in 2007	YES
+	jakarta	do other landmarks include the istiqlal mosque as well as jakarta cathedral?	YES
+	jakarta	is jakarta a city	YES
+	jakarta	is jakarta the 12th largest city in the world?	YES
+	jakarta	is the most important river the ciliwung river	YES
+	jakarta	is the the biggest university in jakarta the university of indonesia	YES
+	jakarta	is the wisma building the tallest building in indonesia?	YES
+	jakarta	is there a chinese community in jakarta?	YES
+	jakarta	was the jakarta area part of the fourth century indianized kingdom of tarumanagara?	YES
+	jakarta	"is jakarta the country's economic, cultural and political center?"	YES
+	james_monroe	in which years were john monroe elected as president?	1817 1825
+	james_monroe	what is monroe doctrine?	A DOCTRINE DECLARING U S OPPOSITION TO EUROPEAN INTERFERENCE IN THE AMERICAS
+	james_monroe	what was the result of the rejection of the jay treaty?	AS A RESULT THE TWO NATIONS MOVED CLOSER TOWARD THE WAR OF 1812
+	james_monroe	where was james monroe shot?	AT THE BATTLE OF TRENTON IN HIS LEFT SHOULDER
+	james_monroe	when did james monroe introduce the monroe doctrine?	DECEMBER 2 1823
+	james_monroe	who did james monroe marry?	ELIZABETH KORTRIGHT
+	james_monroe	who was john monroe standing behind in the painting of  washington crossing the delaware?	GEORGE WASHINGTON
+	james_monroe	what did james monroe do before being elected governor?	HE PRACTICED LAW
+	james_monroe	who did james monroe live with in new york city?	HIS DAUGHTER MARIA HESTER MONROE GOUVERNEUR
+	james_monroe	what is the first word on the page?	JAMES
+	james_monroe	when did james monroe die?	JULY 4 1831
+	james_monroe	who dismantled partisan and sectional coalitions ?	MANY CONGRESSMEN
+	james_monroe	when did monroe's presidency expired?	MARCH 4 1825
+	james_monroe	what is monroe's daughter's name?	MARIA HESTER MONROE GOUVERNEUR
+	james_monroe	who is depicted holding the flag in the famous painting of washington crossing the delaware?	MONROE
+	james_monroe	"what does ""era of good feelings"" refers to?"	"MONROE ALLOWED HIS POLITICAL BASE TO DECAY WHICH REDUCED TENSIONS AND LED TO THE NAMING OF HIS ERA AS THE ""ERA OF GOOD FEELINGS"""
+	james_monroe	which property did james monroe sell in 1817?	MONROE HILL ON THE GROUNDS OF THE UNIVERSITY OF VIRGINIA
+	james_monroe	what happened in 1811?	MONROE RETURNED TO THE VIRGINIA HOUSE OF DELEGATES AND WAS ELECTED TO ANOTHER TERM AS GOVERNOR OF VIRGINIA
+	james_monroe	what happened in the election of 1816?	MONROE WAS ELECTED PRESIDENT
+	james_monroe	when was james monroe elected president?	MONROE WAS ELECTED PRESIDENT IN THE ELECTION OF 1816 AND RE ELECTED IN 1820
+	james_monroe	what expired on march?	MONROE'S PRESIDENCY
+	james_monroe	was monroe anticlerical?	NO
+	james_monroe	what did james monroe's letters not contain?	NO LETTERS SURVIVE IN WHICH HE MIGHT HAVE DISCUSSED HIS RELIGIOUS BELIEFS
+	james_monroe	what is monroe's father's name?	SPENCE
+	james_monroe	"what dwindled and eventually died out, starting with the hartford convention?"	THE FEDERALIST PARTY
+	james_monroe	what did james monroe make in 1817?	TWO LONG TOURS
+	james_monroe	where was james monroe born?	WESTMORELAND COUNTY VIRGINIA
+	james_monroe	is james monrow the fifth president of us?	YES
+	james_monroe	did monroe' wedding happen at the trinity church in new york?	YES
+	james_monroe	was james monroe president of the united states?	YES
+	james_monroe	did james monroe attend the college of william and mary?	YES
+	james_monroe	did james monroe fight in the continental army?	YES
+	james_monroe	is it true that he practiced law in fredericksburg?	YES
+	james_monroe	was monroe appointed minister to france from 1794 to 1796?	YES
+	james_monroe	had monroe racked up many debts during his years of public life ?	YES
+	james_watt	who died in childbirth in 1772?	MARGARET MILLER
+	james_watt	who died in 1832?	MARGARET MILLER
+	james_watt	"four years after opening his shop , watt began what?"	WATT BEGAN TO EXPERIMENT WITH STEAM AFTER HIS FRIEND PROFESSOR JOHN ROBISON CALLED HIS ATTENTION TO IT
+	james_watt	"is watt commemorated by statuary in george square, glasgow and princes street, edinburgh?"	YES
+	james_watt	"was watt a gentleman, greatly respected by other prominent men of the industrial revolution?"	YES
+	james_watt	was watt a fellow of the royal society of edinburgh and the royal society of london?	YES
+	james_watt	was watt ranked 22nd in michael h. hart 's list of the most influential figures in history ?	YES
+	james_watt	for how many years of james watt's life was his mother alive?	17 YEARS
+	james_watt	in what year did james travel to lodon to study instrument-making?	1753
+	james_watt	james watt ranked first among how many people in charles murray's survey of historiometry?	229
+	james_watt	how many of james watt's children did not live to adulthood?	3
+	james_watt	what was the name of james watt's mother?	AGNES MUIRHEAD
+	james_watt	james watt was born where?	GREENOCK A SEAPORT ON THE FIRTH OF CLYDE
+	james_watt	james watt's improvements of what were fundamental to the changes wrought by the industrial revolution?	STEAM ENGINE
+	james_watt	what is james watt most famous for?	STEAM ENGINE
+	james_watt	where did watt attend university?	HE DID NOT ATTEND A UNIVERSITY
+	james_watt	what did he invent?	HE INVENTED A NEW METHOD OF MEASURING DISTANCES BY TELESCOPE A DEVICE FOR COPYING LETTERS IMPROVEMENTS IN THE OIL LAMP A STEAM MANGLE AND A MACHINE FOR COPYING SCULPTURES
+	james_watt	what was james watt's father's job?	HIS FATHER WAS A SHIPWRIGHT SHIP OWNER AND CONTRACTOR AND SERVED AS THE TOWN'S CHIEF BAILLIE
+	james_watt	when did watt retire?	IN 1800
+	james_watt	where is the james watt memorial college?	IN GREENOCK
+	james_watt	is james watt french?	NO
+	james_watt	is there a statue of watt in the white house?	NO
+	james_watt	why is the watt named after watt?	THE WATT IS NAMED AFTER HIM FOR HIS CONTRIBUTIONS TO THE DEVELOPMENT OF THE STEAM ENGINE
+	james_watt	did james watt improve an engine?	YES
+	japanese_language	do most japanese people employ politeness?	YES
+	japanese_language	is it true that japanese borrowed a considerable number of words?	YES
+	japanese_language	are the several dialects of kagoshima famous to speakers?	YES
+	john_adams	when did john adams serve as vice president?	1789 1797
+	john_adams	what happened in 1764?	ADAMS MARRIED ABIGAIL SMITH
+	john_adams	"the john adams library , housed at the boston public library , contains what?"	ADAMS'S PERSONAL COLLECTION OF MORE THAN 3 500 VOLUMES
+	john_adams	what did jefferson call john adams?	COLOSSUS OF INDEPENDENCE
+	john_adams	adams ' opponents were what?	DEMOCRATIC REPUBLICANS
+	john_adams	what information did he record in his diary?	DESCRIPTIONS OF EVENTS AND OMPRESSIONS OF MEN
+	john_adams	what was adams' political party?	FEDERALIST
+	john_adams	in what ways was adams opposed by anderw hamilton?	HAMILTON WANTED TO CONTROL THE ARMY DIFFERENTLY THAN ADAMS
+	john_adams	who was defeated for re-election in the`` revolution of 1800'' by thomas jefferson?	JOHN ADAMS
+	john_adams	who represented the continental congress in europe?	JOHN ADAMS
+	john_adams	who did massachus08_setts send in 1774?	JOHN ADAMS
+	john_adams	what is now part of adams national historical park?	JOHN ADAMS' BIRTHPLACE
+	john_adams	did john adams get along with alexander hamilton?	NO
+	john_adams	did john adams support the stamp act of 1765?	NO
+	john_adams	"did the election of 1800 not become a bitter and volatile battle , with each side expressing extraordinary fear of the other party and its policies ?"	NO
+	john_adams	with what party did adams run for presidency?	THE FEDERALIST PARTY
+	john_adams	who were the midnight judges?	THEY WERE A SERIES OF JUDGES SO CALLED BECAUSE MOST OF THEM WERE FORMALLY APPOINTED DAYS BEFORE ADAMS' PRESIDENTIAL TERM EXPIRED
+	john_adams	who was on the committee with adams to draft  a declaration of independence?	THOMAS JEFFERSON BENJAMIN FRANKLIN ROBERT R LIVINGSTON AND ROGER SHERMAN
+	john_adams	where is adams buried?	UNITED FIRST PARISH CHURCH
+	john_adams	did john adams represent the continental congress in europe?	YES
+	john_adams	was adams raised congregationalist?	YES
+	john_adams	was adams an opponent of the stamp act?	YES
+	john_adams	was adams the first to introduce a bicameral legislature?	YES
+	john_adams	did john adams go to harvard? 	YES
+	john_adams	is adams' birthplace part of a national park?	YES
+	john_adams	is it true that adams had spent some time as the ambassador?	YES
+	john_adams	is it true that massachus08_setts sent him in 1774?	YES
+	john_adams	"are his last words often quoted as "" thomas jefferson survives "" . ?"	YES
+	korean_language	about how many koreans speakers are there?	78 MILLION
+	korean_language	what is another term for korean adjectives?	"ADJECTIVES ARE ALSO KNOWN AS ""DESCRIPTIVE VERBS"" OR ""STATIVE VERBS"""
+	korean_language	why may english translation of koreans adjectives misleadingly suggest that they are verbs?	ENGLISH DOES NOT HAVE AN IDENTICAL GRAMMATICAL CATEGORY
+	korean_language	is modern korean written in columns or rows?	IT IS WRITTEN IN ROWS
+	korean_language	what is the official language of north korea?	KOREAN
+	korean_language	from which languages is korean descended?	KOREAN IS DESCENDED FROM OLD KOREAN MIDDLE KOREAN AND MODERN KOREAN
+	korean_language	"older english sources used the name ""korean"" to refer to what?"	LANGUAGE COUNTRY AND PEOPLE
+	korean_language	where do the majority of loanwords other than sino-korean come from?	MODERN TIMES
+	korean_language	do chinese and japanese have spaces between words?	NO CHINESE AND JAPANESE DO NOT HAVE SPACES BETWEEN WORDS
+	korean_language	what percentage of the korean language does jeong jae-do estimate to be sino-korean?	SINO KOREAN MAKES UP 30% OF THE KOREAN LANGUAGE
+	korean_language	is the dialect spoken in jeju located in fact classified as a different language by all korean linguists?	THE DIALECT SPOKEN IN JEJU IS IN FACT CLASSIFIED AS A DIFFERENT LANGUAGE BY SOME KOREAN LINGUISTS
+	korean_language	how many parts of speech does the korean language contain?	THE KOREAN LANGUAGE CONTAINS NINE PARTS OF SPEECH
+	korean_language	what is the sino-korean system of numbers based on?	THE SINO KOREAN SYSTEM IS NEARLY ENTIRELY BASED ON THE CHINESE NUMERALS
+	korean_language	how many korean speakers are there?	THERE ARE ABOUT 78 MILLION KOREAN SPEAKERS
+	korean_language	how many verb paradigms are there in korean?	THERE ARE SEVEN VERB PARADIGMS OR SPEECH LEVELS IN KOREAN
+	korean_language	are all dialects of korean similar to each other?	YES
+	korean_language	is it also one of the two official languages in the yanbian korean autonomous prefecture in china?	YES
+	korean_language	is korean the official language of korea?	YES
+	korean_language	"is the word ""korean"" derived from goryeo?"	YES
+	korean_language	are the korean names for the language based on the names for korea used in north as well as south korea?	YES
+	korean_language	are there seven verb paradigms or speech levels in korean?	YES
+	korean_language	is it not also one of the two official languages of the yanbian korean autonomous prefecture in china?	YES
+	korean_language	is modern korean written with spaces between words?	YES
+	kuala_lumpur	how many seasons does kuala lumpur experience?	1
+	kuala_lumpur	what is the city's population?	1 6 MILLION
+	kuala_lumpur	what's the population of kuala lumpur?	1 6 MILLION
+	kuala_lumpur	how long was kuala lumpur occupied by the japanese?	42 MONTHS
+	kuala_lumpur	what language do they speak in kuala lumpur?	BAHASA MELAYU
+	kuala_lumpur	"after the 2008 elections, what party had the most parliament seats?"	DAP
+	kuala_lumpur	when did kuala lumpur become a federal territory of malaysia?	FEBRUARY 1 1974
+	kuala_lumpur	what is the official religion in the country?	ISLAM
+	kuala_lumpur	what is the name of the event that draws the worlds top riders to malaysia?	KL GRAND PRIX CSI 5*
+	kuala_lumpur	what airports does kuala lumpur have?	KUALA LUMPUR INTERNATIONAL AIRPORT AND SUBANG INTERNATIONAL AIRPORT
+	kuala_lumpur	"what does the name ""kuala lumpur"" mean?"	"MUDDY CONFLUENCE ""MUDDY ESTUARY "" AND ""MUDDY CITY"""
+	kuala_lumpur	is the central market located in the proximity of the pertama complex?	NO
+	kuala_lumpur	is there a more industrialized region in malaysia?	NO
+	kuala_lumpur	when were the colonial buildings in kuala lumpur constructed?	TOWARD THE END OF THE 19TH AND EARLY 20TH CENTURIES
+	kuala_lumpur	is it a host city for the formula one world championship?	YES
+	kuala_lumpur	is it home to the parliament of malaysia?	YES
+	kuala_lumpur	is kuala lumpur in the selangor state?	YES
+	kuala_lumpur	is kuala lumpur the capitol of malaysia? disfluent	YES
+	leonardo_da_vinci	"when did baldassare castiglione, author of il cortegiano ( "" the courtier "" ), write?"	1528
+	leonardo_da_vinci	is the larger work now almost universally attributed to leonardo?	ALTHOUGH PREVIOUSLY ATTRIBUTED TO GHIRLANDAIO THE LARGER WORK IS NOW ALMOST UNIVERSALLY ATTRIBUTED TO LEONARDO
+	leonardo_da_vinci	when did he flee to venice?	IN 1499
+	leonardo_da_vinci	who left verroccio's studio?	LEONARDO DA VINCI LEFT VERROCCIO'S STUDIO
+	leonardo_da_vinci	was leonardo a contemporary of botticelli domenico ghirlandaio as well as perugino?	LEONARDO WAS A CONTEMPORARY OF BOTTICELLI DOMENICO GHIRLANDAIO AND PERUGINO
+	leonardo_da_vinci	wasn't leonardo da vinci valued as an engineer?	NO
+	leonardo_da_vinci	"according to art historian helen gardner, were the scope and depth of his interests without precedent and ``his mind and personality seem to us superhuman, the man himself mysterious and remote''?"	YES
+	leonardo_da_vinci	"has leonardo often been described as the archetype of the renaissance man, a man whose unquenchable curiosity was equaled only by his powers of invention?"	YES
+	leonardo_da_vinci	wasn't leonardo da vinci born on april 15?	YES LEONARDO DA VINCI WAS BORN ON APRIL 15
+	leonardo_da_vinci	is he widely considered to be one of the greatest painters of all time and perhaps the most diversely talented person ever to have lived?	YES
+	leopard	how much does a leopard weigh?	BECAUSE OF AMBIGUITY 28 90KG
+	leopard	is the leopard an old world mammal?	
+	leopard	how long is a leopard's tail?	60 TO 110CM
+	leopard	what may a leopard be mistaken for?	A CHEETAH OR A JAGUAR
+	leopard	what is a hybrid animal resulting from a union between a leopard and a puma?	A PUMAPARD
+	leopard	how does the distribution size of the leopard compare to the distribution of other wild cats?	AS OF 1996 THE LEOPARD HAD THE LARGEST DISTRIBUTION OF ANY WILD CAT ALTHOUGH POPULATIONS BEFORE AND SINCE HAVE SHOWN A DECLINING TREND AND ARE FRAGMENTED OUTSIDE OF SUBSAHARAN AFRICA
+	leopard	what are dark leopards known as colloquially?	BLACK PANTHERS
+	leopard	how did early naturalists distinguish between leopards and panthers?	BY THE LENGTH OF THE TAIL PANTHERS HAVING LONGER TAILS THAN LEOPARDS
+	leopard	what shape are a leopard's black ros08_settes in east africa?	CIRCULAR
+	leopard	"what was one of the many species described in linnaeus's 18th-century work, systema naturae?"	FELIS PARDUS
+	leopard	where do leopards often hide their kills?	IN DENSE VEGETATION
+	leopard	what sort of cats are solitary?	LEOPARDS
+	leopard	are leopards circular?	NO
+	leopard	felis pardus was what?	ONE OF THE MANY SPECIES DESCRIBED IN LINNAEUS'S 18TH CENTURY WORK SYSTEMA NATURAE
+	leopard	where is the leopard distributed?	SOUTHERN EURASIA AND AFRICA
+	leopard	what is the difference between leopards and cheetahs?	THE LEOPARD HAS ROS08_SETTES RATHER THAN CHEETAH'S SIMPLE SPOTS AND THE LEOPARD IS LARGER AND LESS LANKY THAN THE CHEETAH
+	leopard	what centred in sierra?	THE LEOPARD MEN
+	leopard	what resembles that of the similarly-sized cougar in the americas?	THE LEOPARD'S ECOLOGICAL ROLE
+	leopard	is the leopard smaller than the other members of panthera?	YES
+	leopard	is a leopard larger and less lanky than a cheetah?	YES
+	leopard	are large pythons potential prey for leopards?	YES
+	leopard	is the leopard of the felidae family?	YES
+	leopard	is the leopard one of the four 'big cats'?	YES
+	leopard	does a male leopard weigh more than a female leopard?	YES
+	leopard	is the leopard solitary?	YES
+	leopard	has the new zealand rugby league featured the otahuhu leopards and then the tamaki leopards ?	YES
+	leopard	were the leopard men a west african secret society who practised cannibalism ?	YES
+	leopard	was the leopard tank a german designed tank which entered service in 1965 ?	YES
+	leopard	is the black color heritable and caused by only one recessive gene locus ?	YES
+	leopard	"is the leopard -lrb- panthera pardus -rrb- an old world mammal of the felidae family and the smallest of the four (`` ` big cats ('' ' of the genus panthera , along with the tiger , lion , and jaguar?"	YES
+	leopard	can a panther be any of several species of large felid?	YES
+	leopard	is the leopard an agile and graceful predator?	YES
+	liechtenstein	the historical society of the principality of liechtenstein plays what?	A ROLE IN PRESERVING THE CULTURE AND HISTORY OF THE COUNTRY
+	liechtenstein	what company administers leichtenstein's railways?	AUSTRIAN FEDERAL RAILWAYS
+	liechtenstein	what is the official language of liechtenstein?	GERMAN
+	liechtenstein	what is the smallest german-speaking country in the world?	LIECHTENSTEIN
+	liechtenstein	what enjoys one of the world's highest standards of living?	LIECHTENSTEIN'S POPULATION
+	liechtenstein	is there an airport in liechtenstein?	NO
+	liechtenstein	is liechtenstein heavily urbanized?	NO
+	liechtenstein	does liechtenstein have an army?	NO
+	liechtenstein	was liechtenstein completed in november 2000?	NO
+	liechtenstein	when was liechtenstein's current constitution adopted?	Oct-21
+	liechtenstein	the state court rules what?	ON THE CONFORMITY OF LAWS WITH THE CONSTITUTION
+	liechtenstein	what roman province was liechtenstein part of?	RAETIA
+	liechtenstein	what is the national currency of liechtenstein?	SWISS FRANC
+	liechtenstein	what countries border liechtenstein?	SWITZERLAND AND AUSTRIA
+	liechtenstein	what completed in november?	THE KUNSTMUSEUM LIECHTENSTEIN
+	liechtenstein	"what happened in moravia , lower austria , silesia , and styria , though in all cases , these territories were held in fief under other more senior feudal lords?"	THE LIECHTENSTEIN DYNASTY ACQUIRED VAST SWATHS OF LAND
+	liechtenstein	what do most recognizable international company and largest employer have in common?	THEY ARE HILTI
+	liechtenstein	what percentage of liechtenstein's population is foreign-born?	TWO THIRDS
+	liechtenstein	is liechtenstein bordered by switzerland?	YES
+	liechtenstein	is liechtenstein the smallest german-speaking country in the world?	YES
+	liechtenstein	was liechtenstein part of the ancient roman province of raetia?	YES
+	liechtenstein	has leichtenstein worked to promote the county's image by prosecuting international money-laundering?	YES
+	liechtenstein	is liechtenstein doubly landlocked?	YES
+	liechtenstein	does the state court rule on the conformity of laws?	YES
+	liechtenstein	is the museum collection also the national art collection of liechtenstein ?	YES
+	liechtenstein	is there a small heliport at balzers in liechtenstein available for charter helicopter flights ?	YES
+	liechtenstein	are nationals referred to by the plural : liechtensteiners ?	YES
+	liechtenstein	"is it a winter sports resort , although it is perhaps best known as a tax haven ?"	YES
+	liechtenstein	is it a winter sports resort?	YES
+	liechtenstein	is it the smallest german-speaking country in the world?	YES
+	lima	what is a colectivo?	AUTOMOBILES THAT RENDERS EXPRESS SERVICE ON SOME MAJOR ROADS OF THE LIMA METROPOLITAN AREA
+	lima	the spanish crown named pizarro governor of what?	HEMMING
+	lima	when was lima founded?	JANUARY 18 1535
+	lima	where is the park of the reserve located?	NEAR THE DOWNTOWN AREA
+	lima	has the san lorenzo megaport project been completed?	NO
+	lima	the ideas of the enlightenment shaped the development of what?	THE CITY LIMA
+	lima	how many years ago was the lima stock exchange the most profitable in the world?	THREE
+	lima	is lima the capital of peru?	YES
+	lima	is the museum of gold in lima?	YES
+	lima	does lima have volleyball venues?	YES
+	lima	is the national university of san marcos in lima?	YES
+	lima	is rainfall very low?	YES
+	lima	is lima the capital  and  largest  city  of peru?	YES
+	lima	"is the gdp  per capita in lima $ 7,600  /  ref )?"	YES
+	lima	is it true that the ideas of the enlightenment shaped the development of the city?	YES
+	london	what had the anglo-saxons created by the 600s?	A NEW S09_SETTLEMENT CALLED LUNDENWIC
+	london	what countries did james vi of scotland unite?	ENGLAND AND SCOTLAND
+	london	what city in the uk has been subjected to bouts of terrorism?	LONDON
+	london	how did civil wars affect england during the middle ages?	LONDON REMAINED RELATIVELY UNTOUCHED
+	london	did caunte take control of the english throne in 101?	NO
+	london	over how many languages are spoken in london?	OVER 300
+	london	is london the capital of the united kingdom?	YES
+	london	does london's population draw from a wide range of religions?	YES
+	lyre	is lyre played in mordern greece?	NO
+	lyre	in which place is lyre still played?	NORTH EASTERN PARTS OF AFRICA
+	lyre	which part of the strings does the left hand touch?	THE LOWER STRINGS
+	lyre	are the strings of a classical lyre made of gut?	YES
+	lyre	does a classical lyre have a sound-chest?	YES
+	lyre	does a classical lyre have a fingerboard?	YES
+	lyre	is a guitar played with a plectrum like a lyre?	YES
+	lyre	what were the strings of a classical lyre made of?	GUT
+	lyre	where was the deepest note of the classical lyre in relation to the player's body?	IT WAS FARTHEST FROM THE PLAYER'S BODY
+	lyre	which constellation is said to resemble a lyre shape?	LYRA
+	lyre	does a standard piano have fewer strings than a harp?	NO
+	lyre	how many raised arms are extending from the sound-chest of a classical lyre?	TWO
+	lyre	does a classical lyre have a hollow body?	YES
+	lyre	is the foot pedal framework for a piano called a lyre?	YES
+	lyre	is the lyre a stringed musical instrument?	YES
+	lyre	were the recitations of the ancient greeks accompanied by lyre playing?	YES
+	malay_language	how are new words formed in malay?	AFFIXATION COMPOSITION AND REDUPLICATION
+	malay_language	do another distinguishing feature of malay ( include indonesian malay )?	ANOTHER DISTINGUISHING FEATURE OF MALAY INCLUDE INDONESIAN MALAY IS ITS USE OF MEASURE WORDS PENJODOH BILANGAN
+	malay_language	what languages has malay borrowed words from?	ARABIC SANSKRIT TAMIL PERSIAN PORTUGUESE DUTCH CERTAIN CHINESE DIALECTS AND ENGLISH
+	malay_language	what family is malay a member of?	AUSTRONESIAN FAMILY
+	malay_language	how many parts of speech are there in malay?	FOUR
+	malay_language	what language besides malay is in the austronesia language family?	MALAGASY
+	malay_language	what is the national language in malaysia?	MALAY
+	malay_language	give an example of the tributary states of the majapahit kingdom in eastern java. 	MALAYU IS AN EXAMPLE OF THE TRIBUTARY STATES OF THE MAJAPAHIT KINGDOM IN EASTERN JAVA
+	malay_language	are there many words in malay that use natural gender?	NO
+	malay_language	can speakers of modern malay understand old malay?	NO
+	malay_language	do linguists consider malay to be a single language?	NO
+	malay_language	is malay the official language of iraq?	NO
+	malay_language	is there one negation word in malay?	NO
+	malay_language	what is the basic word order in malay?	SUBJECT OBJECT VERB
+	malay_language	wasn't malay language found in sumatra?	THE MALAY LANGUAGE WAS FOUND IN SUMATRA
+	malay_language	had the language already been used as the lingua franca throughout the archipelago since the 15th century?	YES
+	malay_language	is malay an agglutinative language?	YES
+	malay_language	is malay in the austronesian family of languages?	YES
+	malay_language	is malay spoken as local dialect of ethnic malays?	YES
+	malay_language	is malay the one of the most widely spoken languages in the world?	YES
+	malay_language	was it derived from latin?	YES
+	malay_language	was malay language written using pallava?	YES
+	malay_language	could malay have originated from sumatra island?	YES
+	malay_language	wasn't malay language written using pallava?	YES
+	melbourne	when was melbourne officially declared as a city?	1847
+	melbourne	how many domestic tourists visit melbourne?	7 6 MILLION DOMESTIC VISITORS
+	melbourne	what is a resident of melbourne known as?	"A ""MELBURNIAN"""
+	melbourne	where is melbourne situated?	BOUNDARY OF THE VERY HOT INLAND AREAS AND THE COLD SOUTHERN OCEAN
+	melbourne	what religion holds majority in melbourne?	CHRISTIAN
+	melbourne	how many sister cities does the city of melbourne have?	SIX
+	melbourne	does melbourne have a large international student community?	YES
+	melbourne	is melbourne home to australia's busiest seaport?	YES
+	melbourne	is melbourne the capital and most populous city in the state of victoria?	YES
+	michael_faraday	"how many years ago was it when faraday wrote a letter to the times on the subject of the foul condition of the river thames , which resulted in an oft-reprinted cartoon in punch?"	154
+	michael_faraday	how many years ago was it when he discovered that the optical properties of gold colloids differed from those of the corresponding bulk metal?	162
+	michael_faraday	"how many years ago was it when he discovered the phenomenon that he named diamagnetism , and what is now called the faraday effect?"	164
+	michael_faraday	"how many years ago did faraday report on the first synthesis of compound make from carbon and chlorine , c 2 h 6 and c 2 h 4 ?"	189
+	michael_faraday	what did the university of oxford grant faraday?	A DOCTOR OF CIVIL LAW DEGREE HONORARY
+	michael_faraday	what do some historians of science refer to faraday as?	BEST EXPERIMENTALIST IN THE HISTORY OF SCIENCE
+	michael_faraday	what did faraday invent that is used almost universally in science laboratories?	BUNSEN BURNER
+	michael_faraday	what was michael faraday`s profession?	CHEMIST AND PHYSICIST
+	michael_faraday	what was the faraday effect first called?	DIAMAGNETISM
+	michael_faraday	who was a member of the sandemanian sect of christianity?	FARADAY
+	michael_faraday	who was made to travel outside the coach?	FARADAY
+	michael_faraday	"who died at his house at hampton court on august 25, 1867?"	FARADAY
+	michael_faraday	who was the sponsor and mentor of faraday?	JOHN 'MAD JACK' FULLER
+	michael_faraday	"who was born in newington butts, near present-day south london, england?"	MICHAEL FARADAY
+	michael_faraday	institution formed the foundation of what?	MODERN ELECTROMAGNETIC TECHNOLOGY
+	michael_faraday	what was michael faraday`s birthplace?	NEWINGTON BUTTS
+	michael_faraday	was faraday considered a gentleman?	NO
+	michael_faraday	did faraday receive an extensive formal education?	NO
+	michael_faraday	is it true that institution formed the foundation of electric motor technology?	NO
+	michael_faraday	what did joseph henry likely discover?	SELF INDUCTION
+	michael_faraday	when was michael faraday born?	SEPTEMBER 22 1791
+	michael_faraday	where did he serve two terms?	THE CHURCH OF SCOTLAND
+	michael_faraday	was michael faraday an english chemist?	YES
+	michael_faraday	was faraday a devout christian?	YES
+	michael_faraday	did faraday construct the ancestor of modern power generators?	YES
+	michael_faraday	did faraday lecture on education in 1854?	YES
+	michael_faraday	did faraday discover the chemical substance benzene?	YES
+	michael_faraday	was faraday born in england?	YES
+	michael_faraday	does the production of chemical weapons raise an ethical issue?	YES
+	michael_faraday	can you meet someone through attending a church?	YES
+	michael_faraday	was education another area  of service  for faraday?	YES
+	michael_faraday	was faraday `s  earliest  chemical  work as an assistant  to davy?	YES
+	michael_faraday	was his father member of the sandemanian sect?	YES
+	michael_faraday	was faraday christian of the small sandemanian denomination?	YES
+	michael_faraday	how many siblings did faraday have?	FARADAY HAD THREE SIBLINGS
+	michael_faraday	where is michael faraday buried?	IN THE DISSENTERS' SECTION OF HIGHGATE CEMETERY
+	michael_faraday	who was his mentor?	JOHN 'MAD JACK' FULLER
+	michael_faraday	who discovered benzene?	MICHAEL FARADAY
+	michael_faraday	where was michael faraday born?	MICHAEL FARADAY WAS BORN IN NEWINGTON BUTTS
+	michael_faraday	did he advise the british government on the production of chemical weapons for use in the crimean war?	NO
+	michael_faraday	does the charge reside on the interior of a charged conductor?	NO
+	michael_faraday	is faraday best known for his work with kinematics?	NO
+	michael_faraday	who was faraday's wife?	SARAH BARNARD
+	michael_faraday	what is the faraday effect?	THE FARADAY EFFECT IS THE PHENOMENON THAT THE PLANE OF POLARISATION OF LINEARLY POLARISED LIGHT CAN BE ROTATED BY THE APPLICATION OF AN EXTERNAL MAGNETIC FIELD ALIGNED IN THE DIRECTION THE LIGHT IS MOVING
+	michael_faraday	did albert einstein keep a photograph of faraday on his study wall?	YES
+	michael_faraday	did faraday also discover the laws of electrolysis?	YES
+	michael_faraday	did faraday discover diamagnetism?	YES
+	michael_faraday	did faraday have strong maritime interests?	YES
+	michael_faraday	did faraday marry sarah barnard?	YES
+	michael_faraday	did he discover benzene?	YES
+	michael_faraday	was he active in the area now called environmental science?	YES
+	michelangelo	when was his house demolished?	1874
+	michelangelo	when did filippo strozzi sell it to francis i?	IN 1529
+	michelangelo	wasn't michelangelo a homosexual?	IT IS NOT CLEAR
+	michelangelo	wasn't michelangelo abstemious?	MICHELANGELO WAS ABSTEMIOUS
+	michelangelo	give an example of the most renowned works of the renaissance. 	THE STATUE OF DAVID COMPLETED BY MICHELANGELO IN 1504
+	michelangelo	was michelangelos mother francesca di neri del miniato di siena?	YES
+	michelangelo	was michelangelo's output in every field during his long life prodigious?	YES
+	millard_fillmore	what is the remarkable millard fillmore?	A FAKE BIOGRAPHY BASED ON REAL EVENTS THAT HAPPENED IN FILLMORE'S LIFE
+	millard_fillmore	who did millard fillmore fall in love with?	ABIGAIL POWERS
+	millard_fillmore	how did the supporters of henry clay feel about fillmore in 1848?	ANGRY
+	millard_fillmore	did fillmore form a law partnership before or after he founded the private university of buffalo?	BEFORE
+	millard_fillmore	where was commodore matthew c. perry sent to open japan to western trade?	COMMODORE MATTHEW C PERRY SEND TO JAPAN
+	millard_fillmore	"what happened in a log cabin in summerhill , new york?"	FILLMORE WAS BORN
+	millard_fillmore	did fillmore run for president a second time?	I DON'T KNOW SEMANTIC AMBIGUITY
+	millard_fillmore	where was millard fillmore born?	IN A LOG CABIN IN SUMMERHILL NEW YORK
+	millard_fillmore	who was first apprenticed to a fuller to learn the cloth-making trade?	MILLARD FILLMORE
+	millard_fillmore	who or what fell in love with abigail powers?	MILLARD FILLMORE
+	millard_fillmore	"did millard fillmore die on march 8, 1974?"	NO
+	millard_fillmore	"was fillmore the second chancellor, a position he maintained while both vice president and president?"	NO
+	millard_fillmore	"did fillmore not turn down the honor , explaining that he had neither the `` literary nor scientific attainment '' to justify the degree ?"	NO
+	millard_fillmore	how did fillmore ascend to the presidency?	OFFICIAL WHITE HOUSE PORTRAIT OF MILLARD FILLMOREFILLMORE ASCENDED TO THE PRESIDENCY UPON THE SUDDEN AND UNEXPECTED DEATH OF PRESIDENT TAYLOR IN JULY 1850
+	millard_fillmore	what did taylor and fillmore disagree upon?	SLAVORY ISSUES
+	millard_fillmore	to whom was millard fillmore born to?	TO NATHANIEL AND PHOEBE MILLARD FILLMORE
+	millard_fillmore	who got seward elected to the senate?	WEED
+	millard_fillmore	how long after the death of his first wife did fillmore marry caroline mcintosh?	WHERE IS THE DEATH DATE OF HIS FIRST WIFE?
+	millard_fillmore	"did webster write, ""i can now sleep of nights""?"	YES
+	millard_fillmore	was the arrival of louis kossuth (exiled leader of a failed hungarian revolution) another issue that presented itself during fillmore's presidency?	YES
+	millard_fillmore	"did he die at 11:10 p.m. on march 8, 1874, of the after-effects of a stroke?"	YES
+	millard_fillmore	was millard fillmore the thirteenth president of the united states?	YES
+	millard_fillmore	"was millard fillmore born on january 7, 1800?"	YES
+	millard_fillmore	was fillmore one of the founders of the university of buffalo?	YES
+	millard_fillmore	was another primary objective of fillmore to preserve the union from the intensifying slavery debate?	YES
+	millard_fillmore	is fillmore the first of two presidents to have been an indentured servant ?	YES
+	millard_fillmore	is the comic strip mallard fillmore named after the president ?	YES
+	millard_fillmore	was fillmore the first u.s. president born after the death of a former president ?	YES
+	montreal	how many international airports does montreal have?	MONTREAL HAS TWO INTERNATIONAL AIRPORTS
+	montreal	is montreal's economy the third largest of all cities in canada?	NO MONTREAL'S ECONOMY IS THE SECOND LARGEST OF ALL CITIES IN CANADA
+	montreal	is english the language most often spoken in montreal?	NO THE LANGUAGE MOST SPOKEN IN MONTREAL IS FRENCH
+	montreal	what is the largest primarily french-speaking city in the western world?	PARIS IS THE LARGEST PRIMARILY FRENCH SPEAKING CITY IN THE WESTERN WORLD
+	montreal	what is the name of the largest church in montreal?	SAINT JOSEPH'S ORATORY IS THE LARGEST CHURCH IN MONTREAL
+	montreal	who is the mayor of montreal?	THE MAYOR IS G√?¬©RALD TREMBLAY
+	montreal	where was much of montreal's industry during the late 19th and early-to-mid 20th century?	THE SUD OUEST BOROUGH WAS HOME TO MUCH OF THE CITY'S INDUSTRY DURING THE LATE 19TH AND EARLY TO MID 20TH CENTURY
+	montreal	does montreal contain the largest church in canada?	YES
+	montreal	is the most popular sport in montreal ice hockey?	YES THE MOST POPULAR SPORT IN MONTREAL IS ICE HOCKEY
+	nairobi	give an example of the highest growth rates of any city in africa. 	THE GROWTH RATE OF NAIROBI IS CURRENTLY 6 9% AN EXAMPLE OF THE HIGHEST GROWTH RATES OF ANY CITY IN AFRICA
+	nairobi	how many trades can the nse make per day?	10 MILLION TRADES
+	nairobi	in what year was nairobi founded?	1899
+	nairobi	about how many people are estimated to live in nairobi?	3 MILLION
+	nairobi	what is the current estimated population of nairobi?	ABOUT 3 MILLION
+	nairobi	the district is bordered to the southwest by uhuru park and where?	CENTRAL PARK
+	nairobi	is central park adjacent to uhuru park?	CENTRAL PARK IS ADJACENT TO UHURU PARK
+	nairobi	when did the catholic university of eastern africa which obtain its letter of interim authority?	IN 1989
+	nairobi	give an example of the most prominent cities in africa politically and financially. 	NAIROBI IS NOW ONE OF THE MOST PROMINENT CITIES IN AFRICA POLITICALLY AND FINANCIALLY
+	nairobi	is nairobi not the capital as well as largest city of kenya?	NAIROBI IS THE CAPITAL AND LARGEST CITY OF KENYA
+	nairobi	is the current estimated population of nairobi about 6 milion?	NO
+	nairobi	how many civilians died in the 1998 u.s. embassy bombing?	OVER TWO HUNDRED
+	nairobi	which embassy in nairobi was bombed in august 1998?	THE UNITED STATES EMBASSY
+	nairobi	does the city and its surrounding area also form the nairobi province?	YES
+	nairobi	is nairobi the capital of kenya?	YES
+	nairobi	was nairobi founded in 1899?	YES
+	nairobi	"does the name ``nairobi'' come from the maasai phrase enkare nyirobi, which translates to ``the place of cool waters''?"	YES
+	nassau	what was the dead or alive 4 fighting arena modeled after?	A MAGNETIC ACCELERATOR CANNON STATION FROM HALO 2
+	nassau	what is nassau coliseum?	AN ARENA IN UNIONDALE NEW YORK USA
+	nassau	is nassau sound a body of water in maine?	NO
+	nassau	is nassau range the highest mountain range in the world?	NO
+	nassau	who was fort nassau built by?	THE DUTCH
+	nassau	was nassau placed in operation by robert fulton?	YES
+	nassau	is nassau county named after a german town?	YES
+	nassau	does the united states have a base near glasgow?	YES
+	nikola_tesla	"who was born precisely at midnight during an electrical storm , to a serbian family in the village of smiljan near gospi?Á , in the lika region of the croatian krajina in military frontier ( part of the austrian empire ) , in the present-day croatia . ?"	NIKOLA TESLA
+	nikola_tesla	are there at least two films describing tesla 's life ?	YES
+	nikola_tesla	have a number of live theatrical plays based on tesla 's life been produced and staged worldwide ?	YES
+	nikola_tesla	when did tesla demonstrate wireless communication (radio)?	1893
+	nikola_tesla	what type of current did tesla invent?	AC
+	nikola_tesla	where did tesla study electrical engineering?	AUSTRIAN POLYTECHNIC IN GRAZ
+	nikola_tesla	"who was the victor of the ""war of currents""?"	NIKOLA TESLA
+	nikola_tesla	was tesla born in the united states?	NO
+	nikola_tesla	what is the si unit measuring magnetic flux density or magnetic induction?	THE TESLA
+	nikola_tesla	did tesla study electrical engineering?	YES
+	nikola_tesla	was tesla hired by edison?	YES
+	nikola_tesla	was tesla regarded as a mad scientist?	YES
+	nikola_tesla	was nikola tesla a vegetarian?	IN HIS LATER YEARS TESLA BECAME A VEGETARIAN
+	nikola_tesla	when did tesla receive his last patent?	1928
+	nikola_tesla	when did nikola tesla appear on the cover of time magazine?	1931
+	nikola_tesla	how many siblings did nikola tesla have?	4
+	nikola_tesla	where did nikola tesla move to in 1880?	BUDAPEST
+	nikola_tesla	who became adversaries with nikola tesla?	EDISON
+	nikola_tesla	did nikola tesla die alone?	NIKOLA TESLA DIED ALONE
+	nikola_tesla	did nikola tesla use a technique called picture thinking?	NIKOLA TESLA USED A TECHNIQUE CALLED PICTURE THINKING
+	nikola_tesla	was nikola tesla close friends with mark twain?	NIKOLA TESLA WAS CLOSE FRIENDS WITH MARK TWAIN
+	nikola_tesla	was nikola tesla's mother illiterate?	NIKOLA TESLA'S MOTHER NEVER LEARNED TO READ
+	nikola_tesla	did tesla win the nobel prize?	NO
+	nikola_tesla	was tesla rich at the time of his death?	NO
+	nikola_tesla	what languages did tesla speak?	SERBIAN CZECH ENGLISH FRENCH GERMAN HUNGARIAN ITALIAN AND LATIN
+	nikola_tesla	what music group was named after tesla?	TESLA
+	nikola_tesla	"is there a monument to tesla at niagara falls, new york?"	YES
+	nikola_tesla	was tesla an american citizen?	YES
+	nikola_tesla	was tesla on the cover of time magazine?	YES
+	norman_rockwell	when was his last painting for the post published?	1963
+	norman_rockwell	"when did rockwell marry his first wife, irene o'connor,?"	IN 1916
+	norman_rockwell	who spent the next 10 years painting for look magazine?	NORMAN ROCKWELL
+	norman_rockwell	"consequently, what is not considered a ""serious painter"" by some contemporary artists, who often regard his work as bourgeois and kitsch?"	ROCKWELL
+	norman_rockwell	was rockwell also commissioned to illustrate over 40 books including tom sawyer as well as huckleberry finn?	ROCKWELL WAS ALSO COMMISSIONED TO ILLUSTRATE OVER 40 BOOKS INCLUDING TOM SAWYER AND HUCKLEBERRY FINN
+	norman_rockwell	did norman rockwell spend the winter months as artist-in-residence at otis college of art as well as design?	YES
+	norman_rockwell	"do his works enjoy a broad popular appeal in the united states, where rockwell is most famous for the cover illustrations of everyday life scenarios he created for the saturday evening post magazine over more than four decades?"	YES
+	norman_rockwell	is he also noted for his work for the boy scouts of america (bsa)?	YES
+	norman_rockwell	"are among the best-known of rockwell's works the willie gillis series, rosie the riveter (although his rosie was reproduced less than others of the day), saying grace (1951), and the four freedoms series?"	YES
+	norman_rockwell	did norman rockwell publish a total of 321 original covers for the saturday evening post over 47 years?	YES
+	octopus	how many arms does an octopus have?	AN OCTOPUS HAS FOUR PAIRS OF ARMS
+	octopus	what is an example of something an octopus learned in a research experiment?	AN OCTOPUS LEARNED TO SOLVE MAZES
+	octopus	what is the range of lifespans of the octopus?	OCTOPUSES CAN LIVE FROM SIX MONTHS TO FIVE YEARS
+	octopus	where is the mouth of an octopus?	THE MOUTH OF AN OCTOPUS IS AT THE CENTER POINT OF THE ARMS
+	octopus	around how many recognized octopus species are there?	THERE ARE AROUND 300 RECOGNIZED OCTOPUS SPECIES
+	octopus	how can an octopus defend against predators?	THEY CAN HIDE FLEE EXPEL INK OR USE CAMOUFLAGE
+	octopus	are octopus highly intelligent?	YES
+	octopus	do males use a specialized arm called a hectocotylus to insert spermatophores?	YES
+	octopus	"has an octopus a hard beak, with its mouth at the center point of the arms?"	YES
+	octopus	is octopus a common food in mediterranean cuisine as well as portuguese cuisine?	YES
+	octopus	is the collective form octopus usually reserved for animals consumed for food?	YES
+	octopus	do octopuses have two eyes and four pairs of arms?	YES OCTOPUSES HAVE TWO EYES AND FOUR PAIRS OF ARMS
+	octopus	does the octopus have a hard beak?	YES THE OCTOPUS HAS A HARD BEAK
+	octopus	does the octopus have two eyes?	YES THE OCTOPUS HAS TWO EYES
+	octopus	is the octopus a cephalopod?	YES THE OCTOPUS IS A CEPHALOPOD
+	octopus	do the octopuses in the less familiar cirrina suborder have two fins and an internal shell?	YES THE OCTOPUSES IN THE LESS FAMILIAR CIRRINA SUBORDER HAVE TWO FINS AND AN INTERNAL SHELL
+	ottawa	what is ottawa's population?	1190982
+	ottawa	"based on the average, in what year will the next small tremor occur in ottawa?"	2009
+	ottawa	what was ottawa's name in 1850?	BYTOWN
+	ottawa	what are carleton university's athletic teams called?	CARLETON RAVENS
+	ottawa	how many townships are in ottawa?	ELEVEN
+	ottawa	what's the main highway in ottawa?	HIGHWAY 417 THE QUEENSWAY
+	ottawa	where were immigrants from in the 1800s?	IRELAND
+	ottawa	who is the mayor of ottawa?	LARRY O'BRIEN
+	ottawa	what are ottawa's primary industries?	LOGGING AND LUMBER
+	ottawa	what is ottawa's junior ice hockey team?	THE OTTAWA 67'S
+	ottawa	what is ottawa's major league hockey team?	THE OTTAWA SENATORS
+	ottawa	is ottawa the capital of canada?	YES
+	ottawa	does ottawa sit on the ottowa river?	YES
+	ottawa	do small tremors occur in ottawa?	YES
+	ottawa	is ottawa colder than moscow in january?	YES
+	ottawa	is ottawa on a river?	YES
+	ottawa	does it snow in ottawa?	YES
+	ottawa	was there a cholera outbreak in 1832?	YES
+	ottawa	are there also discussions of having oc transpo light rail and sto transitway networks linking on the gatineau side of the ottawa river ?	YES
+	otter	how many species and genera does otter have?	13 SPECIES AND 7 GENERA
+	otter	how much do sea otters weigh?	30 KG ABOUT 65 POUNDS
+	otter	an otter 's den is what?	A HOLT
+	otter	how do otters keep themselves warm without blubber?	A LAYER OF AIR TRAPPED IN THEIR FUR
+	otter	how do sea otters insulate themselves?	A LAYER OF AIR TRAPPED IN THEIR FUR
+	otter	what do river otters eat?	A VARIETY OF FISH AND SHELLFISH AS WELL AS SMALL LAND MAMMALS AND BIRDS
+	otter	what is the primary item in an otter's diet?	FISH
+	otter	does otter give birth or lay egg?	GIVE BIRTH
+	otter	what is an otter's den called?	HOLT
+	otter	what drives sea otter almost to extinction?	HUMANS HUNTED THEM ALMOST TO EXTINCTION
+	otter	"what traps a layer of air, and keeps them dry and warm under water?"	LONG GUARD HAIR
+	otter	do sea otters have long muscular tails?	NO
+	otter	does the giant otter inhabit south africa?	NO
+	otter	are otters herbivores?	NO
+	otter	the collective noun romp is sometimes used for a group of what?	OTTERS
+	otter	why is the giant otter becoming increasingly rare?	POACHING HABITAT LOSS AND THE USE OF MERCURY IN ILLEGAL ALLUVIAL GOLD MINING
+	otter	what is one of the challenges of re-establishing a population of eurasian otters in the uk?	ROADKILL DEATHS
+	otter	where do sea otters live?	SEA OTTERS ENHYDRA LUTRIS LIVE ALONG THE PACIFIC COAST OF NORTH AMERICA
+	otter	why are sea otters nearly extinct?	SEA OTTERS HAVE SOME 200 000 HAIRS PER SQUARE CM OF SKIN A RICH FUR FOR WHICH HUMANS HUNTED THEM
+	otter	sea otters eat what?	SHELLFISH AND OTHER INVERTEBRATES
+	otter	how are otters playful animals?	THE SLIDE DOWN SNOWY SLOPES APPARENTLY FOR SHEER ENJOYMENT
+	otter	why otters are considered as totem animals?	THE TIME OF YEAR ASSOCIATED WITH THIS IS ALSO ASSOCIATED WITH THE AQUARIUS SIGN OF THE ZODIAC THROUGH WHICH THE SUN PASSES JANUARY 20 FEBRUARY 19
+	otter	"where does the word ""otter"" derive from?"	"THE WORD ""OTTER"" DERIVES FROM THE OLD ENGLISH WORD OTR OTOR OR OTER"
+	otter	what animals are related to otters?	WEASELS POLECATS AND BADGERS
+	otter	can otters survive in cold water?	YES
+	otter	is otter a kind of mammal?	YES
+	otter	do otters live in water?	YES
+	otter	do sea otters live along the pacific coast?	YES
+	otter	are otters totem animals?	YES
+	otter	is it true that otters eat a variety of fish?	YES
+	otter	are otters playful animals?	YES
+	otter	are otters very active?	YES
+	otter	are male otters dog-otters?	YES
+	otter	is the myth of otter 's ransom the starting point of the volsunga saga ?	YES
+	otter	"are male otters dog-otters , females are bitches and babies are cubs or pups ?"	YES
+	otter	is an otter 's den called a holt ?	YES
+	otter	"have most otters fish as the primary item in their diet , supplemented by frogs , crayfish and crabs ?"	YES
+	otter	do sea otters have a layer of fat like whales?	NO
+	otter	why are otters vulnerable to prey depletion?	PREY DEPENDENCE
+	otter	does the giant otter live in south america?	YES
+	otter	do otters have claws?	YES
+	otter	do otters eat fish?	YES
+	otter	do otters enjoy playing?	YES
+	otter	is the otter in the same family as the badger?	YES
+	pablo_picasso	when did picasso make his first trip to paris?	1900
+	pablo_picasso	what happened in 1968 through 1971?	DEVOTING HIS FULL ENERGIES TO HIS WORK PICASSO BECAME MORE DARING HIS WORKS MORE COLORFUL AND EXPRESSIVE AND FROM 1968 THROUGH 1971
+	pablo_picasso	what happened in 1838?	DON JOS√© RUIZ Y BLASCO WAS BORN
+	pablo_picasso	give an example of the most comprehensive records extant of any major artists beginnings. 	MUSEU PICASSO
+	pablo_picasso	"who was not long in finding another lover, jacqueline roque?"	PICASSO
+	pablo_picasso	is he one of the most recognized figures in 20th-century art?	YES
+	pablo_picasso	is the u.s. copyright representative for the picasso administration the artists rights society?	YES
+	pablo_picasso	"are among his most famous works the proto-cubist les demoiselles d'avignon (1907) and guernica (1937), his portrayal of the german bombing of guernica during the spanish civil war?"	YES
+	pablo_picasso	is he best known for co-founding the cubist movement and for the wide variety of styles embodied in his work?	YES
+	pablo_picasso	is in the 1996 movie surviving picasso picasso played by actor anthony hopkins?	YES
+	penguin	how tall were the tallest prehistoric penguins?	1 80 METERS
+	penguin	what is also the distance that antarctic tourists are told to keep from penguins?	3 METERS
+	penguin	what happened in a region not quite 2000 km south of the equator 35 mya?	AT LEAST ONE GIANT PENGUIN
+	penguin	how are isabelline penguins different from most penguins?	BECAUSE THEY ARE BORN WITH BROWN RATHER THAN BLACK PLUMAGE
+	penguin	how many species of penguins are there?	BETWEEN 17 AND 20 LIVING SPECIES
+	penguin	"why do penguins ""tobaggan""?"	CONSERVES ENERGY WHILE MOVING QUICKLY
+	penguin	what is the largest living species of penguin?	EMPEROR
+	penguin	why are penguins countershaded?	FOR CAMOUFLAGE
+	penguin	how much time to penguins spend on land?	HALF OF THEIR LIFE
+	penguin	are penguins astonishingly agile?	IN THE WATER THEY ARE
+	penguin	"is it not even known whether the gigantic palaeeudyptines constitute a monophyletic lineage , or whether gigantism was evolved independently in a much restricted palaeeudyptinae and the anthropornithinae ?"	IT IS NOT EVEN KNOWN
+	penguin	are penguins afraid of humans?	NO
+	penguin	do penguins have a better than average sense of hearing for birds?	NO
+	penguin	who spend half of their life on land and half in the oceans?	PENGUINS
+	penguin	"what have become flippers, useless for flight in the air?"	PENGUINS' WINGS
+	penguin	what makes penguins so agile in the water?	SMOOTH PLUMAGE PRESERVES A LAYER OF AIR ENSURING BUOYANCY WINGS ARE FLIPPERS
+	penguin	what order do penguins belong to?	SPHENISCIFORMES
+	penguin	what happens when mothers lose a chick?	"THEY SOMETIMES ATTEMPT TO ""STEAL"" ANOTHER CHICK"
+	penguin	"what is ""tobogganing""?"	TOBOGGANING IS WHEN PENGUINS SLIDE ON THEIR BELLIES ACROSS THE SNOW
+	penguin	do penguins feed on krill?	YES
+	penguin	do penguins live almost exclusively in the southern hemisphere?	YES
+	penguin	are penguins birds?	YES
+	penguin	"are penguins considered ""higher waterbirds""?"	YES
+	penguin	is it true that each penguin gets a turn in the center?	YES
+	penguin	are all penguins countershaded?	YES
+	penguin	are penguins at risk?	YES
+	penguin	"is it also possible that penguin comes from the latin pinguis , fat ?"	YES
+	penguin	have penguins an average sense of hearing for birds ?	YES
+	penguin	can larger penguins dive deep in case of need ?	YES
+	penguin	"is the smallest penguin species the little blue penguin -lrb- also known as the fairy penguin -rrb- , which stands around 40 cm tall -lrb- 16 in -rrb- and weighs 1 kg -lrb- 2.2 lb -rrb- ?"	YES
+	penguin	is the largest living species the emperor penguin -lrb- aptenodytes forsteri -rrb-?	YES
+	penguin	"is the smallest penguin species the little blue penguin -lrb- also known as the fairy penguin -rrb- , which stands around 40 cm tall -lrb- 16 in -rrb- and weighs 1 kg -lrb- 2?"	YES
+	piano	how many black keys do modern pianos have?	36
+	piano	how many total keys does a typical modern piano have?	88 KEYS
+	piano	what is the sustain pedal called?	DAMPER PEDAL
+	piano	where is irving berlin's piano located?	IN THE SMITHSONIAN MUSEUM
+	piano	is it advantageous for a grand piano's metal plate to be quite massive?	IT IS ADVANTAGEOUS FOR THE PLATE TO BE QUITE MASSIVE
+	piano	do older pianos have more keys than modern pianos?	MANY OLDER PIANOS ONLY HAVE 85 KEYS
+	piano	what are a piano's keys generally made of?	PIANO KEYS ARE GENERALLY MADE OF SPRUCE OR BASSWOOD
+	piano	what are the names of a piano's pedals?	PIANO PEDALS FROM LEFT TO RIGHT UNA CORDA SOSTENUTO AND DAMPER
+	piano	what is the middle pedal called on grand pianos?	SOSTENUTO PEDAL
+	piano	about how tall is a typical studio piano?	STUDIO PIANOS ARE AROUND 42 TO 45 INCHES TALL
+	piano	is the mechanism in an upright piano perpendicular to its keys?	THE MECHANISM IN UPRIGHT PIANOS IS PERPENDICULAR TO THE KEYS
+	piano	what kind of piano did irving berlin play?	THE TRANSPOSING PIANO
+	piano	why are upright pianos more compact?	UPRIGHT PIANOS ARE MORE COMPACT BECAUSE THE FRAME AND STRINGS ARE VERTICAL
+	piano	"are ""upright pianos"" called ""vertical pianos""?"	YES
+	piano	are pianos used in western music?	YES
+	piano	did bartolomeo cristofori invent the modern piano?	YES
+	piano	is the left-most pedal on a grand piano called the una corda?	YES
+	pierre-auguste_renoir	what happened in 1887?	"IN 1887 A YEAR WHEN QUEEN VICTORIA CELEBRATED HER GOLDEN JUBILEE AND UPON THE REQUEST OF THE QUEEN'S ASSOCIATE PHILLIP RICHBOURG HE DONATED SEVERAL PAINTINGS TO THE ""FRENCH IMPRESSIONIST PAINTINGS"" CATALOG AS A TOKEN OF HIS LOYALTY"
+	pierre-auguste_renoir	"did pierre-auguste renoir die in limoges, haute-vienne, france, the child of a working class family?"	NO
+	pierre-auguste_renoir	"what happened in the january 15, 1882?"	ON JANUARY 15 1882 RENOIR MET THE COMPOSER RICHARD WAGNER AT HIS HOME IN PALERMO SICILY
+	pierre-auguste_renoir	"as a boy, did he work in a porcelain factory where his drawing talents led to him being chosen to paint designs on fine china?"	YES
+	pierre-auguste_renoir	was pierre-auguste renoir born in limoges haute-vienne france the child of a working class family?	YES
+	pierre-auguste_renoir	have two of renoirs paintings sold for more than us0 million?	YES ANY PAINTING SELLS FOR MORE THAN $0 MILLION THOUGH
+	pierre-auguste_renoir	"as a celebrator of beauty, and especially feminine sensuality, has it been said that ``renoir is the final representative of a tradition which runs directly from rubens to watteau''?"	YES
+	pierre-auguste_renoir	is one of the best known impressionist works renoirs 1876 dance at le moulin de la galette?	YES
+	polar_bear	what is the last word on the page?	SSN 22
+	polar_bear	how heavy was the largest polar bear on record?	1002 KG 2200 LB
+	polar_bear	what is largest polar bear on record?	2200 LB
+	polar_bear	how heavy is a male polar bear?	300 600 KG 660 1320 LB
+	polar_bear	how long is polar bear's guard hair?	5 15 CM
+	polar_bear	what does a polar bear's fur provide?	A POLAR BEAR'S FUR PROVIDES CAMOUFLAGE AND INSULATION
+	polar_bear	what is actually black in color?	A POLAR BEAR'S SKIN
+	polar_bear	what is polar bear's skin color?	BLACK
+	polar_bear	what includes a lengthy justification of why this species is listed as vulnerable?	DATABASE ENTRY
+	polar_bear	garbage is what?	GARBAGE IS NOW RECYCLED OR TRANSPORTED TO THOMPSON MANITOBA
+	polar_bear	"a semi-aquatic marine mammal , the polar bear has what?"	IT HAS ADAPTED FOR LIFE ON A COMBINATION OF LAND SEA AND ICE
+	polar_bear	are studies insufficient evidence for global protection?	IT IS ARGUABLE
+	polar_bear	what insulate it against the cold?	ITS THINK BLUBBER AND FUR
+	polar_bear	what is cause of polar bear's skin diseases?	MITES OR OTHER PARASITES
+	polar_bear	do female polar bears weight more than the male?	NO
+	polar_bear	"did mitchell taylor , the nunavut government manager of wildlife research , not write a letter to the u.s. fish and wildlife service arguing that local studies are insufficient evidence for global protection at this time ?"	NO
+	polar_bear	can polar bears be seen under infrared photography?	ONLY THEIR BREATH AND MUZZLES CAN BE EASILY SEEN
+	polar_bear	what do fossil and dna evidence tell us?	THE POLAR BEAR DIVERGED FROM THE BROWN BEAR ABOUT 200 THOUSAND YEARS AGO
+	polar_bear	why polar bear is a special species?	THE WORLD CONSERVATION UNION LISTED POLAR BEARS AS A VULNERABLE SPECIES ONE OF THREE SUB CATEGORIES OF THREATENED STATUS IN MAY 2006 THEIR LATEST ESTIMATE IS THAT 7 OUT OF 19 SUBPOPULATIONS ARE DECLINING OR ALREADY SEVERELY REDUCED
+	polar_bear	how much weight do female polar bears gain during pregnancy?	THEY DOUBLE THEIR WEIGHT DURING PREGNANCY
+	polar_bear	what do with greenpeace and the natural resources defense council have in common?	THEY FILED LAWSUITS IN CALIFORNIA
+	polar_bear	the bears sometimes what?	THEY SOMETIMES HAVE PROBLEMS WITH VARIOUS SKIN DISEASES WITH DERMATITIS CAUSED SOMETIMES BY MITES OR OTHER PARASITES
+	polar_bear	is polar bear a mammal?	YES
+	polar_bear	is polar bear a carnivore?	YES
+	polar_bear	does a polar bear live in the arctic?	YES
+	polar_bear	is a polar bear white in color?	YES
+	polar_bear	is a polar bear at high risk of extinction?	YES
+	polar_bear	are polar bears excellent swimmers?	YES
+	polar_bear	is the polar bear the mascot of bowdoin college ?	YES
+	polar_bear	have thumbpolar bears been made both controversial and famous for their distinctive white fur and their habitat ?	YES
+	polar_bear	are cubs born in december without awakening the mother ?	YES
+	portuguese_language	"by 2050, what will the total population of portuguese speakers in the world be?"	335 MILLION PEOPLE
+	portuguese_language	which government established portuguese as it's third official language in order to meet the requirements to apply for full membership in the cplp?	EQUATORIAL GUINEA
+	portuguese_language	where are there small portuguese-speaking communities?	FORMER OVERSEAS COLONIES OF PORTUGAL SUCH AS MACAU AND EAST TIMOR
+	portuguese_language	in which country is portuguese the co-official language with cantonese chinese?	MACAU
+	portuguese_language	is portuguese an official language of andorra?	NO
+	portuguese_language	"give an example of the official languages of the special administrative region of macau and east timor, . "	PORTUGUESE
+	portuguese_language	"(where french has a similar phenomenon, with alveolar affricates instead of postalveolars?"	QUEBEC
+	portuguese_language	what event marked the end of the old portuguese period?	THE END OF THE OLD PORTUGUESE PERIOD WAS MARKED BY THE PUBLICATION OF THE CANCIONEIRO GERAL BY GARCIA DE RESENDE
+	portuguese_language	what are the two main groups of portuguese dialects?	THE TWO MAIN GROUPS OF DIALECTS ARE BRAZIL AND THE OLD WORLD
+	portuguese_language	does portuguese contain words from the arabic language?	YES
+	portuguese_language	does the portuguese language have its roots in the latin language?	YES
+	portuguese_language	"is it derived from the latin spoken by the romanized pre-roman peoples of the iberian peninsula (namely the gallaeci, the lusitanians, the celtici and the conii) around 2000 years ago?"	YES
+	portuguese_language	was it used as the exclusive lingua franca on the island of sri lanka for almost 350 years?	YES
+	portuguese_language	is portuguese an official language of several international organizations?	YES
+	portuguese_language	wasn't portuguese language spread by arriving roman soldiers?	YES
+	qatar	where did a suicide-bombing kill a teacher in 2005?	AT THE DOHA PLAYERS THEATRE
+	qatar	what is the arabic word for municipalities?	BALADIYAH
+	qatar	what universities are in education city?	CARNEGIE MELLON UNIVERSITY GEORGETOWN UNIVERSITY SCHOOL OF FOREIGN SERVICE TEXAS A&M UNIVERSITY VIRGINIA COMMONWEALTH UNIVERSITY AND CORNELL UNIVERSITY
+	qatar	where is qatar's telecommunication system centered?	DOHA
+	qatar	"what consists of a low, barren plain, covered with sand?"	MUCH OF THE COUNTRY
+	qatar	does qatar rank as the eighth richest country in the world per capita?	NO
+	qatar	does the native pronunciation of qatar sound like 'cutter'?	NO
+	qatar	qatar became an independent sovereign state in what year?	ON SEPTEMBER 3 1971
+	qatar	what bordered by saudi?	QATAR
+	qatar	how do qatar and the wider region relate?	QATAR IS AIMING TO BECOME A ROLE MODEL FOR ECONOMIC AND SOCIAL TRANSFORMATION IN THE REGION LARGE SCALE INVESTMENT IN ALL SOCIAL AND ECONOMIC SECTORS WILL ALSO LEAD TO THE DEVELOPMENT OF A STRONG FINANCIAL MARKET
+	qatar	who served as the headquarters and one of the main launching sites of the us invasion of iraq in 2003 ?	QATAR
+	qatar	when did qatar become an independent state?	SEPTEMBER 3 1971
+	qatar	what carried with it a tacit recognition of qatar's status as distinct from bahrain?	THE BRITISH PROTECTORATE PER COLONEL LEWIS PELLY ASKING TO NEGOTIATE WITH A REPRESENTATIVE FROM QATAR AFTER BAHRAIN'S VIOLATION OF THE 1820 ANGLO BAHRAINI TREATY
+	qatar	what happened in these positions in english?	THESE ALLOPHONES CANNOT OCCUR THERE
+	qatar	do nearly all qataris profess islam?	YES
+	qatar	can women legally drive in qatar?	YES
+	qatar	was qatar university founded in 1973?	YES
+	qatar	is qatar bordered by saudi arabia to the south?	YES
+	qatar	has qatar a modern telecommunication system centered in doha ?	YES
+	qatar	was qatar university founded in 1973 ?	YES
+	qatar	"did the qataris not choose as their negotiator the respected entrepreneur and long-time resident of doha , muhammed bin thani ?"	YES
+	qatar	will oil and gas probably remain the backbone of qatar 's economy for some time to come ?	YES
+	qatar	"has it been created with a long term perspective to support the development of qatar and the wider region , develop local and regional markets , and strengthen the links between the energy based economies and global financial markets ?"	YES
+	qatar	can these allophones not occur in these positions in english?	YES
+	qatar	"is -rrb- , officially the state of qatar -lrb- arabic (: : transliterated as dawlat qatar -rrb- , an arab emirate in southwest asia?"	YES
+	romania	what do economy and law have in common?	NOT SURE HOW TO ANSWER THIS
+	romania	what is the largest city in romania?	BUCHAREST
+	romania	how many countries in europe are bigger than romania?  	ELEVEN
+	romania	how many counties is romania divided into?	FORTY ONE
+	romania	what is the largest ethnic minority in romania?	HUNGARIANS
+	romania	what did tourism in romania attract in 2005?	INVESTMENTS WORTH 400 MILLION EUROS
+	romania	why wasn't romania neutral during world war ii?	IT RECEIVED A SOVIET ULTIMATUM
+	romania	what is the highest mountain in romania?	MOLDOVEANU PEAK
+	romania	"who was the first gymnast to score a perfect ""ten""?"	NADIA COM?¬NECI
+	romania	are there many roma in romania?	NO
+	romania	does romania share the same language with moldova?	PRACTICALLY
+	romania	why doesn't romania have a state religion?  	ROMANIA IS A SECULAR STATE
+	romania	what is the official language of romania?	ROMANIAN
+	romania	"what are approximately 42,000 years old and have been nicknamed`` john of anina''?"	THE REMAINS THE LOWER JAW OF THE OLDEST MODERN HUMAN
+	romania	does romania border hungary?	YES
+	romania	is romania a secular state?	YES
+	romania	is the president elected by popular vote?	YES
+	romania	does romania share a border with ukraine?	YES
+	romania	did romania declare neutrality during world war i?	YES
+	romania	"is it true that romania has a population of 21,698,181?"	YES
+	romania	is romania a semi-presidential unitary state?	YES
+	romania	is romania a semi-presidential democratic republic where executive functions are shared between the president and the prime minister ?	YES
+	romania	was gellu naum the leader of the surrealist movement in romania ?	YES
+	romania	was the bucharest metro only opened in 1979 ?	YES
+	romania	"is romania -lrb- , -rrb- a country in southeastern europe?"	YES
+	romania	is the romanian economy doing well?	YES
+	saint_petersburg	when was the 7th symphony premiered?	1942
+	saint_petersburg	when did the crime level become higher?	AFTER THE OCTOBER REVOLUTION
+	saint_petersburg	where do most people in urban saint petersburg live?	APARTMENTS
+	saint_petersburg	"give an example of the largest stadiums anywhere in the world, and the home to fc zenit st. petersburg in 1950-1993 and 1995. "	KIROV STADIUM NOW DEMOLISHED WAS ONE OF THE LARGEST STADIUMS ANYWHERE IN THE WORLD AND THE HOME TO FC ZENIT ST PETERSBURG IN 1950 1993 AND 1995
+	saint_petersburg	how to travel to work from the city to moscow?	ONE WAY IS THROUGH THE MOSCOW SAINT PETERSBURG RAILWAY
+	saint_petersburg	who laid down the peter and paul fortress?	PETER THE GREAT
+	saint_petersburg	what were some other names of the city?	PETROGRAD AND LENINGRAD
+	saint_petersburg	give an example of the best known symphony orchestras in the world under the leadership of conductors yevgeny mravinsky and yuri temirkanov. 	THE LENINGRAD PHILHARMONIC ORCHESTRA
+	saint_petersburg	"give an example of the longest, most destructive, and most lethal sieges of major cities in modern history. "	THE SIEGE OF LENINGRAD
+	saint_petersburg	what festival features fireworks  celebrating the end of the school year?	THE WHITE NIGHTS FESTIVAL IN SAINT PETERSBURG
+	saint_petersburg	what was made in russia's largest foundry?	THOUSANDS OF SCULPTURES AND STATUES
+	saint_petersburg	"has equestrianism been a long tradition, popular among the tsars and aristocracy?"	YES
+	saint_petersburg	has the terrain in the city been artificially raised?	YES
+	saint_petersburg	is it often called just petersburg (-rrb- and is informally known as piter (-rrb-?	YES
+	saint_petersburg	is the city named after the apostle saint peter?	YES
+	saint_petersburg	"were the city's other names petrograd (, 1914 -- 1924) and leningrad (, 1924 -- 1991)?"	YES
+	saint_petersburg	"founded by tsar peter i of russia on 27 may 1703, was it the capital of the russian empire for more than two hundred years (1713 -- 1728, 1732 -- 1918)?"	YES
+	san_francisco	when was a 43-acre mission bay campus opened?	2003
+	san_francisco	what makes san francisco among the top-ten north american destinations for conventions and conferences	A LARGE HOTEL INFRASTRUCTURE AND A WORLD CLASS CONVENTION FACILITY IN THE MOSCONE CENTER
+	san_francisco	who manages candlestick point	CALIFORNIA STATE PARK SYSTEM
+	san_francisco	what prompted the city to upgrade its building codes	EARTHQUAKES
+	san_francisco	in what year did the spanish establish a fort at the golden gate and a mission named for francis of assisi on the site?	IN 1776 THE SPANISH ESTABLISHED A FORT AT THE GOLDEN GATE AND A MISSION NAMED FOR FRANCIS OF ASSISI ON THE SITE
+	san_francisco	when did it sign on the air?	IN 1941
+	san_francisco	what is the cause of local earthquakes?	IT WAS THE SAN ANDREAS FAULT WHICH SLIPPED AND CAUSED THE EARTHQUAKES IN 1906 AND 1989
+	san_francisco	are more residents employed by small businesses than in 1977?	NO
+	san_francisco	does the de young museum house the asian art museum	NO
+	san_francisco	"the only consolidated city-county in california, does it encompass a land area of on the northern end of the san francisco peninsula, making it the second most densely populated city in the united states?"	SAN FRANCISCO
+	san_francisco	what is northern california's most widely circulated newspaper	SAN FRANCISCO CHRONICLE
+	san_francisco	how large is the population of san francisco?	SAN FRANCISCO HAS AN ESTIMATED POPULATION OF 808 976
+	san_francisco	where is san francisco?	SAN FRANCISCO IS IN CALIFORNIA
+	san_francisco	how does poverty in san francisco compare to the nation-wide average?	SAN FRANCISCO'S POVERTY RATE IS LOWER THAN THE NATIONAL AVERAGE
+	san_francisco	give an example of the ten beta world cities. 	SAN TRANCISCO
+	san_francisco	give an example of the largest two-year community colleges in the country. 	THE CITY COLLEGE OF SAN FRANCISCO
+	san_francisco	how many state parks are in san francisco?	THERE IS ONE STATE PARK IN SAN FRANCISCO
+	san_francisco	"like many larger where cities, san francisco is a minority-majority city, as non-hispanic whites comprise less than half of the population?"	U S
+	san_francisco	who laid out a street plan for the expanded s10_settlement?	WILLIAM RICHARDSON AND ALCALDE FRANCISCO DE HARO
+	san_francisco	does san francisco have a high percentage of gay and lesbian individuals?	YES
+	san_francisco	is crissy field an airfield	YES
+	san_francisco	is golden gate park the largest city park	YES
+	san_francisco	"is san francisco also the financial, cultural, and transportation center of the larger san francisco bay area, a region of 7.4 million people?"	YES
+	san_francisco	is san franscico a popular tourist destination?	YES
+	san_francisco	is the standard of living in san franciscio high?	YES
+	san_francisco	was mission bay campus opened in 2003	YES
+	san_francisco	was the university of san fransisco founded in 1855	YES
+	santiago	what is the order of santiago?	A SPANISH KNIGHTLY ORDER
+	santiago	what notable people have been named santiago?	BENITO SANTIAGO HUGO SANTIAGO JOEY SANTIAGO LILIANA SANTIAGO RAFAEL SANTIAGO MARIA SANTIAGO CABALLERO SANTIAGO CABRERA JAMES SON OF ZEBEDEE
+	santiago	what fictional stories include a main character named santiago?	GEARS OF WAR RAINBOW SIX COVERT OPERATIONS ESSENTIALS DEATH FORETOLD BY GABRIEL GARC√≠A M√°RQUEZ ERNEST HEMINGWAY'S THE OLD MAN AND THE SEA THE TELEVISION SERIES BABYLON 5 ANNE RICE'S NOVEL INTERVIEW WITH THE VAMPIRE AULO COELHO'S THE ALCHEMIST NOVEL THE TELEVISION SHOW FRIDAY NIGHT LIGHTS
+	santiago	what is the origin of the name santiago?	SANIT + IAGO JAMES
+	santiago	what is santiago?	"SANTIAGO IS SPANISH FOR ST JAMES IT IS ALSO THE NAME OF PLACES IN ARGENTINA BRAZIL CAPE VERDE CHILE COLOMBIA COSTA RICA CUBA THE DOMINICAN REPUBLIC ECUADOR GUATEMALA JAMAICA MEXICO NICARAGUA PANAMA PARAGUAY PERU THE PHILIPPINES PORTUGAL SPAIN THE UNITED STATES VENEZUELA AND THE AMAZON IT IS ALSO THE NAME OF A BASEBALL CATCHER A FILM DIRECTOR A GUITARIST AN ECONOMIST A FOOTBALLER A DJ AN ACTOR AND JAMES SON OF ZEBEDEE FICTIONAL PEOPLE WITH THIS NAME INCLUDE A CHARACTER FROM GEARS OF WAR A CHARACTER FROM CHRONICLE OF A DEATH FORETOLD A CHARACTER IN OLD MAN AND THE SEA A CHARACTER IN BABYLON 5 A CHARACTER IN INTERVIEW WITH THE VAMPIRE THE MAIN CHARACTER OF THE ALCHEMIST AND A CHARACTER ON FRIDAY NIGHT LIGHTS THERE HAS ALSO BEEN A BATTLE OF SANTIAGO DE CUBA A COUPLE OF BANDS NAMED SANTIAGO AN ORDER OF SANTIAGO AND ""SANTIAGO"" AS A SHORTENED FORM OF THE RECONQUISTA BATTLE CRY"
+	santiago	who has released an album or song named santiago?	THE CHIEFTAINS AND LOREENA MCKENNITT
+	santiago	are there any cities named santiago in the united states?	YES
+	santiago	was santiago the name of an indie/punk band?	YES
+	santiago	is santiago a name in spanish?	YES
+	santiago	is santiago the national capital of a country?	YES
+	santiago	"is santiago spanish for st. james  ( from santo ,  saint  +  iago ,  james  )?"	YES
+	santiago	is santiago spanish for st. james?	YES
+	singapore	how many people use the bus network daily?	2 78 MILLION PEOPLE
+	singapore	how many days did it take the imperial japanese army to win the battle of singapore?	6 DAYS
+	singapore	what used singapore as a strategic trading post along the spice route?	BRITISH
+	singapore	who did sir thomas stamford raffles work for?	BRITISH EAST INDIA COMPANY
+	singapore	what established a trading post on the island in 1819?	BRITISH EAST INDIA COMPANY
+	singapore	"who boasted a sizeable community of 100,000 by 1869?"	BRITISH INDIA OFFICE
+	singapore	how do reservoirs and water relate?	BY 2001 THERE WERE 19 RAW WATER RESERVOIRS 9 TREATMENT WORKS AND 14 STORAGE OR SERVICE RESERVOIRS LOCALLY TO SERVE DOMESTIC NEEDS
+	singapore	why are relations with malaysia and indonesia important?	DUE TO OBVIOUS GEOGRAPHICAL REASONS RELATIONS WITH MALAYSIA AND INDONESIA ARE MOST IMPORTANT
+	singapore	which nation invaded singapore during world war ii?	DURING WORLD WAR II THE IMPERIAL JAPANESE ARMY INVADED MALAYA CULMINATING IN THE BATTLE OF SINGAPORE
+	singapore	when did goh chok tong succeed lee as prime minister?	IN 1990 GOH CHOK TONG SUCCEEDED LEE AS PRIME MINISTER
+	singapore	how is singapore's climate characterized?	ITS CLIMATE IS CHARACTERIZED BY UNIFORM TEMPERATURE AND PRESSURE HIGH HUMIDITY AND ABUNDANT RAINFALL
+	singapore	"what does ""singa"" mean?"	LION
+	singapore	what is the mrt?	MASS RAPID TRANSIT SYSTEM
+	singapore	what is the most densely populated independent country in the world?	MONACO
+	singapore	did singapore's standard of living decrease since independence?	NO
+	singapore	did the media contribute 15.6% to singapore's gdp in 2001?	NO
+	singapore	is singapore located at the southern tip of the korean penisula?	NO
+	singapore	"does the economy not depend heavily on exports refining imported goods , especially in manufacturing ?"	NO
+	singapore	is singapore the 17th wealthiest country in the world in terms of gdp per capita?	NO
+	singapore	where did orang laut people live?	ORANG LAUT PEOPLE LIVED AROUND THE COAST RIVERS AND SMALLER ISLANDS
+	singapore	when is the first record of s08_settlement in singapore?	SECOND CENTURY AD
+	singapore	what became one of the most important commercial and military centres of the british empire?	SINGAPORE
+	singapore	where is the national orchid garden?	SINGAPORE BOTANIC GARDENS
+	singapore	"why churchill called the occupation of singapor by janpan during wwii ""britain's greatest defeat""?"	THE BRITISH WERE DEFEATED IN SIX DAYS
+	singapore	how much increase in the media's contribution to gdp is the government seeking?	THE GOVERNMENT SEEKS TO INCREASE ITS GDP CONTRIBUTION TO 3% BY 2012
+	singapore	what is the national language of singapore?	THE NATIONAL LANGUAGE OF SINGAPORE IS MALAY
+	singapore	what is the primary domestic source of water supply?	THE PRIMARY DOMESTIC SOURCE OF WATER SUPPLY IN SINGAPORE IS RAINFALL
+	singapore	what is the punishment for first-degree murder?	THERE ARE LAWS WHICH ALLOW CAPITAL PUNISHMENT IN SINGAPORE FOR FIRST DEGREE MURDER AND DRUG TRAFFICKING
+	singapore	do singaporeans enjoy squid?	YES
+	singapore	is singapore a city-state?	YES
+	singapore	has sang nila utama visited singapore?	YES
+	singapore	was lee kuan yew a successful leader of singapore?	YES
+	singapore	is it true that singapore has several long - standing disputes with malaysia?	YES
+	singapore	has singapore changi airport a network of 81 airlines connecting singapore to 185 cities in 58 countries ?	YES
+	singapore	has singapore a network of reservoirs and water catchment areas ?	YES
+	singapore	"has urbanization eliminated many areas of former primary rainforest , with the only remaining area of primary rainforest being bukit timah nature reserve ?"	YES
+	singapore	"is singapore -lrb- ; (: ; , -rrb- , officially the republic of singapore -lrb- ; (: ; , -rrb- , an island nation located at the southern tip of the malay peninsula?"	YES
+	swahili_language	has swahili no diphthongs?	NO
+	swahili_language	is a third  prefix the object  prefix?	YES
+	swahili_language	is      / ref swahili unusual among sub-saharan languages?	YES
+	swahili_language	"are vowels never reduced , regardless of stress ?"	YES
+	swahili_language	in what year did germany seize tanganyika?	1886
+	swahili_language	how does swahili time run?	FROM DAWN TO DUSK
+	swahili_language	which is the sub-saharan indigenous language with the greatest number of speakers?	HAUSA
+	swahili_language	what is the swahili word for the swahili language?	KISWAHILI
+	swahili_language	how many noun classes does swahili have?	SIXTEEN
+	swahili_language	did uganda make swahili a required subject in primary schools?	YES
+	swahili_language	is swahili a bantu language?	YES
+	swahili_language	is swahili spoken in mozambique?	YES
+	swahili_language	does swahili have dipthongs?	YES SWAHILI HAS DIPHTHONGS TYPO
+	swan	what is the irish legend of the children of lir about?	A STEPMOTHER TRANSFORMING HER CHILDREN INTO SWANS FOR 900 YEARS
+	swan	what is the polish word for swan?	≈ÅABƒôD≈∫
+	swan	what is the name of an adult female?	AN ADULT FEMALE SWAN IS CALLED A PEN
+	swan	what is the color of the australian black swan?	COMPLETELY BLACK EXCEPT FOR THE WHITE FEATHERS ON ITS WINGS
+	swan	what are young swans known as?	CYGNETS
+	swan	what is the name of young swans?	CYGNETS
+	swan	what is the sanskrit word for swan?	HAMSA OR HANSA
+	swan	is the trumpeter swan the largest bird?	IT IS THE LARGEST BIRD OF NORTH AMERICA
+	swan	"where is the word ""swan"" derived from?"	OLD ENGLISH SWAN
+	swan	which ballet by pyotr tchaikovsky is partially based on an ancient german legend about a princess who was turned into a swan?	SWAN LAKE
+	swan	"which album was the song ""the bonny swans"" from?"	THE MASK AND MIRROR
+	swan	what is the best known story about a swan?	THE UGLY DUCKLING
+	swan	does the australian black swan have white feathers on its wings?	YES
+	swan	do swans belong to the family anatidae?	YES
+	swan	can black swans swim with only one leg?	YES
+	swan	are swan birds of the family anatidae?	YES
+	swan	do swans feature strongly in mythology?	YES
+	swan	are swans and ducks birds of the same family?	YES
+	swedish_language	how many swedish speakers were reported in canada in 2001?	16915
+	swedish_language	when did the soviet military forces occupy estonia?	1944
+	swedish_language	how many letters are in the basic latin alphabet?	26
+	swedish_language	when did a standard and common language become available to all swedes?	IN THE 20TH CENTURY
+	swedish_language	does swedish use the perfect participle to form the present perfect tense?	NO
+	swedish_language	what are the differences between english and swedish pronouns?	SWEDISH PRONOUNS ARE BASICALLY THE SAME AS THOSE OF ENGLISH BUT DISTINGUISH TWO GENDERS AND HAVE AN ADDITIONAL OBJECT FORM DERIVED FROM THE OLD DATIVE FORM AS WELL AS A DISTINCT GENITIVE CASE
+	swedish_language	how does swedish language counterbalance the absence of cases?	THE LACK OF CASES IN SWEDISH IS COMPENSATED BY A WIDE VARIETY OF PREPOSITIONS
+	swedish_language	is swedish a descendant of old norse?	YES
+	taipei	when is the pacific typhoon season?	BETWEEN JUNE AND OCTOBER
+	taipei	who s10_sets up shrines?	MANY HOMES AND BUSINESS S10_SET UP SHRINES
+	taipei	what are some annual festivals in taipei?	SOME ANNUAL FESTIVALS INCLUDE TOMB SWEPING DAY THE DRAGON BOAT FESTIVAL THE GHOST FESTIVAL AND THE MID AUTUMN FESTIVAL
+	taipei	what is taipei 101?	TAIPEI 101 IS A 101 FLOOR LANDMARK SKYSCRAPER
+	taipei	what is along the city's western border?	TAIPEI HAS THE DANSHUI RIVER ALONG ITS WESTERN BORDER
+	taipei	is taipei in a valley?	TAIPEI IS IN THE VALLEYS OF THE KEELUNG AND XINDIAN RIVERS
+	taipei	what does taipei produce?	TAIPEI PRODUCES HIGH TECHNOLOGY AND HI TECH COMPONENTS
+	taipei	is the national palace museum in taipei?	YES
+	taipei	was taipei founded in the 18th century?	YES
+	theodore_roosevelt	where was theodore roosevelt born?	28 EAST 20TH STREET IN THE MODERN DAY GRAMERCY SECTION OF NEW YORK CITY
+	theodore_roosevelt	who helped to fund roosevelt's african safari?	ANDREW CARNEGIE
+	theodore_roosevelt	what was the nickname of theodore roosevelt's sister anna?	BAMIE
+	theodore_roosevelt	where was theodore roosevelt from?	GRAMERCY SECTION OF NEW YORK CITY
+	theodore_roosevelt	what did roosevelt do to improve his physical condition?	HE STARTED BOXING
+	theodore_roosevelt	did roosevelt support racial integration in schools?	HE SUPPORTED A BILL ALLOWING SCHOOL DESEGREGATION IN NEW YORK STATE
+	theodore_roosevelt	did roosevelt study biology?	HE WAS STRONG IN BIOLOGY
+	theodore_roosevelt	who was roosevelt's presidential hero?	LINCOLN WAS ROOSEVELT'S PRESIDENTIAL HERO
+	theodore_roosevelt	how did newspapers respond to roosevelt inviting brooker t. washington to dinner at the white house?	MIXING OF THE RACES ON SOCIAL OCCASSIONS
+	theodore_roosevelt	did roosevelt receive a medal of honor?	NEIN
+	theodore_roosevelt	did theodore roosevelt study judo?	NO
+	theodore_roosevelt	what was roosevelt's justification for supporting desegregation of schools in new york?	NOTING THAT HIS CHILDREN HAD BEEN EDUCATED WITH OTHER RACES AND THERE WAS NOTHING WRONG WITH IT
+	theodore_roosevelt	when did roosevelt die?	ON JANUARY 6 1919 ROOSEVELT DIED IN HIS SLEEP
+	theodore_roosevelt	why did roosevelt start boxing lessons?	TO DEAL WITH BULLIES
+	theodore_roosevelt	was thedore roosevelt  a member of the republican party?	YES
+	theodore_roosevelt	does theodore roosevelt have a brother?	YES
+	theodore_roosevelt	did theodore roosevelt go to harvard?	YES
+	theodore_roosevelt	was roosevelt's family rich?	YES
+	tiger	about how many square kilometers would be needed to house 3 female tigers?	60
+	tiger	what would a tiger do when seized by a crocodile?	A TIGER WILL STRIKE AT THE REPTILE'S EYES WITH ITS PAWS
+	tiger	what are the typical features of a tiger country?	GOOD COVER CLOSE TO WATER AND PLENTY OF PREY
+	tiger	what do tigers' powerfully built legs and shoulders allow tigers to do?	HAVE THE ABILITY TO PULL DOWN PREY SUBSTANTIALLY HEAVIER THAN THEMSELVES
+	tiger	is the tiger a member of the felidar family?	NO
+	tiger	are panthers a type of tiger?	NO
+	tiger	are tigers solitary animals?	YES
+	tiger	would it be common for tigers to mate in january?	YES
+	tiger	"would a tiger be likely to feedon smaller animals, such as mice?"	YES
+	trumpet	how does a trumpet produce sound?	BY BLOWING AIR THROUGH CLOSED LIPS
+	trumpet	did the predecessors to trumpets have valves?	NO
+	trumpet	is the bass trumpet the smallest trumpet?	NO
+	trumpet	does a trumpet have a mellower tone than a cornet?	NO
+	trumpet	what musical styles is the trumpet used in?	SKA SKA PUNK CLASSICAL JAZZ ROCK BLUES POP POLKA CUBAN MUSIC MARIACHI AND FUNK
+	trumpet	how do trumpets compensate for wolf tones?	SOMCE TRUMPETES HAVE A SLIDE MECHANISM BUILT IN TO COMPENSATE
+	trumpet	what is the most common type of trumpet?	THE B TRUMPET
+	trumpet	are trumpets constructed of brass?	YES
+	trumpet	did miles davis play the trumpet?	YES
+	trumpet	what is the earliest date of the trumpet?	1500 BC
+	trumpet	what makes a trumpet fully chromatic?	ABLE TO PLAY ALL TWELVE PITCHES OF WESTERN MUSIC
+	trumpet	what shape is a trumpet bent into?	AN OBLONG SHAPE
+	trumpet	why does the cornet have a slightly mellower tone than the trumpet?	BECAUSE IT HAS CONICAL BORES
+	trumpet	what is a trumpet constructed of?	BRASS TUBING
+	trumpet	"why do trumpets have a bright, loud sound?"	DUE TO THE CYLINDRICAL BORE
+	trumpet	what can be augmented with a fourth valve?	FLUGELHORN
+	trumpet	what happened in 1894?	"JEAN BAPTISTE ARBAN PUBLISHED ""COMPLETE CONSERVATORY METHOD FOR TRUMPET """
+	trumpet	what happened in nineteen fifty seven?	MAYNARD FERGUSON FORMED HIS OWN BAND
+	trumpet	give an example of the most influential musicians of the 20th century. 	MILES DAVIS
+	trumpet	was dizzy gillespie a famous trumpeter in 1998?	NO
+	trumpet	what are the smallest trumpets referred to as?	PICCOLO TRUMPETS
+	trumpet	what was built to play in both b and a keys?	PICCOLO TRUMPETS
+	trumpet	what trumpet was the first to be allowed in the christian church?	SLIDE TRUMPETS
+	trumpet	were slide trumpets the first trumpets allowed in the christian church?	SLIDE TRUMPETS WERE THE FIRST TRUMPETS ALLOWED IN THE CHRISTIAN CHURCH
+	trumpet	the trumpet can be confused with what close relative?	THE CORNET
+	trumpet	are pocket trumpets compact b trumpets?	YES
+	trumpet	are there several types of trumpet?	YES
+	trumpet	"are they constructed of brass tubing bent twice into an oblong shape, and are played by blowing air through closed lips, producing a ``buzzing'' sound which starts a standing wave vibration in the air column inside the trumpet?"	YES
+	trumpet	do many players use a smaller mouthpiece on the piccolo trumpet?	YES
+	trumpet	is a trumpet played by blowing air through closed lips?	YES
+	trumpet	is the most common type of trumpet the b trumpet?	YES
+	trumpet	is the trumpet constructed of brass tubing bent twice into an oblong shape?	YES
+	trumpet	is the trumpet the musical instrument with the highest register in the brass family?	YES
+	trumpet	were trumpet players heavily guarded?	YES
+	trumpet	what was maynard ferguson noted for being able to play accurately?	YES
+	trumpet	is the breeze eazy' ' method sometimes used to teach younger students?	YES
+	turkish_language	what percentage of the words in turkish vocabulary have turkish origins?	86% OF THE TURKISH VOCABULARY HAVE TURKISH ORIGINS
+	turkish_language	what was one of the results of the introduction of the new turkish alphabet?	A DRAMATIC INCREASE IN LITERACY FROM THIRD WORLD LEVELS
+	turkish_language	after what event was the turkish language association established?	AFTER THE FOUNDATION OF THE REPUBLIC OF TURKEY AND THE SCRIPT REFORM THE TURKISH LANGUAGE ASSOCIATION TDK WAS ESTABLISHED IN 1932
+	turkish_language	what are the most significant foreign contributors to turkish vocabulary?	AMONG THE MOST SIGNIFICANT FOREIGN CONTRIBUTORS TO TURKISH VOCABULARY ARE ARABIC FRENCH PERSIAN ITALIAN ENGLISH AND GREEK
+	turkish_language	"why does lewis use ""absolute case"" instead of ""nominative""?"	BECAUSE IT IS ALSO USED FOR THE INDEFINITE ACCUSATIVE
+	turkish_language	who were the orkhon inscriptions built for?	FOR THE PRINCE KUL TIGIN AND HIS BROTHER EMPEROR BILGE KHAN
+	turkish_language	when was the turkish language association founded?	IN 1928
+	turkish_language	what exception to the rules of vowel harmony do compound words have?	IN COMPOUND WORDS THE VOWELS NEED NOT HARMONIZE BETWEEN THE CONSTITUENT WORDS OF THE COMPOUND
+	turkish_language	is there a definite article in turkish language?	NO
+	turkish_language	"in turkish, which syllable usually has the stress?"	STRESS IS USUALLY ON THE LAST SYLLABLE
+	turkish_language	how many people speak turkish worldwide?	THERE ARE ROUGHLY ANOTHER 10 MILLION NATIVE SPEAKERS WORLDWIDE
+	turkish_language	what is the official language of turkey?	TURKISH IS THE OFFICIAL LANGUAGE OF TURKEY
+	turkish_language	what are the ways to join groups of nouns?	TWO NOUNS OR GROUPS OF NOUNS MAY BE JOINED IN EITHER OF TWO WAYS DEFINITE OR INDEFINITE
+	turkish_language	what are the patterns of vowel harmony?	VOWELS ARE CHARACTERISED BY TWO FEATURES FRONT/BACK AND ROUNDED/UNROUNDED
+	turkish_language	is it possible to alter the word order to stress the importance of a certain phrase?	YES
+	turkish_language	was the ottoman script replaced with a variant of the latin alphabet?	YES
+	turkish_language	is the spelling of turkish phonetic?	YES TURKISH NOW HAS AN ALPHABET SUITED TO THE SOUNDS OF THE LANGUAGE THE SPELLING IS LARGELY PHONETIC WITH ONE LETTER CORRESPONDING TO EACH PHONEME
+	turtle	are turtles a part of the flying spaghetti monster?	*SHRUG*
+	turtle	"if a turtle egg was kept warm, what would likely hatch?"	A FEMALE TURTLE
+	turtle	"these projections , called papillae , have what?"	A RICH BLOOD SUPPLY
+	turtle	what do all turtles and tortoises breathe?	AIR
+	turtle	what sort of turtles are ectothermic?	ALL OF THEM
+	turtle	what type of creatures breathe air and don't lay eggs underwater?	AMNIOTES
+	turtle	why are side-necked turtles called side-necked turtles?	BECAUSE OF THE WAY THEY WITHDRAW THEIR HEADS INTO THEIR SHELLS
+	turtle	what are deposited in holes dug into mud or sand?	EGGS
+	turtle	how often do turtles breed?	EVERY FEW YEARS OR MORE
+	turtle	where do sea turtles lay their eggs?	HOLES DUG INTO MUD OR SAND
+	turtle	what are turtle eggs covered in when they incubate?	MUD OR SAND
+	turtle	does the mother care for the young?	NO
+	turtle	do turtles lay eggs underwater?	NO
+	turtle	what do turles use to breathe in the water?	PAPILLAE
+	turtle	what suborder of turtles is extinct?	PARACRYPTODIRA
+	turtle	what suborder of turtle draws its head into its shell?	PLEURODIRA
+	turtle	what is the smallest suborder of turtles?	PLEURODIRA
+	turtle	name a turtle popularly kept as a pet.	RUSSIAN TORTOISES
+	turtle	what shape are the eggs of the larest species of turtle?	SPHERICAL
+	turtle	the eggs of the largest species are what?	SPHERICAL
+	turtle	what has been discovered about turtles organs?	THEY DO NOT BREAK DOWN
+	turtle	how do turtles reproduce?	THEY LAY EGGS
+	turtle	how many suborders are turtles divided into?	THREE
+	turtle	name four related articles for the article on turtles.	TRIASSIC ERNST HAECKEL KUNSTFORMEN DER NATUR ANIMAL
+	turtle	are turtles ectothermic?	YES
+	turtle	are turtles pets?	YES
+	turtle	do sea turtles lay eggs on dry sandy beaches?	YES
+	turtle	are pleurodira known as side-necked turtles?	YES
+	turtle	are turtle eggs leathery and soft?	YES
+	turtle	are turtles being examined for longevity genes?	YES
+	turtle	are the largest turtles aquatic?	YES
+	turtle	is aquatic respiration in australian freshwater turtles being studied?	YES
+	turtle	has this inspired genetic researchers to begin examining the turtle genome for longevity genes ?	YES
+	turtle	can turtles take many years to reach breeding age ?	YES
+	turtle	are immature sea turtles not cared for by the adults ?	YES
+	turtle	"are the pleurodira sometimes known as the side-necked turtles , a reference to the way they withdraw their heads into their shells ?"	YES
+	turtle	"does the order testudines not include both extant -lrb- living -rrb- and extinct species , the earliest known turtles being from around 215 million years ago ?"	YES
+	turtle	what do turtle eggs preared to eat consist mainly of?	YOLK
+	turtle	approximately how many species of testudines are alive today?	300
+	turtle	what was the largest ever chelonian?	ARCHELON ISCHYROS
+	turtle	where is harvesting wild turtles legal?	FLORIDA
+	turtle	can turtles spend all their time underwater?	NO
+	turtle	is the name of the upper shell of a turtle called the plastron?	NO
+	turtle	is turtle soup considered a delicacy?	NO
+	turtle	where are turtle eggs layed?	ON LAND
+	turtle	where are the only surviving giant tortoises?	SEYCHELLES AND GALœøΩPAGOS ISLANDS
+	turtle	do scutes fall away from the turtle's shell?	SOME OF THE SCUTES EVENTUALLY FALL AWAY FROM THE SHELL
+	turtle	how do turtles chew food?	TURTLES USE THEIR JAWS TO CUT AND CHEW FOOD
+	turtle	how many groups are turtles broken down into?	TWO
+	turtle	do terrestrial tortoises have short feet?	YES
+	turtle	are tortoises land based?	YES
+	turtle	are testudines the crown group of the superorder chelonia?	YES
+	turtle	do turtles breathe air?	YES
+	turtle	are harvesting wild turtles legal anywhere?	YES
+	turtle	is there a way to approximate the age of a turtle?	YES
+	ulysses_s._grant	where was grant born?	A LOG CABIN IN POINT PLEASANT CLERMONT COUNTY OHIO
+	ulysses_s._grant	"why did grant say ""damn, i had nothing to do with this batte.""?"	BECAUSE THE GENERALS UNDER HIM ACTED ON THEIR OWN
+	ulysses_s._grant	who was grant's brother in law?	FRED DENT
+	ulysses_s._grant	who achieved international fame as the leading union general in the american civil war?	GRANT
+	ulysses_s._grant	who took a hard line that reduced violence by groups like the ku klux klan?	GRANT
+	ulysses_s._grant	"who did president lincoln promote of major general in the regular army, effective july 4?"	GRANT
+	ulysses_s._grant	what happened in 1865?	HE ACCEPTED THE SURRENDER OF ROBERT E LEE
+	ulysses_s._grant	why did grant think that war was unjust?	HE ACCEPTED THE THEORY THAT IT WAS DESIGNED TO GAIN LAND OPEN TO SLAVERY
+	ulysses_s._grant	what was from pennsylvania?	HIS FATHER
+	ulysses_s._grant	what happened in recent years?	HIS REPUTATION AS PRESIDENT HAS IMPROVED
+	ulysses_s._grant	what was grant's political affiliation?	REPUBLICAN
+	ulysses_s._grant	did horace greenley lose in the presidential elections of 1872?	SI
+	ulysses_s._grant	"did grant & perkins not sell harnesses , saddles , and other leather goods and purchase hides from farmers in the prosperous galena area ?"	THEY DID
+	ulysses_s._grant	was ulysses grant a general in the american civil war?	YES
+	ulysses_s._grant	was grant's father-in-law a democrat?	YES
+	ulysses_s._grant	did ulysses win the battle of champion hill?	YES
+	ulysses_s._grant	was grant elected president as a republican?	YES
+	ulysses_s._grant	was it a two-sentence description that completely caught the essence of ulysses s. grant ?	YES
+	ulysses_s._grant	was grant 's favorite brand of bourbon whiskey old crow ?	YES
+	ulysses_s._grant	had he smoked only sporadically ?	YES
+	ulysses_s._grant	is the famous dragon gate at the entrance to the district at the corner of grant and bush street ?	YES
+	uruguay	what has many possible meanings?	WHAT?
+	uruguay	how many square kilometres of continental land is uruguay?	176 214 SQUARE KILOMETRES
+	uruguay	how much is the average income of an african woman compared to a european man?	AFRICAN WOMEN EARNS 0 65 * 0 718 = 46 67% OF A EUROPEAN MAN EARNS IN AVERAGE
+	uruguay	how much of the population is of white european descent?	APPROXIMATELY 88% OF ITS POPULATION ARE OF PREVALENTLY WHITE EUROPEAN DESCENT
+	uruguay	who founded montevideo?	BY THE SPANISH IN THE EARLY 18TH CENTURY
+	uruguay	what are poor neighborhoods called informally?	CANTEGRILES
+	uruguay	who heavily influenced the architecture and culture of montevideo?	EUROPEAN IMMIGRANTS
+	uruguay	why was the capital of uruguay founded?	FOR A MILITARY STRONGHOLD
+	uruguay	what did uruguay win in 1828?	ITS INDEPENDENCE
+	uruguay	what has uruguay done to be competitive in agriculture?	"LABELING AS ""NATURAL"" OR ""ECOLOGICAL"""
+	uruguay	what was founded by the spanish in the early 18th century as a military stronghold?	MONTEVIDEO
+	uruguay	is uruguay located in the northwesten part of africa?	NO
+	uruguay	does uruguay have cold summers?	NO
+	uruguay	does uruguay border french guiana?	NO
+	uruguay	is uruguay's warmest month june?	NO
+	uruguay	is uruguay the smallest soverign nation in south america?	NO
+	uruguay	is uruguay's landscape mountainous?	NO
+	uruguay	is uruguay very common?	NO?
+	uruguay	what religion do most uruguayans profess?	NONE
+	uruguay	how many times has uruguay won the world cup?	ON TWO OR MORE OCCASIONS
+	uruguay	what are the names of uruguay's political parties?	PARTIDO BLANCO AND PARTIDO COLORADO
+	uruguay	what does a citizen use to propose changes to the constitution?	PLEBISCITE
+	uruguay	what religions are found in uruguay?	ROMAN CATHOLIC PROTESTANT JEWISH
+	uruguay	where is uruguay's oldest church?	SAN CARLOS MALDONADO
+	uruguay	how do india and latin america relate?	URUGUAY EXPORTS ARCHITECTURAL SERVICES TO INDIA AND LATIN AMERICA
+	uruguay	is uruguay's capital montevideo?	YES
+	uruguay	is uruguay located in south america?	YES
+	uruguay	can citizens propose changes to the constitution?	YES
+	uruguay	did uruguay host the first ever world cup?	YES
+	uruguay	does uruguay recognize same-sex civil unions?	YES
+	uruguay	is the climate in uruguay temperate?	YES
+	uruguay	is the main sport in uruguay football ?	YES
+	uruguay	"is uruguay 's oldest church in san carlos , maldonado ?"	YES
+	uruguay	is uruguay a member of the cairns group of exporters of agricultural products ?	YES
+	uruguay	is it widely considered the most secular nation in latin america ?	YES
+	uruguay	"is it the second smallest independent country in south america , larger only than suriname and the french overseas department of french guiana?"	YES
+	uruguay	"is it a constitutional democracy , where the president fulfills the roles of both head of state and head of government?"	YES
+	vietnamese_language	do more northern speakers speak the southern regional dialect than southern speakers speak the northern dialect?	MORE SOUTHERN SPEAKERS SPEAK THE NORTHERN DIALECT THAN NORTHERNERS SPEAK THE SUTHERN DIALECT
+	vietnamese_language	was vietnamese influenced by chinese?	MUCH VOCABULARY HAS BEEN BORROWED FROM CHINESE
+	vietnamese_language	did vietnamese come to predominate politically in 2nd century bc?	NO CHINESE CAME TO PREDOMINATE POLITICALLY IN THE 2ND CENTURY B C
+	vietnamese_language	does vietnamese borrow from latin and greek?	NO VIETNAMESE DOES NOT BORROW FROM LATIN AND GREEK
+	vietnamese_language	how many tones do northern varieties have?	NORTHERN VIETNAMESE HAS SIX TONES
+	vietnamese_language	is the red river delta traditionally poor?	NOT COMPARED TO NGHE AN HA TINH OR QUANG BINH
+	vietnamese_language	when did written vietnamese become the official administrative language?	THE 20TH CENTURY
+	vietnamese_language	when was the reunification of vietnam?	THE REUNIFICATION OF VIETNAM OCCURRED IN 1975 76
+	vietnamese_language	what are the three dialect regions of vietnamese?	THE THREE REGIONS ARE NORTH CENTRAL AND SOUTH
+	vietnamese_language	what kind of words have been borrowed from chinese?	VIETNAMESE ADOPTS WORDS FROM CHINESE WHICH EXPRESS ABSTRACT IDEAS
+	vietnamese_language	have consonant clusters been lost?	YES
+	vietnamese_language	is vietnamese the mother tongue of the vietnamese people?	YES
+	vietnamese_language	is vietnamese the official administrative language of vietnam?	YES
+	vietnamese_language	does vietnamese have a large number of vowels?	YES VIETNAMESE HAS A COMPARATIVELY LARGE NUMBER OF VOWELS
+	vietnamese_language	was vietnamese formally written using the chinese writing system?	YES VIETNAMESE WAS *FORMERLY* WRITTEN USING THE CHINESE WRITING SYSTEM
+	vietnamese_language	does vietnamese have a comparatively large number of vowels?	YES
+	vietnamese_language	is vietnam independent from france?	YES
+	vincent_van_gogh	who frequented the circle of the british-australian artist john peter russell?	VAN GOGH
+	vincent_van_gogh	what happened in 1860?	VINCENT VAN GOGH ATTENDED THE ZUNDERT VILLAGE SCHOOL FROM 1860
+	vincent_van_gogh	"appreciated during his lifetime, did his fame grow in the years after his death?"	YES
+	vincent_van_gogh	"is today, he widely regarded as one of history's greatest painters and an important contributor to the foundations of modern art?"	YES
+	vincent_van_gogh	were the letters first annotated in 1913 by theos widow johanna van gogh-bonger?	YES
+	vincent_van_gogh	"did he suffer from anxiety and increasingly frequent bouts of mental illness throughout his life, and died largely unknown, at the age of 37, from a self-inflicted gunshot wound?"	YES
+	vincent_van_gogh	was kee seven years older than van gogh as well as had an eight-year-old son?	YES
+	violin	how many strings does a violin usually have?	4
+	violin	what is someone who makes violins called?	A LUTHIER
+	violin	what are violins made of?	DIFFERENT TYPES OF WOOD
+	violin	whate is the usual pitch range of a violin?	FROM G3 TO C8
+	violin	are violins a single size?	NO
+	violin	how long have people been making instruments like violins?	SINCE 1555
+	violin	"where does the word ""violin"" come from?"	THE MIDDLE LATIN WORD VITULA
+	violin	are violinists and fiddlers the same thing?	YES
+	violin	are violas and cellos in the same family of instruments as violins?	YES
+	violin	when did charles ix order amati to construct 24 violins for him?	1560
+	violin	what is a violin called informally?	A FIDDLE
+	violin	what is a person that makes or repairs violins called?	A LUTHIER OR SIMPLY A VIOLIN MAKER
+	violin	"regarding this topic, what did antonio stradivari do?"	ANTONIO STRADIVARI MADE VIOLINS
+	violin	who features violinist boyd tinsley?	DAVE MATTHEWS BAND FEATURES VIOLINIST BOYD TINSLEY
+	violin	"what does the ""voice"" of a violin depend upon?"	ITS SHAPE
+	violin	what were strings first made out of?	SHEEP GUT
+	violin	what does vitula mean?	STRINGED INSTRUMENT
+	violin	what happened in 1980s?	THE USE OF TRADITIONAL NON SYNTHESIZED ORCHESTRAS DECLINED
+	violin	does a violin have four strings?	YES
+	violin	is the tuning g-d-a-e used for most violin music?	YES
+	violin	is the violin a percussion instrument?	YES
+	violin	is the violin shaped like an hourglass?	YES
+	violin	is the violin supported by the left shoulder?	YES
+	violin	"is it the smallest and highest-pitched member of the violin family of string instruments, which also includes the viola and cello?"	YES IT IS THE SMALLEST AND HIGHEST PITCHED MEMBER OF THE VIOLIN FAMILY OF STRING INSTRUMENTS WHICH ALSO INCLUDES THE VIOLA AND CELLO
+	violin	"does the word ``violin'' come from the middle latin word vitula, meaning ``stringed instrument''?"	YES
+	violin	is a string first tuned to a standard pitch?	YES
+	violin	"is a violin sometimes informally called a fiddle, regardless of the type of music played on it?"	YES
+	violin	is each node at an integer division of the string?	YES
+	woodrow_wilson	when was woodrow wilson born?	DECEMBER 28 1856
+	woodrow_wilson	what caused wilson to ask congress to declare war on the central powers?	GERMAN BEGAN UNRESTRICTED SUBMARINE WARFARE
+	woodrow_wilson	what field did woodrow wilson leave law practice to study?	GOVERNMENT
+	woodrow_wilson	who was president when wilson finished congressional government?	GROVER CLEVELAND
+	woodrow_wilson	where is wilson buried?	HE WAS BURIED IN WASHINGTON NATIONAL CATHEDRAL
+	woodrow_wilson	what was scots-irish and scottish?	HIS ANCESTRY
+	woodrow_wilson	what was more damaging than moving students into colleges?	HIS CONFRONTATION WITH ANDREW FLEMING WEST
+	woodrow_wilson	"what defended slavery, owned slaves and s08_set up a sunday school for them?"	HIS FATHER
+	woodrow_wilson	who did wilson win in 1917?	IRISH AMERICANS
+	woodrow_wilson	was woodrow wilson the thirtieth president of the united states?	NO
+	woodrow_wilson	did the u.s. join the league of nations?	NO
+	woodrow_wilson	did wilson support desegregation?	NO
+	woodrow_wilson	did wilson support the committee system?	NO
+	woodrow_wilson	was wilson an automobile enthusiast?	OUAI
+	woodrow_wilson	where was the league of nations created?	PARIS
+	woodrow_wilson	what happened in 1917?	RAISED BILLIONS THROUGH LIBERTY LOANS IMPOSED AN INCOME TAX S08_SET UP THE WAR INDUSTRIES BOARD PROMOTED LABOR UNION GROWTH SUPERVISED AGRICULTURE AND FOOD PRODUCTION THROUGH THE LEVER ACT TOOK OVER CONTROL OF THE RAILROADS AND SUPPRESSED ANTI WAR MOVEMENTS
+	woodrow_wilson	where was woodrow wilson born?	STAUNTON VIRGINIA
+	woodrow_wilson	was wilson a member of the phi kappa psi fraternity?	TOTALLY \T
+	woodrow_wilson	where did wilson attend law school?	UNIVERSITY OF VIRGINIA
+	woodrow_wilson	what lived in columbia?	WILSON
+	woodrow_wilson	did wilson's father own slaves?	YEAH
+	woodrow_wilson	did woodrow wilson create the league of nations?	YES
+	woodrow_wilson	did wilson have any siblings?	YES
+	woodrow_wilson	was wilson awarded the 1919 nobel peace prize?	YES
+	woodrow_wilson	was wilson a remarkably effective writer and thinker?	YES
+	woodrow_wilson	was wilson president of the american political science association in 1910 ?	YES
+	woodrow_wilson	"did he not cast his ballot for john m. palmer , the presidential candidate of the national democratic party , or gold democrats , a short-lived party that supported a gold standard , low tariffs , and limited government ?"	YES
+	woodrow_wilson	did wilson not spend 1914 through the beginning of 1917 trying to keep america out of the war in europe ?	YES
+	woodrow_wilson	"was wilson , a staunch opponent of antisemitism , sympathetic to the plight of jews , especially in poland and in france ?"	YES
+	xylophone	what is the earliest historical reference in europe?	ARNOLD SCHLICK'S SPIEGEL DER ORGELMACHER UND ORGANISTEN
+	xylophone	how are western-style xylophones characterised?	BY A BRIGHT SHARP TONE AND HIGH REGISTER
+	xylophone	where did the xylophone originate?	INDONESIA
+	xylophone	were ancient mallets made of copper?	NO
+	xylophone	can a short bar follow a long bar?	NO
+	xylophone	are xylophone bars made of rosewood?	YES
+	xylophone	is the xylophone a precursor to the vibraphone?	YES
+	xylophone	can a xylophone be 3 octaves?	YES
+	xylophone	did vibraphones exist in 1930?	YES
+	xylophone	did the golden age of xylophones come before or after the first usage of the european-derived orchestral?	AFTER
+	xylophone	does kelon increase or decrease tone quality of the xylophone?	DECREASE
+	xylophone	some versions of xylophones have resonators made of what?	GOURDS
+	xylophone	how do the java and bali use xylophones?	IN GAMELAN ENSEMBLES
+	xylophone	was the xylophone associated with the folk music of the united states by the 19th century?	NO
+	xylophone	the xylophone is an instrument from what family?	PERCUSSION
+	xylophone	"which came first, the xylophone or the vibraphone?"	THE XYLOPHONE
+	xylophone	is the xylophone a musical instrument?	YES
+	xylophone	was it likely that the xylophone reached europe during the crusades?	YES
+	zebra	at what age can a zebra breed?	5 OR 6
+	zebra	what do zebras eat?	GRASSES SHRUBS HERBS TWIGS LEAVES AND BARK
+	zebra	what are zebras hunted for?	MAINLY FOR THEIR SKINS
+	zebra	do the different species of zebras interbreed?	NO
+	zebra	which species of zebra is known as the common zebra?	PLAINS ZEBRA
+	zebra	what areas do the grevy's zebras inhabit?	SEMI ARID GRASSLANDS OF ETHIOPIA AND NORTHERN KENYA
+	zebra	how many species of zebra are there?	THREE
+	zebra	do zebras sleep standing up?	YES
+	zebra	have plains zebras been crossed with mountain zebras?	YES
+	name	 what is my name 	maple

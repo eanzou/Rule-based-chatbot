@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1563459885 source:c:\users\eanzo\onedrive\second year degree\principles of artificial intelligence\assignment\final\main.cpp
+	<iostream>
+	<fstream>
+	<windows.h>
+	<cstdlib>
+	<string>
+	<algorithm>
+	<bits/stdc++.h>
+	<ctime>
+
